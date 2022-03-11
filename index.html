@@ -1,7 +1,57 @@
+<!DOCTYPE html>
 <html>
+
+<head>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <style>
+                html {
+                        /* Dark Mode */
+                        background-color: black;
+                        color: white;
+                }
+
+                .project {
+                        /* Column Width */
+                        width: 23%;
+                        height: 23%;
+                        margin: 1%;
+                        float: left;
+                }
+
+                .container {
+                        /* Project Image Container */
+                        position: relative;
+                        text-align: center;
+                        color: white;
+                        text-shadow: 0 0 5px black;
+                        font-weight: bold;
+                        font-family: sans-serif;
+                }
+
+                .centered {
+                        /* Project Text Container */
+                        position: absolute;
+                        top: 50%;
+                        left: 50%;
+                        transform: translate(-50%, -50%);
+                }
+
+                img {
+                        opacity: 0.5;
+                }
+        </style>
+</head>
+
 <body>
-        <a href="/kh358/index.html">Kingdom Hearts 358/2 - Full Story</a><br>
-        <a href="/kh358/diary.html">Kingdom Hearts 358/2 - Roxas's Diary Only</a><br>
-        <a href="/kh358/report.html">Kingdom Hearts 358/2 - Secret Reports Only</a><br>
+        <div class="project" title="">
+                <div class="container">
+                        <img src="./kh358/image.jpeg" style="width:100%;">
+                        <div class="centered">Kingdom Hearts 358/2 Theatre
+                                <hr>All Cutscenes, Voiced Roxas's Diary and Voiced Special Reports
+                                <hr>Chronological Order
+                        </div>
+                </div>
+        </div>
 </body>
+
 </html>

@@ -13,6 +13,10 @@
     -   Extract All Of The Folders To The SD Card
 -   Download The Latest Sigpatched (Google Them)
     -   Extract All Of The Folders To The SD Card
+-   Download the latest [Goldleaf NRO](https://github.com/XorTroll/Goldleaf/releases)
+    -   Extract The NRO File To The switch Folder
+-   Download the latest [Switch Army Knife - SAK](https://github.com/dezem/SAK/releases/)
+    -   Use This On Windows To Convert XCI/NSZ To NSP 
 
 ##  Create The emuMMC
 -   Turn off the switch
@@ -29,3 +33,17 @@
 -   Main Menu > Launch > CFW(emuMMC)
 -   Verify The Switch Is Using The emuMMC and Atmosphere
     -   Settings > System > Current Version **[xx.x.x|AMS x.x.x|E]**
+
+##  Installing NSP From USB Drive
+-   Create an NSP folder at a USB Drive
+-   Downlaod NSP Files From NSW2U
+    -   Or Download XCI/NSZ and Convert Them With SAK
+-   Launch Goldleaf On The Switch
+-   Install NSP Games From The USB Drive to The SD Card
+
+##  Installing NSP From SD Card
+-   Create an NSP folder at the SD Card Root
+-   Downlaod NSP Files From NSW2U
+    -   Or Download XCI/NSZ and Convert Them With SAK
+-   Launch Goldleaf On The Switch
+-   Install NSP Games From The SD Card to The SD Card

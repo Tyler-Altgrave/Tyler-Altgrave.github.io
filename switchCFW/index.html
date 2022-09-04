@@ -365,7 +365,53 @@ code {
           : 'default'
     });
   </script>
-<h2 id="test">test</h2>
+<h2 id="nintendo-switch-console-prep">Nintendo Switch Console Prep</h2>
+<ul>
+<li>First, initialize the console</li>
+<li>Then, format your SD card to work with your switch</li>
+<li>Next, cofigure any settings you want to carry over to the CFW</li>
+<li>Then, delete any saved internet networks and enable airplane mode</li>
+</ul>
+<h2 id="downloads-sd-card-prep">Downloads, SD Card Prep</h2>
+<ul>
+<li>Download the latest <a href="https://github.com/CTCaer/hekate/releases">Hekate Bootloader</a>
+<ul>
+<li>Copy The Bootloader Folder To The SD Card</li>
+<li>Copy The Payload .Bin To The RCMLoader over USB</li>
+</ul>
+</li>
+<li>Download the latest <a href="https://github.com/Atmosphere-NX/Atmosphere/releases">Atmosphere Firmware</a>
+<ul>
+<li>Extract All Of The Folders To The SD Card</li>
+</ul>
+</li>
+<li>Download The Latest Sigpatched (Google Them)
+<ul>
+<li>Extract All Of The Folders To The SD Card</li>
+</ul>
+</li>
+</ul>
+<h2 id="create-the-emummc">Create The emuMMC</h2>
+<ul>
+<li>Turn off the switch</li>
+<li>Insert the SD Card</li>
+<li>Insert the RCM Jig</li>
+<li>Plug in the RCMLoader</li>
+<li>Switch the RCMLoader to the blue profile (Hold +)</li>
+<li>Hold Vol + &amp; Power on the switch</li>
+<li>emuMMC &gt; Create emuMMC &gt; SD Partition &gt; Create A Backup &gt; 29 FULL</li>
+<li>emuMMC &gt; Create emuMMC &gt; SD Partition &gt; Part 1</li>
+<li>Finally, you should see the emuMMC is now &quot;Enabled!&quot;</li>
+</ul>
+<h2 id="launch-the-cfw">Launch The CFW</h2>
+<ul>
+<li>Main Menu &gt; Launch &gt; CFW(emuMMC)</li>
+<li>Verify The Switch Is Using The emuMMC and Atmosphere
+<ul>
+<li>Settings &gt; System &gt; Current Version <strong>[xx.x.x|AMS x.x.x|E]</strong></li>
+</ul>
+</li>
+</ul>
 
 </body>
 </html>

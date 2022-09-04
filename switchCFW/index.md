@@ -13,8 +13,10 @@
     -   Extract All Of The Folders To The SD Card
 -   Download The Latest Sigpatched (Google Them)
     -   Extract All Of The Folders To The SD Card
--   Download the latest [Goldleaf NRO](https://github.com/XorTroll/Goldleaf/releases)
+-   Download the latest [Goldleaf NRO + Quark.jar](https://github.com/XorTroll/Goldleaf/releases)
     -   Extract The NRO File To The switch Folder
+    -   Use Goldleaf On Switch To Install NPS's
+    -   Use Quark.jar On Windows To Install NPS's Over USB
 -   Download the latest [Lockpick_RCM Payload](https://github.com/dezem/SAK/releases/)
     -   Place the .bin file in the `/bootloader/payloads` folder
 -   Download the latest [Switch Army Knife - SAK](https://github.com/dezem/SAK/releases/)
@@ -41,6 +43,13 @@
 -   Main Menu > Launch > CFW(emuMMC)
 -   Verify The Switch Is Using The emuMMC and Atmosphere
     -   Settings > System > Current Version **[xx.x.x|AMS x.x.x|E]**
+
+##  Installing NSP From Windows
+-   Downlaod NSP Files From NSW2U
+    -   Or Download XCI/NSZ and Convert Them With SAK
+-   Launch Goldleaf On The Switch
+-   Select `Add New Path` and select the folder containing your NSP files
+-   Install NSP Games From Goldleaf using the `Remote PC (via USB)` option
 
 ##  Installing NSP From USB Drive
 -   Create an NSP folder at a USB Drive

@@ -15,6 +15,8 @@
     -   Extract All Of The Folders To The SD Card
 -   Download the latest [Goldleaf NRO](https://github.com/XorTroll/Goldleaf/releases)
     -   Extract The NRO File To The switch Folder
+-   Download the latest [Lockpick_RCM Payload](https://github.com/dezem/SAK/releases/)
+    -   Place the .bin file in the `/bootloader/payloads` folder
 -   Download the latest [Switch Army Knife - SAK](https://github.com/dezem/SAK/releases/)
     -   Use This On Windows To Convert XCI/NSZ To NSP 
 
@@ -28,6 +30,12 @@
 -   emuMMC > Create emuMMC > SD Partition > Create A Backup > 29 FULL
 -   emuMMC > Create emuMMC > SD Partition > Part 1
 -   Finally, you should see the emuMMC is now "Enabled!"
+-   
+##  Dump Yopur Switches Keys
+-   Hekate Main Menu > Payloads > Lockpick_RCM.bin
+-   If asked, select SysNAND
+-   Files will be dumped to `/switch/title.keys` & `/switch/prod.keys`
+    -   Copy these fiels to your desktop to use with SAK
 
 ##  Launch The CFW
 -   Main Menu > Launch > CFW(emuMMC)

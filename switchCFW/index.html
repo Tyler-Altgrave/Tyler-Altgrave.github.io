@@ -372,6 +372,7 @@ code {
 <li>Next, cofigure any settings you want to carry over to the CFW</li>
 <li>Then, delete any saved internet networks and enable airplane mode</li>
 </ul>
+<hr>
 <h2 id="downloads-sd-card-prep">Downloads, SD Card Prep</h2>
 <ul>
 <li>Download the latest <a href="https://github.com/CTCaer/hekate/releases">Hekate Bootloader</a>
@@ -390,24 +391,13 @@ code {
 <li>Extract All Of The Folders To The SD Card</li>
 </ul>
 </li>
-<li>Download the latest <a href="https://github.com/XorTroll/Goldleaf/releases">Goldleaf NRO + Quark.jar</a>
-<ul>
-<li>Extract The NRO File To The switch Folder</li>
-<li>Use Goldleaf On Switch To Install NPS's</li>
-<li>Use Quark.jar On Windows To Install NPS's Over USB</li>
-</ul>
-</li>
 <li>Download the latest <a href="https://github.com/dezem/SAK/releases/">Lockpick_RCM Payload</a>
 <ul>
 <li>Place the .bin file in the <code>/bootloader/payloads</code> folder</li>
 </ul>
 </li>
-<li>Download the latest <a href="https://github.com/dezem/SAK/releases/">Switch Army Knife - SAK</a>
-<ul>
-<li>Use This On Windows To Convert XCI/NSZ To NSP</li>
 </ul>
-</li>
-</ul>
+<hr>
 <h2 id="create-the-emummc">Create The emuMMC</h2>
 <ul>
 <li>Turn off the switch</li>
@@ -419,8 +409,8 @@ code {
 <li>emuMMC &gt; Create emuMMC &gt; SD Partition &gt; Create A Backup &gt; 29 FULL</li>
 <li>emuMMC &gt; Create emuMMC &gt; SD Partition &gt; Part 1</li>
 <li>Finally, you should see the emuMMC is now &quot;Enabled!&quot;</li>
-<li></li>
 </ul>
+<hr>
 <h2 id="dump-yopur-switches-keys">Dump Yopur Switches Keys</h2>
 <ul>
 <li>Hekate Main Menu &gt; Payloads &gt; Lockpick_RCM.bin</li>
@@ -431,6 +421,7 @@ code {
 </ul>
 </li>
 </ul>
+<hr>
 <h2 id="launch-the-cfw">Launch The CFW</h2>
 <ul>
 <li>Main Menu &gt; Launch &gt; CFW(emuMMC)</li>
@@ -440,17 +431,22 @@ code {
 </ul>
 </li>
 </ul>
+<hr>
 <h2 id="installing-nsp-from-windows">Installing NSP From Windows</h2>
-<ul>
-<li>Downlaod NSP Files From NSW2U
-<ul>
-<li>Or Download XCI/NSZ and Convert Them With SAK</li>
-</ul>
-</li>
-<li>Launch Goldleaf On The Switch</li>
+<p><a href="https://github.com/XorTroll/Goldleaf/releases">Goldleaf NRO</a> | <a href="https://github.com/dezem/SAK/releases/">Switch Army Knife - SAK</a> | <a href="https://github.com/XorTroll/Goldleaf/releases">Quark.jar</a> | <a href="https://zadig.akeo.ie/">Zadig Driver</a> | <a href="https://www.java.com/en/download/manual.jsp">Java Runtime Environment</a></p>
+<ol>
+<li>Launch Goldleaf on the Switch</li>
+<li>Connect the switch to the PC via USB</li>
+<li>Launch Zadig and updated the &quot;Goldleaf&quot; devices Driver to &quot;libusbK (v#.#.#.#)</li>
+<li>Install Java Runtime Environment</li>
+<li>Launch Quark to install NSP's
+<ol>
 <li>Select <code>Add New Path</code> and select the folder containing your NSP files</li>
 <li>Install NSP Games From Goldleaf using the <code>Remote PC (via USB)</code> option</li>
-</ul>
+</ol>
+</li>
+</ol>
+<hr>
 <h2 id="installing-nsp-from-usb-drive">Installing NSP From USB Drive</h2>
 <ul>
 <li>Create an NSP folder at a USB Drive</li>
@@ -462,6 +458,7 @@ code {
 <li>Launch Goldleaf On The Switch</li>
 <li>Install NSP Games From The USB Drive to The SD Card</li>
 </ul>
+<hr>
 <h2 id="installing-nsp-from-sd-card">Installing NSP From SD Card</h2>
 <ul>
 <li>Create an NSP folder at the SD Card Root</li>
@@ -473,6 +470,25 @@ code {
 <li>Launch Goldleaf On The Switch</li>
 <li>Install NSP Games From The SD Card to The SD Card</li>
 </ul>
+<hr>
+<h2 id="install-edizon--cheat-overlay">Install Edizon + Cheat Overlay</h2>
+<p><a href="https://github.com/WerWolv/EdiZon/releases">Edizon NRO</a> | <a href="https://github.com/WerWolv/EdiZon/releases">ovlEdiZon.ovl</a> | <a href="https://github.com/WerWolv/nx-ovlloader/releases/">nx-ovlloader.zip</a> | <a href="https://github.com/WerWolv/Tesla-Menu/releases">ovlmenu</a> |</p>
+<ol>
+<li>Turn off the switch and insert the SD card into the PC</li>
+<li>Extract the Edizon.nro file to <code>/switch/</code></li>
+<li>Extract nx-ovlloader to <code>/</code></li>
+<li>Extract the ovlmenu.ovl to <code>/switch/.overlays/</code></li>
+<li>Extract the ovlEdiZon.ovl to <code>/switch/.overlays/</code></li>
+<li>Disable &quot;Auto-Enable Cheats for Atmosphere&quot;
+<ol>
+<li>Open <code>/atmosphere/config_templates/system_settings.ini</code></li>
+<li>Change <code>; dmnt_cheats_enabled_by_default = u8!0x1</code> to <code>dmnt_cheats_enabled_by_default = u8!0x0</code></li>
+<li>Move <code>/atmosphere/config_templates/system_settings.ini</code> to <code>/atmosphere/config/system_settings.ini</code></li>
+<li>Reboot the switch into CFW</li>
+</ol>
+</li>
+<li>Launch the overlay using <code>[L] + [D-Pad Down] + [Right Thumbstick Button]</code> while in-game</li>
+</ol>
 
 </body>
 </html>

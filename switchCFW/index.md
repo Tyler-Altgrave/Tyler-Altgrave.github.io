@@ -93,3 +93,15 @@
     3.  Move `/atmosphere/config_templates/system_settings.ini` to `/atmosphere/config/system_settings.ini` 
     4.  Reboot the switch into CFW
 7.   Launch the overlay using `[L] + [D-Pad Down] + [Right Thumbstick Button]` while in-game
+
+---
+
+##  Save Modifying
+[SSBU Unlocker](https://github.com/CapitanRetraso/Ultimate-Smasher/releases/) | [MK8 Unlocker](https://gamebanana.com/mods/50150)
+
+-   Use Edizon To Backup Your Saves
+-   Copy The Save Files To Your Desktop
+-   Make A Duplicate Of The Timestamped Directory
+-   Rename The Duplicate to "100%"
+-   Overwrite The Renamed Backup Files
+-   Restore The 100% Save Using Edizon 

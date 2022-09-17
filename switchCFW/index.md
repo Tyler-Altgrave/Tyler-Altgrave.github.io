@@ -105,3 +105,18 @@
 -   Rename The Duplicate to "100%"
 -   Overwrite The Renamed Backup Files
 -   Restore The 100% Save Using Edizon 
+---
+
+##  SSBU Mode
+[Skyline](https://github.com/skyline-dev/skyline/releases) | [ARCropolis](https://github.com/Raytwo/ARCropolis/releases) | [SSBU Mods](https://gamebanana.com/mods/games/6498)
+
+-   Download Both Zips
+-   Extract ARCropolis to The root directory of the SD Card
+-   Extract `exefs` to the SSBU contents directory `atmosphere\Ccontents\01006a800016e000` on the SD Card
+-   Create a new directory in the `\ultimate` directory called "mods" 
+-   Download Mods and extract them to the `\ultimate\mods` directory
+    -   Each mod must be inside of a named folder, IE:
+        -   `\ultimate\mods\ModNumberOne\fighter\`
+        -   `\ultimate\mods\ModNumberTwo\sound\`
+        -   `\ultimate\mods\ModNumberTwo\ui\`
+        -   `\ultimate\mods\ModNumberThree\stage\`

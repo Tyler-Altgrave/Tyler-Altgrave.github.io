@@ -12,7 +12,7 @@
     -   Copy The Payload .Bin To The RCMLoader over USB
 -   Download the latest [Atmosphere Firmware](https://github.com/Atmosphere-NX/Atmosphere/releases)
     -   Extract All Of The Folders To The SD Card
--   Download The Latest Sigpatched (Google Them)
+-   Download The Latest ([Sigpatches](https://gbatemp.net/threads/sigpatches-for-atmosphere-hekate-fss0-fusee-package3.571543/))
     -   Extract All Of The Folders To The SD Card
 -   Download the latest [Lockpick_RCM Payload](https://github.com/dezem/SAK/releases/)
     -   Place the .bin file in the `/bootloader/payloads` folder
@@ -58,6 +58,25 @@
 5.  Launch Quark to install NSP's
     1.  Select `Add New Path` and select the folder containing your NSP files
     2.  Install NSP Games From Goldleaf using the `Remote PC (via USB)` option
+
+---
+
+##  Installing NSP From Windows (Bulk)
+[Tinfoil NSP](https://tinfoil.io/Download) | [NUT File Transfer](https://github.com/blawar/nut/releases) | [Tinfoil Driver](https://github.com/blawar/nut/releases)
+
+
+1.  Install the tinfoil driver
+2.  Install the tinfoil NSP using goldleaf
+3.  launch NUT on windows
+4.  Scan for games
+5.  Launch Tinfoil on the switch
+    1.  Enable "Unsigned Code" (Up, Up, Down, Down, Left, Right, Left, Right, B, A +)
+5.  Navigate to New Games and click "A" on a game
+    1.  Include All DLC
+    2.  Include Latest Update
+5.  Navigate to queue to track the progress of the install
+6.  Once finished, close Tinfoil for the game library top update
+
 
 ---
 

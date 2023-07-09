@@ -1,60 +1,225 @@
 <!DOCTYPE html>
-<html>
-
-<head>
-        <meta name="viewport" content="width=device-width, initial-scale=1">
+    <html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Nintendo Switch Console Prep</title>
         <style>
-                html {
-                        /* Dark Mode */
-                        background-color: black;
-                        color: white;
-                }
+/* From extension vscode.github */
+/*---------------------------------------------------------------------------------------------
+ *  Copyright (c) Microsoft Corporation. All rights reserved.
+ *  Licensed under the MIT License. See License.txt in the project root for license information.
+ *--------------------------------------------------------------------------------------------*/
 
-                .project {
-                        /* Column Width */
-                        width: 23%;
-                        height: 23%;
-                        margin: 1%;
-                        float: left;
-                }
+.vscode-dark img[src$=\#gh-light-mode-only],
+.vscode-light img[src$=\#gh-dark-mode-only] {
+	display: none;
+}
 
-                .container {
-                        /* Project Image Container */
-                        position: relative;
-                }
-
-                .centered {
-                        /* Project Text Container */
-                        position: absolute;
-                        top: 50%;
-                        left: 50%;
-                        transform: translate(-50%, -50%);
-                        font-size: 1vw;
-                        text-align: center;
-                        font-weight: bold;
-                        font-family: sans-serif;
-                        color: white;
-                        text-shadow: 0 0 5px black;
-                }
-
-                img {
-                        opacity: 0.5;
-                }
+</style>
+        
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/markdown.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/highlight.css">
+<style>
+            body {
+                font-family: -apple-system, BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', system-ui, 'Ubuntu', 'Droid Sans', sans-serif;
+                font-size: 14px;
+                line-height: 1.6;
+            }
         </style>
-</head>
+        <style>
+.task-list-item {
+    list-style-type: none;
+}
 
-<body>
-        <div class="project">
-                <a href="./switchCFW/index.html">
-                        <div class="container">
-                                <img src="./switchCFW/image.jpeg" style="width:100%;">
-                                <div class="centered">Switch CFW Setup
-                                        <hr>emuMMC Setup
-                                        <hr>Hekate Bootloader + Atmosphere Firmware
-                                </div>
-                        </div>
-                </a>
-        </div>
-</body>
+.task-list-item-checkbox {
+    margin-left: -20px;
+    vertical-align: middle;
+    pointer-events: none;
+}
+</style>
+        
+    </head>
+    <body class="vscode-body vscode-light">
+        <h2 id="nintendo-switch-console-prep">Nintendo Switch Console Prep</h2>
+<ul>
+<li>First, initialize the console</li>
+<li>Then, format your SD card to work with your switch</li>
+<li>Next, cofigure any settings you want to carry over to the CFW</li>
+<li>Then, delete any saved internet networks and enable airplane mode</li>
+</ul>
+<hr>
+<h2 id="downloads-sd-card-prep">Downloads, SD Card Prep</h2>
+<ul>
+<li>Download the latest <a href="https://github.com/CTCaer/hekate/releases">Hekate Bootloader</a>
+<ul>
+<li>Copy The Bootloader Folder To The SD Card</li>
+<li>Copy The Payload .Bin To The RCMLoader over USB</li>
+</ul>
+</li>
+<li>Download the latest <a href="https://github.com/Atmosphere-NX/Atmosphere/releases">Atmosphere Firmware</a>
+<ul>
+<li>Extract All Of The Folders To The SD Card</li>
+</ul>
+</li>
+<li>Download The Latest (<a href="https://gbatemp.net/threads/sigpatches-for-atmosphere-hekate-fss0-fusee-package3.571543/">Sigpatches</a>)
+<ul>
+<li>Extract All Of The Folders To The SD Card</li>
+</ul>
+</li>
+<li>Download the latest <a href="https://github.com/dezem/SAK/releases/">Lockpick_RCM Payload</a>
+<ul>
+<li>Place the .bin file in the <code>/bootloader/payloads</code> folder</li>
+</ul>
+</li>
+</ul>
+<hr>
+<h2 id="create-the-emummc">Create The emuMMC</h2>
+<ul>
+<li>Turn off the switch</li>
+<li>Insert the SD Card</li>
+<li>Insert the RCM Jig</li>
+<li>Plug in the RCMLoader</li>
+<li>Switch the RCMLoader to the blue profile (Hold +)</li>
+<li>Hold Vol + &amp; Power on the switch</li>
+<li>emuMMC &gt; Create emuMMC &gt; SD Partition &gt; Create A Backup &gt; 29 FULL</li>
+<li>emuMMC &gt; Create emuMMC &gt; SD Partition &gt; Part 1</li>
+<li>Finally, you should see the emuMMC is now &quot;Enabled!&quot;</li>
+</ul>
+<hr>
+<h2 id="dump-yopur-switches-keys">Dump Yopur Switches Keys</h2>
+<ul>
+<li>Hekate Main Menu &gt; Payloads &gt; Lockpick_RCM.bin</li>
+<li>If asked, select SysNAND</li>
+<li>Files will be dumped to <code>/switch/title.keys</code> &amp; <code>/switch/prod.keys</code>
+<ul>
+<li>Copy these fiels to your desktop to use with SAK</li>
+</ul>
+</li>
+</ul>
+<hr>
+<h2 id="launch-the-cfw">Launch The CFW</h2>
+<ul>
+<li>Main Menu &gt; Launch &gt; CFW(emuMMC)</li>
+<li>Verify The Switch Is Using The emuMMC and Atmosphere
+<ul>
+<li>Settings &gt; System &gt; Current Version <strong>[xx.x.x|AMS x.x.x|E]</strong></li>
+</ul>
+</li>
+</ul>
+<hr>
+<h2 id="installing-nsp-from-windows">Installing NSP From Windows</h2>
+<p><a href="https://github.com/XorTroll/Goldleaf/releases">Goldleaf NRO</a> | <a href="https://github.com/dezem/SAK/releases/">Switch Army Knife - SAK</a> | <a href="https://github.com/XorTroll/Goldleaf/releases">Quark.jar</a> | <a href="https://zadig.akeo.ie/">Zadig Driver</a> | <a href="https://www.java.com/en/download/manual.jsp">Java Runtime Environment</a></p>
+<ol>
+<li>Launch Goldleaf on the Switch</li>
+<li>Connect the switch to the PC via USB</li>
+<li>Launch Zadig and updated the &quot;Goldleaf&quot; devices Driver to &quot;libusbK (v#.#.#.#)</li>
+<li>Install Java Runtime Environment</li>
+<li>Launch Quark to install NSP's
+<ol>
+<li>Select <code>Add New Path</code> and select the folder containing your NSP files</li>
+<li>Install NSP Games From Goldleaf using the <code>Remote PC (via USB)</code> option</li>
+</ol>
+</li>
+</ol>
+<hr>
+<h2 id="installing-nsp-from-windows-bulk">Installing NSP From Windows (Bulk)</h2>
+<p><a href="https://tinfoil.io/Download">Tinfoil NSP</a> | <a href="https://github.com/blawar/nut/releases">NUT File Transfer</a> | <a href="https://github.com/blawar/nut/releases">Tinfoil Driver</a></p>
+<ol>
+<li>Install the tinfoil driver</li>
+<li>Install the tinfoil NSP using goldleaf</li>
+<li>launch NUT on windows</li>
+<li>Scan for games</li>
+<li>Launch Tinfoil on the switch
+<ol>
+<li>Enable &quot;Unsigned Code&quot; (Up, Up, Down, Down, Left, Right, Left, Right, B, A +)</li>
+</ol>
+</li>
+<li>Navigate to New Games and click &quot;A&quot; on a game
+<ol>
+<li>Include All DLC</li>
+<li>Include Latest Update</li>
+</ol>
+</li>
+<li>Navigate to queue to track the progress of the install</li>
+<li>Once finished, close Tinfoil for the game library top update</li>
+</ol>
+<hr>
+<h2 id="installing-nsp-from-usb-drive">Installing NSP From USB Drive</h2>
+<ul>
+<li>Create an NSP folder at a USB Drive</li>
+<li>Downlaod NSP Files From NSW2U
+<ul>
+<li>Or Download XCI/NSZ and Convert Them With SAK</li>
+</ul>
+</li>
+<li>Launch Goldleaf On The Switch</li>
+<li>Install NSP Games From The USB Drive to The SD Card</li>
+</ul>
+<hr>
+<h2 id="installing-nsp-from-sd-card">Installing NSP From SD Card</h2>
+<ul>
+<li>Create an NSP folder at the SD Card Root</li>
+<li>Downlaod NSP Files From NSW2U
+<ul>
+<li>Or Download XCI/NSZ and Convert Them With SAK</li>
+</ul>
+</li>
+<li>Launch Goldleaf On The Switch</li>
+<li>Install NSP Games From The SD Card to The SD Card</li>
+</ul>
+<hr>
+<h2 id="install-edizon--cheat-overlay">Install Edizon + Cheat Overlay</h2>
+<p><a href="https://github.com/WerWolv/EdiZon/releases">Edizon NRO</a> | <a href="https://github.com/WerWolv/EdiZon/releases">ovlEdiZon.ovl</a> | <a href="https://github.com/WerWolv/nx-ovlloader/releases/">nx-ovlloader.zip</a> | <a href="https://github.com/WerWolv/Tesla-Menu/releases">ovlmenu</a> |</p>
+<ol>
+<li>Turn off the switch and insert the SD card into the PC</li>
+<li>Extract the Edizon.nro file to <code>/switch/</code></li>
+<li>Extract nx-ovlloader to <code>/</code></li>
+<li>Extract the ovlmenu.ovl to <code>/switch/.overlays/</code></li>
+<li>Extract the ovlEdiZon.ovl to <code>/switch/.overlays/</code></li>
+<li>Disable &quot;Auto-Enable Cheats for Atmosphere&quot;
+<ol>
+<li>Open <code>/atmosphere/config_templates/system_settings.ini</code></li>
+<li>Change <code>; dmnt_cheats_enabled_by_default = u8!0x1</code> to <code>dmnt_cheats_enabled_by_default = u8!0x0</code></li>
+<li>Move <code>/atmosphere/config_templates/system_settings.ini</code> to <code>/atmosphere/config/system_settings.ini</code></li>
+<li>Reboot the switch into CFW</li>
+</ol>
+</li>
+<li>Launch the overlay using <code>[L] + [D-Pad Down] + [Right Thumbstick Button]</code> while in-game</li>
+</ol>
+<hr>
+<h2 id="save-modifying">Save Modifying</h2>
+<p><a href="https://github.com/CapitanRetraso/Ultimate-Smasher/releases/">SSBU Unlocker</a> | <a href="https://gamebanana.com/mods/50150">MK8 Unlocker</a></p>
+<ul>
+<li>Use Edizon To Backup Your Saves</li>
+<li>Copy The Save Files To Your Desktop</li>
+<li>Make A Duplicate Of The Timestamped Directory</li>
+<li>Rename The Duplicate to &quot;100%&quot;</li>
+<li>Overwrite The Renamed Backup Files</li>
+<li>Restore The 100% Save Using Edizon</li>
+</ul>
+<hr>
+<h2 id="ssbu-mode">SSBU Mode</h2>
+<p><a href="https://github.com/skyline-dev/skyline/releases">Skyline</a> | <a href="https://github.com/Raytwo/ARCropolis/releases">ARCropolis</a> | <a href="https://gamebanana.com/mods/games/6498">SSBU Mods</a></p>
+<ul>
+<li>Download Both Zips</li>
+<li>Extract ARCropolis to The root directory of the SD Card</li>
+<li>Extract <code>exefs</code> to the SSBU contents directory <code>atmosphere\Ccontents\01006a800016e000</code> on the SD Card</li>
+<li>Create a new directory in the <code>\ultimate</code> directory called &quot;mods&quot;</li>
+<li>Download Mods and extract them to the <code>\ultimate\mods</code> directory
+<ul>
+<li>Each mod must be inside of a named folder, IE:
+<ul>
+<li><code>\ultimate\mods\ModNumberOne\fighter\</code></li>
+<li><code>\ultimate\mods\ModNumberTwo\sound\</code></li>
+<li><code>\ultimate\mods\ModNumberTwo\ui\</code></li>
+<li><code>\ultimate\mods\ModNumberThree\stage\</code></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
 
-</html>
+        
+        
+    </body>
+    </html>

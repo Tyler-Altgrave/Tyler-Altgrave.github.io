@@ -1,7 +1,7 @@
 ##  Nintendo Switch Console Prep
 -   First, initialize the console
 -   Then, format your SD card to work with your switch
--   Next, cofigure any settings you want to carry over to the CFW
+-   Next, configure any settings you want to carry over to the CFW
 -   Then, delete any saved internet networks and enable airplane mode
 
 ---
@@ -32,11 +32,11 @@
 
 ---
 
-##  Dump Yopur Switches Keys
+##  Dump Your Switches Keys
 -   Hekate Main Menu > Payloads > Lockpick_RCM.bin
 -   If asked, select SysNAND
 -   Files will be dumped to `/switch/title.keys` & `/switch/prod.keys`
-    -   Copy these fiels to your desktop to use with SAK
+    -   Copy these files to your desktop to use with SAK
 
 ---
 
@@ -82,7 +82,7 @@
 
 ##  Installing NSP From USB Drive
 -   Create an NSP folder at a USB Drive
--   Downlaod NSP Files From NSW2U
+-   Download NSP Files From NSW2U
     -   Or Download XCI/NSZ and Convert Them With SAK
 -   Launch Goldleaf On The Switch
 -   Install NSP Games From The USB Drive to The SD Card
@@ -91,7 +91,7 @@
 
 ##  Installing NSP From SD Card
 -   Create an NSP folder at the SD Card Root
--   Downlaod NSP Files From NSW2U
+-   Download NSP Files From NSW2U
     -   Or Download XCI/NSZ and Convert Them With SAK
 -   Launch Goldleaf On The Switch
 -   Install NSP Games From The SD Card to The SD Card
@@ -159,5 +159,5 @@
     -   Access the Nintendo Switch device
     -   Copy the `SD_Cache.0000, SD_Cache.0001 and SD_Cache.0002` directories to the `Nintendo Switch\7: Saves\Installed games\Just Dance®` directory
     -   Copy the `OfflineSaveNx.txt` file into the `Nintendo Switch\7: Saves\Installed games\Just Dance®\{{your username}}` directory
--   Once all files are transfered, launch the game and change the language backl to English
+-   Once all files are transferred, launch the game and change the language back to English
     -   Main Menu, Settings Icon, Speaker Icon, Bottom Option, English

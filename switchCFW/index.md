@@ -150,9 +150,6 @@
 -   Install Just Dance 2023, The Updates and DLC
 -   Start Just Dance
     -   Proceed until you can't go any further (generates save files)
--   Launch dbibackend.exe on the desktop
-    -   Add the Nintendo Switch Folder
-    -   Start Server
 -   Connect the switch and launch the DBI applet
     -   Run MTP Responder
 -   On windows

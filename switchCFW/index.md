@@ -124,9 +124,10 @@
 -   Rename The Duplicate to "100%"
 -   Overwrite The Renamed Backup Files
 -   Restore The 100% Save Using Edizon 
+  
 ---
 
-##  SSBU Mode
+##  SSBU Mods
 [Skyline](https://github.com/skyline-dev/skyline/releases) | [ARCropolis](https://github.com/Raytwo/ARCropolis/releases) | [SSBU Mods](https://gamebanana.com/mods/games/6498)
 
 -   Download Both Zips
@@ -139,3 +140,24 @@
         -   `\ultimate\mods\ModNumberTwo\sound\`
         -   `\ultimate\mods\ModNumberTwo\ui\`
         -   `\ultimate\mods\ModNumberThree\stage\`
+  
+---
+
+##  Just Dance 2023, Offline Crack
+[DBI MTP](https://github.com/rashevskyv/dbi/releases)
+
+-   Extract the DBI.nro and dbi.config file to `/switch/DBI`
+-   Install Just Dance 2023, The Updates and DLC
+-   Start Just Dance
+    -   Proceed until you can't go any further (generates save files)
+-   Launch dbibackend.exe on the desktop
+    -   Add the Nintendo Switch Folder
+    -   Start Server
+-   Connect the switch and launch the DBI applet
+    -   Run MTP Responder
+-   On windows
+    -   Access the Nintendo Switch device
+    -   Copy the `SD_Cache.0000, SD_Cache.0001 and SD_Cache.0002` directories to the `Nintendo Switch\7: Saves\Installed games\Just Dance®` directory
+    -   Copy the `OfflineSaveNx.txt` file into the `Nintendo Switch\7: Saves\Installed games\Just Dance®\{{your username}}` directory
+-   Once all files are transfered, launch the game and change the language backl to English
+    -   Main Menu, Settings Icon, Speaker Icon, Bottom Option, English

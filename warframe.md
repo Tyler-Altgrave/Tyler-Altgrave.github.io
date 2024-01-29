@@ -56,15 +56,15 @@ Selecting a Tenet Weapon
 - Find the Granum Void (Golden Hand) and start a Zenith Crown
   - If you don't have a Zenith Crown, wait 3 to 6 minutes for a Treasurer to spawn and kill them to gain one
 - Complete the Granum Void to spawn a Candidate
-- When a Kuva Larvaling is killed they will display a weapon above their head
-  - If its the weapon you want, hold Q to execute the lich, complete the mission and extract normally
+- When a Candidate is killed they will display a weapon above their head
+  - If its the weapon you want, hold Q to execute the candidate, complete the mission and extract normally
   - If its not the weapon you want, complete the Mission and extract normally to try again
 
 Unlocking a Tenet Weapon
 
 - On creation of a Candidate, they generate a random passphrase of 3 different Requiems
 - Defeating Candidates will reveal the Requiems for their passphrase, but not the order
-- Players must slot the matching Requiem Mods in their Parazon and defeat the lich until they find the correct order
+- Players must slot the matching Requiem Mods in their Parazon and defeat the candidate until they find the correct order
   - Always place an Oull requiem mod in the first slot of your paragon, as it acts as a wildcard (Guaranteed success on the first try)
 
 Buying a candidate contract

@@ -80,23 +80,6 @@ Buying a candidate contract
 
 ---
 
-## Arcon Shards
-
-A permanent upgrade item taken from Archons and used by the Helminth to further enhance a Warframe
-
-- Complete the Veilbreaker quest
-- Install the Helminth Archon Shard Segment
-- Archon Shards are awarded from Archon Hunts
-  - Archon Hunts are multi-stage missions in a battle against Narmer forces to defeat Pazuul's Archons
-  - Crimson from Archon Amar
-  - Amber from Archon Nira
-  - Azure from Archon Boreal
-- The Shard has an 80% chance of being a normal variant and 20% of being Tauforged.
-- Topaz, Violet, and Emerald Archon Shards are only obtainable through Coalescent Fusion of two Crimson, Amber, and Azure Shards.
-- 2 shards per week, 1 from the mission, 1 from Veilbreaker
-
----
-
 ## Incarnon Weapons and Genesis
 
 Incarnon weapons are special Orokin Era ceremonial weapons. Incarnon Genesis grants access to the Incarnon upgrades on a variety of weapons.
@@ -113,3 +96,21 @@ Incarnon Genesis
 - Select 2 Genesis Adapters for the week
 - Complete "The Circuit" missions on Steel Path difficulty
 - Genesis Adapters are rewarded at 5th and 10th tier
+
+---
+
+## Arcon Shards
+
+A permanent upgrade item taken from Archons and used by the Helminth to further enhance a Warframe
+
+- Complete the Veilbreaker quest
+- Install the Helminth Archon Shard Segment
+- Archon Shards are awarded from Archon Hunts
+  - Archon Hunts are multi-stage missions in a battle against Narmer forces to defeat Pazuul's Archons
+  - Crimson from Archon Amar
+  - Amber from Archon Nira
+  - Azure from Archon Boreal
+- The Shard has an 80% chance of being a normal variant and 20% of being Tauforged.
+- Topaz, Violet, and Emerald Archon Shards are only obtainable through Coalescent Fusion of two Crimson, Amber, and Azure Shards.
+- 2 shards per week, 1 from the mission, 1 from Veilbreaker
+

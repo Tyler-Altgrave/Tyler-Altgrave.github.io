@@ -1,3 +1,5 @@
+<style> html, a { background-color: black; color: white; font-family: sans-serif;} a{text-decoration: underline}</style>
+
 ##  Nintendo Switch Console Prep
 -   First, initialize the console
 -   Then, format your SD card to work with your switch

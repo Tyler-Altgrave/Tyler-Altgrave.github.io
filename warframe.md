@@ -40,10 +40,10 @@ Buying a kuva lich contract
   - Meet the seller in the Crimson Branch room of a Dojo
   - Complete the trade to activate the lich
 
-Images Key
-
-<img title="Male Larval Kuva, Execute To Accept Kuva Lich Weapon, Ignore To Reroll" src="https://static.wikia.nocookie.net/warframe/images/0/0a/WolfGangster.png/revision/latest?cb=20190227233943" width="100">
-<img title="Female Larval Kuva, Execute To Accept Kuva Lich Weapon, Ignore To Reroll" src="https://static.wikia.nocookie.net/warframe/images/e/eb/FortressMacheteWoman.png/revision/latest?cb=20161112092734" width="100">
+|                                                                                                                                   |                                                                                                                                           |
+| :-------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                          Male Larvaling                                                           |                                                             Female Larvaling                                                              |
+| <img src="https://static.wikia.nocookie.net/warframe/images/0/0a/WolfGangster.png/revision/latest?cb=20190227233943" width="100"> | <img src="https://static.wikia.nocookie.net/warframe/images/e/eb/FortressMacheteWoman.png/revision/latest?cb=20161112092734" width="100"> |
 
 ---
 
@@ -75,11 +75,10 @@ Buying a candidate contract
   - Meet the seller in the Crimson Branch room of a Dojo
   - Complete the trade to activate the candidate
 
-Images Key
-
-<img title="Treasurer, Spawns between 3 and 6 minutes, kill to drop Zenith Granum Crown " src="https://static.wikia.nocookie.net/warframe/images/9/9a/Treasurer.png/revision/latest?cb=20210406030215" width="100">
-<img title="Zenith Granum Crown, Dropped By Treasurer, Used To Access Granum Void"  src="https://static.wikia.nocookie.net/warframe/images/5/52/ZenithGranumCrown.png/revision/latest/scale-to-width-down/100?cb=20200612220037" width="100">
-<img title="Granum Void Hand Tribute, Accessed With Zenith Granum Crown, Complete To Trigger Candidate Spawn" src="https://static.wikia.nocookie.net/warframe/images/f/f9/CorpusShipHandTribute.png/revision/latest/scale-to-width-down/1000?cb=20200916215748" width="100">
+|                                                                                                                                |                                                                                                                                                                |                                                                                                                                                                     |
+| :----------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                           Treasurer                                                            |                                                                      Zenith Granum Crown                                                                       |                                                                      Granum Void Hand Tribute                                                                       |
+| <img src="https://static.wikia.nocookie.net/warframe/images/9/9a/Treasurer.png/revision/latest?cb=20210406030215" width="100"> | <img src="https://static.wikia.nocookie.net/warframe/images/5/52/ZenithGranumCrown.png/revision/latest/scale-to-width-down/100?cb=20200612220037" width="100"> | <img src="https://static.wikia.nocookie.net/warframe/images/f/f9/CorpusShipHandTribute.png/revision/latest/scale-to-width-down/1000?cb=20200916215748" width="100"> |
 
 ---
 

@@ -114,3 +114,15 @@ A permanent upgrade item taken from Archons and used by the Helminth to further 
 - Topaz, Violet, and Emerald Archon Shards are only obtainable through Coalescent Fusion of two Crimson, Amber, and Azure Shards.
 - 2 shards per week, 1 from the mission, 1 from Veilbreaker
 
+---
+
+## Loot Box Farming
+- Subsume Nova's Null Star ability onto Titania
+- Equip the Neutron Star augment mod (this is how we break boxes)
+- Build for +Range and Efficiency
+  - 175 Efficiency
+  - 265 Range (Companion Vacuum is 11.5M, Neutron Star is 21.2M)
+  - 70% Strength (Needed to break boxes in a single cast)
+- Use Razorwing to keep moving while you cast Null Star to break boxes
+  - Argon Crystals: Void, Ukko
+<img src="./img/titaniaNeutronStar.jpeg" width="100">

@@ -125,4 +125,4 @@ A permanent upgrade item taken from Archons and used by the Helminth to further 
   - 70% Strength (Needed to break boxes in a single cast)
 - Use Razorwing to keep moving while you cast Null Star to break boxes
   - Argon Crystals: Void, Ukko
-<img src="./img/titaniaNeutronStar.jpeg" width="100">
+<img src="./img/titaniaNeutronStar.jpeg" width="100%">

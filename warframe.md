@@ -14,31 +14,31 @@
 
 ## Kuva Lich Weapons
 
-Selecting a kuva lich weapon
+Selecting a Kuva Lich weapon
 
 - Finish The War Within quest to unlock Kuva Liches
 - If you're farming for a specific weapon, choose a Progenitor Warframe based on the table above
 - Start a Level 20+ Grineer Mission. Cassini Capture on Saturn is popular
 - The timer starts when the light flicker, this can be immediately on start or during the mission
   - On Capture missions, the lights wont flicker until after the mission target has been successfully captured
-- Kill 10 Grineer within 1 minute to trigger a Kuva larvaling (Below)
+- Kill 10 Grineer within 1 minute to trigger a Kuva Larvaling (Below)
 - When a Kuva Larvaling is killed they will display a weapon above their head
-  - If its the weapon you want, hold Q to execute the lich, complete the mission and extract normally
+  - If its the weapon you want, hold Q to execute the Lich, complete the mission and extract normally
   - If its not the weapon you want, complete the Mission and extract normally to try again
 
-Unlocking the kuva lich weapon
+Unlocking the Kuva Lich weapon
 
 - On creation of a Kuva Lich, they generate a random passphrase of 3 different Requiems
 - Defeating Kuva Liches will reveal the Requiems for their passphrase, but not the order
-- Players must slot the matching Requiem Mods in their Parazon and defeat the lich until they find the correct order
+- Players must slot the matching Requiem Mods in their Parazon and defeat the Lich until they find the correct order
   - Always place an Oull requiem mod in the first slot of your paragon, as it acts as a wildcard (Guaranteed success on the first try)
 
-Buying a kuva lich contract
+Buying a Kuva Lich contract
 
-- You can buy Kuva Lich contracts on [Warframe.Market](https://warframe.market/auctions) to skip the larvaling farm
-  - Find the lich you want to buy
+- You can buy Kuva Lich contracts on [Warframe.Market](https://warframe.market/auctions) to skip the Larvaling farm
+  - Find the Lich you want to buy
   - Meet the seller in the Crimson Branch room of a Dojo
-  - Complete the trade to activate the lich
+  - Complete the trade to activate the Lich
 
 |                                                                                                                           Male Larvaling                                                           |                                                             Female Larvaling                                                                                                                   |
 | :-------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------: |

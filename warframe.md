@@ -42,7 +42,7 @@ Buying a kuva lich contract
 
 |                                                                                                                           Male Larvaling                                                           |                                                             Female Larvaling                                                                                                                   |
 | :-------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------: |
-| <img src="https://static.wikia.nocookie.net/warframe/images/0/0a/WolfGangster.png/revision/latest?cb=20190227233943" width="100"> | <img src="https://static.wikia.nocookie.net/warframe/images/e/eb/FortressMacheteWoman.png/revision/latest?cb=20161112092734" width="100"> |
+| <img src="./img/maleLarvaling.webp" width="100"> | <img src="./img/femaleLarvaling.webp" width="100"> |
 
 ---
 
@@ -76,7 +76,7 @@ Buying a candidate contract
 
 |                                                           Treasurer                                                            |                                                                      Zenith Granum Crown                                                                       |                                                                      Granum Void Hand Tribute                                                                       |
 | :----------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <img src="https://static.wikia.nocookie.net/warframe/images/9/9a/Treasurer.png/revision/latest?cb=20210406030215" width="100"> | <img src="https://static.wikia.nocookie.net/warframe/images/5/52/ZenithGranumCrown.png/revision/latest/scale-to-width-down/100?cb=20200612220037" width="100"> | <img src="https://static.wikia.nocookie.net/warframe/images/f/f9/CorpusShipHandTribute.png/revision/latest/scale-to-width-down/1000?cb=20200916215748" width="100"> |
+| <img src="./img/treasurer.webp" width="100"> | <img src="./img/zenithGranumCrown.webp" width="100"> | <img src="./img/granumVoidHandTribute.webp" width="100"> |
 
 ---
 

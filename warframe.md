@@ -1,4 +1,8 @@
-## Progenitor Warframe
+- [](#)
+- [](#-1)
+- [](#-2)
+
+<details><summary>Progenitor Warframe</summary>
 
 | TYPE                                                                                                                                                                                                                                                  | -                                                                                                                                                                                               | -                                                                                                                                                                                               | -                                                                                                                                                                                                         | -                                                                                                                                                                                                    | -                                                                                                                                                                                                    | -                                                                                                                                                                                               | -                                                                                                                                                                                               | -                                                                                                                                                                                          | -                                                                                                                                                                                          | -   |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --- |
@@ -10,9 +14,9 @@
 | [![DmgMagneticSmall64](https://static.wikia.nocookie.net/warframe/images/8/83/DmgMagneticSmall64.png/revision/latest/scale-to-width-down/32?cb=20210323025836)](/wiki/Damage/Magnetic_Damage) [Magnetic](/wiki/Damage/Magnetic_Damage)                | [![CitrineIcon272](https://static.wikia.nocookie.net/warframe/images/8/82/CitrineIcon272.png/revision/latest/scale-to-width-down/31?cb=20230215182406)](/wiki/Citrine) [Citrine](/wiki/Citrine) | [![HarrowIcon272](https://static.wikia.nocookie.net/warframe/images/6/68/HarrowIcon272.png/revision/latest/scale-to-width-down/31?cb=20180121174130)](/wiki/Harrow) [Harrow](/wiki/Harrow)      | [![HydroidIcon272](https://static.wikia.nocookie.net/warframe/images/8/8f/HydroidIcon272.png/revision/latest/scale-to-width-down/31?cb=20180121174134)](/wiki/Hydroid) [Hydroid](/wiki/Hydroid)           | [![LavosIcon272](https://static.wikia.nocookie.net/warframe/images/f/f9/LavosIcon272.png/revision/latest/scale-to-width-down/31?cb=20201218203644)](/wiki/Lavos) [Lavos](/wiki/Lavos)                | [![MagIcon272](https://static.wikia.nocookie.net/warframe/images/8/89/MagIcon272.png/revision/latest/scale-to-width-down/31?cb=20180121174145)](/wiki/Mag) [Mag](/wiki/Mag)                          | [![MesaIcon272](https://static.wikia.nocookie.net/warframe/images/0/08/MesaIcon272.png/revision/latest/scale-to-width-down/31?cb=20180121174147)](/wiki/Mesa) [Mesa](/wiki/Mesa)                | [![XakuIcon272](https://static.wikia.nocookie.net/warframe/images/b/be/XakuIcon272.png/revision/latest/scale-to-width-down/31?cb=20200826170409)](/wiki/Xaku) [Xaku](/wiki/Xaku)                | [![YareliIcon272](https://static.wikia.nocookie.net/warframe/images/2/2f/YareliIcon272.png/revision/latest/scale-to-width-down/31?cb=20210706231956)](/wiki/Yareli) [Yareli](/wiki/Yareli) |
 | [![DmgRadiationSmall64](https://static.wikia.nocookie.net/warframe/images/1/1b/DmgRadiationSmall64.png/revision/latest/scale-to-width-down/32?cb=20210323025837)](/wiki/Damage/Radiation_Damage) [Radiation](/wiki/Damage/Radiation_Damage)           | [![AshIcon272](https://static.wikia.nocookie.net/warframe/images/0/0d/AshIcon272.png/revision/latest/scale-to-width-down/31?cb=20180121174108)](/wiki/Ash) [Ash](/wiki/Ash)                     | [![EquinoxIcon272](https://static.wikia.nocookie.net/warframe/images/7/7a/EquinoxIcon272.png/revision/latest/scale-to-width-down/31?cb=20180121174120)](/wiki/Equinox) [Equinox](/wiki/Equinox) | [![GarudaIcon272](https://static.wikia.nocookie.net/warframe/images/8/8f/GarudaIcon272.png/revision/latest/scale-to-width-down/31?cb=20181110001450)](/wiki/Garuda) [Garuda](/wiki/Garuda)                | [![LokiIcon272](https://static.wikia.nocookie.net/warframe/images/0/0e/LokiIcon272.png/revision/latest/scale-to-width-down/31?cb=20180121174142)](/wiki/Loki) [Loki](/wiki/Loki)                     | [![MirageIcon272](https://static.wikia.nocookie.net/warframe/images/d/d6/MirageIcon272.png/revision/latest/scale-to-width-down/31?cb=20180121174150)](/wiki/Mirage) [Mirage](/wiki/Mirage)           | [![NyxIcon272](https://static.wikia.nocookie.net/warframe/images/9/93/NyxIcon272.png/revision/latest/scale-to-width-down/31?cb=20180121174204)](/wiki/Nyx) [Nyx](/wiki/Nyx)                     | [![OctaviaIcon272](https://static.wikia.nocookie.net/warframe/images/7/7f/OctaviaIcon272.png/revision/latest/scale-to-width-down/31?cb=20180121174209)](/wiki/Octavia) [Octavia](/wiki/Octavia) | [![QorvexIcon272](https://static.wikia.nocookie.net/warframe/images/8/8f/QorvexIcon272.png/revision/latest/scale-to-width-down/31?cb=20231214120354)](/wiki/Qorvex) [Qorvex](/wiki/Qorvex) | [![VorunaIcon272](https://static.wikia.nocookie.net/warframe/images/3/3c/VorunaIcon272.png/revision/latest/scale-to-width-down/31?cb=20221130191427)](/wiki/Voruna) [Voruna](/wiki/Voruna) |
 
----
+## </details>
 
-## Kuva Lich Weapons
+<details><summary>Kuva Lich Weapons</summary>
 
 Selecting a Kuva Lich weapon
 
@@ -44,9 +48,9 @@ Buying a Kuva Lich contract
 | :----------------------------------------------: | :------------------------------------------------: |
 | <img src="./img/maleLarvaling.webp" width="100"> | <img src="./img/femaleLarvaling.webp" width="100"> |
 
----
+## </details>
 
-## Sisters Of Parvos Weapons
+<details><summary>Sisters Of Parvos Weapons</summary>
 
 Selecting a Tenet Weapon
 
@@ -78,9 +82,9 @@ Buying a candidate contract
 | :------------------------------------------: | :--------------------------------------------------: | :------------------------------------------------------: |
 | <img src="./img/treasurer.webp" width="100"> | <img src="./img/zenithGranumCrown.webp" width="100"> | <img src="./img/granumVoidHandTribute.webp" width="100"> |
 
----
+## </details>
 
-## Incarnon Weapons and Genesis
+<details><summary>Incarnon Weapons and Genesis</summary>
 
 Incarnon weapons are special Orokin Era ceremonial weapons. Incarnon Genesis grants access to the Incarnon upgrades on a variety of weapons.
 
@@ -96,10 +100,9 @@ Incarnon Genesis
 - From the Orbiter's star chart, locate and click the Duvari icon (resembles a metal head) at the top right corner to open the Duvari menu.
 - Within the Duvari menu, choose two Genesis Adapters you wish to aim for during the week
 - Complete "The Circuit" missions on the Steel Path difficulty level to earn Genesis Adapters as rewards, specifically at the 5th and 10th tiers.
+</details>
 
----
-
-## Loot Box Farming
+<details><summary>Loot Box Farming</summary>
 
 - Subsume Nova's Null Star ability onto Titania
 - Equip the Neutron Star augment mod (this is how we break boxes)
@@ -108,159 +111,158 @@ Incarnon Genesis
   - 265 Range (Companion Vacuum is 11.5M, Neutron Star is 21.2M)
   - 70% Strength (Needed to break boxes in a single cast)
 - Use Razorwing to keep moving while you cast Null Star to break boxes
-  <img src="./img/titaniaNeutronStar.jpeg" width="100%">
+<img src="./img/titaniaNeutronStar.jpeg" width="100%">
+</details>
 
----
+<details><summary>Helminth Farming Locations</summary>
 
-## Helminth Farming Locations
-
-<details><summary>Bile</summary>
-
-| Resource                    | Best Farming Location(s)                            | Additional Notes                                                                                                        |
-| --------------------------- | --------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
-| Aggristone                  | -                                                   | -                                                                                                                       |
-| Ariette Scale               | -                                                   | -                                                                                                                       |
-| Antiserum Injector Fragment | Infested Salvage missions (Oestrus, Eris)           | Use Nekros with Desecrate, Hydroid with Pilfering Swarm, or Khora with Pilfering Strangledome for increased drop rates. |
-| Argon Crystal               | Void missions (any)                                 | Best farmed in missions like Capture for quick runs. Argon Crystals decay over time, so use them quickly.               |
-| Cryotic                     | Excavation missions (any planet)                    | Longer missions yield more Cryotic. Consider using frames like Frost, Limbo, or Gara for defense.                       |
-| Diluted Thermia             | Thermia Fractures on Orb Vallis (Venus)             | Available during the "Operation: Buried Debts" event. Collect and close Thermia Fractures.                              |
-| Enigma Gyrum                | -                                                   | -                                                                                                                       |
-| Isos                        | Railjack missions, specifically in the Veil Proxima | Farming in higher-level Railjack missions increases the drop rate.                                                      |
-| Javlok Capacitor            | Incursions in the Plains of Eidolon (Earth)         | Random drop from enemy units during Incursions.                                                                         |
-| Morphics                    | Mars, Mercury, Pluto, and Europa                    | War, Mars and Apollodorus, Mercury are good farming spots. Use frames with loot abilities for better efficiency.        |
-| Nav Coordinate              | Assassination missions, Orokin Derelict missions    | Common in the reward pool for these mission types.                                                                      |
-| Omega Isotope               | Planets where a Fomorian event is active            | Drop from any mission on a planet under invasion.                                                                       |
-| Orokin Cipher               | Orokin Derelict Vaults                              | Requires a Dragon Key to access vaults. Random chance to obtain Ciphers from the vaults.                                |
-| Rune Marrow                 | -                                                   | -                                                                                                                       |
-| Somatic Fibers              | Lua (The Moon)                                      | Drops from Sentients. Farming during missions like Crossfire Exterminate can yield good results.                        |
-| Thermal Sludge              | Orb Vallis (Venus)                                  | Found in containers and as environmental pickups. Good spots are around the outskirts of Fortuna and industrial areas.  |
-| Ticor Plate                 | Railjack missions, specifically in the Veil Proxima | Higher-level Railjack missions have a better drop rate.                                                                 |
-| Vainthorn                   | -                                                   | -                                                                                                                       |
-| Voidgel Orb                 | Void Storm missions in Railjack                     | Drops from enemies and crates during Void Storms.                                                                       |
+><details><summary>Bile</summary>
+>
+>| Resource                    | Best Farming Location(s)                            | Additional Notes                                                                                                        |
+>| --------------------------- | --------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+>| Aggristone                  | -                                                   | -                                                                                                                       |
+>| Ariette Scale               | -                                                   | -                                                                                                                       |
+>| Antiserum Injector Fragment | Infested Salvage missions (Oestrus, Eris)           | Use Nekros with Desecrate, Hydroid with Pilfering Swarm, or Khora with Pilfering Strangledome for increased drop rates. |
+>| Argon Crystal               | Void missions (any)                                 | Best farmed in missions like Capture for quick runs. Argon Crystals decay over time, so use them quickly.               |
+>| Cryotic                     | Excavation missions (any planet)                    | Longer missions yield more Cryotic. Consider using frames like Frost, Limbo, or Gara for defense.                       |
+>| Diluted Thermia             | Thermia Fractures on Orb Vallis (Venus)             | Available during the "Operation: Buried Debts" event. Collect and close Thermia Fractures.                              |
+>| Enigma Gyrum                | -                                                   | -                                                                                                                       |
+>| Isos                        | Railjack missions, specifically in the Veil Proxima | Farming in higher-level Railjack missions increases the drop rate.                                                      |
+>| Javlok Capacitor            | Incursions in the Plains of Eidolon (Earth)         | Random drop from enemy units during Incursions.                                                                         |
+>| Morphics                    | Mars, Mercury, Pluto, and Europa                    | War, Mars and Apollodorus, Mercury are good farming spots. Use frames with loot abilities for better efficiency.        |
+>| Nav Coordinate              | Assassination missions, Orokin Derelict missions    | Common in the reward pool for these mission types.                                                                      |
+>| Omega Isotope               | Planets where a Fomorian event is active            | Drop from any mission on a planet under invasion.                                                                       |
+>| Orokin Cipher               | Orokin Derelict Vaults                              | Requires a Dragon Key to access vaults. Random chance to obtain Ciphers from the vaults.                                |
+>| Rune Marrow                 | -                                                   | -                                                                                                                       |
+>| Somatic Fibers              | Lua (The Moon)                                      | Drops from Sentients. Farming during missions like Crossfire Exterminate can yield good results.                        |
+>| Thermal Sludge              | Orb Vallis (Venus)                                  | Found in containers and as environmental pickups. Good spots are around the outskirts of Fortuna and industrial areas.  |
+>| Ticor Plate                 | Railjack missions, specifically in the Veil Proxima | Higher-level Railjack missions have a better drop rate.                                                                 |
+>| Vainthorn                   | -                                                   | -                                                                                                                       |
+>| Voidgel Orb                 | Void Storm missions in Railjack                     | Drops from enemies and crates during Void Storms.                                                                       |
+>
+></details>
+>
+><details><summary>Biotics</summary>
+>
+>| Resource             | Best Farming Location(s)                       | Additional Notes                                             |
+>| -------------------- | ---------------------------------------------- | ------------------------------------------------------------ |
+>| Connla Sprout        | Cambion Drift (Deimos)                         | Found in the wild, especially around bodies of water.        |
+>| Dracroot             | Cambion Drift (Deimos)                         | Commonly found in the wild across Deimos.                    |
+>| Dusklight Sarracenia | Ceres, in swampy waters                        | Best found in the Grineer Shipyard missions.                 |
+>| Eevani               | -                                              | -                                                            |
+>| Frostleaf            | On the ground in any cold environment on Venus | Look around the edges of cliffs and in open areas.           |
+>| Ganglion             | Cambion Drift (Deimos)                         | Dropped by Deimos enemies and found in the environment.      |
+>| Gorgaricus Spore     | Orb Vallis (Venus)                             | Found in caves and around mushroom patches.                  |
+>| Kovnik               | -                                              | -                                                            |
+>| Lunar Pitcher        | Lua                                            | Spawns in and around the Orokin structures.                  |
+>| Maprico              | Plains of Eidolon (Earth)                      | Found on trees in the Plains.                                |
+>| Moonlight Dragonlily | Plains of Eidolon (Earth) - night              | Found near water bodies during the night.                    |
+>| Moonlight Jadeleaf   | Plains of Eidolon (Earth) - night              | Grows in grassy areas during the night.                      |
+>| Moonlight Threshcone | Plains of Eidolon (Earth) - night              | Found in forested areas during the night.                    |
+>| Mytocardia Spore     | Orb Vallis (Venus)                             | Found in the caves of Orb Vallis.                            |
+>| Nistlepod            | Plains of Eidolon (Earth)                      | Grows on trees, especially near Grineer outposts.            |
+>| Pustulite            | Cambion Drift (Deimos)                         | Dropped by enemies and found in the environment.             |
+>| Ruk's Claw           | Grineer Asteroid missions (e.g., Mars)         | Grows in patches on the ground in Grineer Asteroid tilesets. |
+>| Silphsela            | -                                              | -                                                            |
+>| Sunlight Dragonlily  | Plains of Eidolon (Earth) - day                | Found near water bodies during the day.                      |
+>| Sunlight Jadeleaf    | Plains of Eidolon (Earth) - day                | Grows in grassy areas during the day.                        |
+>| Sunlight Threshcone  | Plains of Eidolon (Earth) - day                | Found in forested areas during the day.                      |
+>| Tasoma Extract       | -                                              | -                                                            |
+>| Tepa Nodule          | Cambion Drift (Deimos)                         | Found in the wild, often in areas with infestation presence. |
+>| Ueymag               | -                                              | -                                                            |
+>| Vestan Moss          | Asteroid missions, like those on Mercury       | Look on shaded rock walls in outdoor areas.                  |
+>| Yao Shrub            | -                                              | -                                                            |
+>
+></details>
+>
+><details><summary>Calx</summary>
+>
+>| Resource                | Best Farming Location(s)                             | Additional Notes                                                                                                      |
+>| ----------------------- | ---------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
+>| Asterite                | Railjack missions, particularly in the Veil Proxima  | Farming in higher-level Railjack missions increases the drop rate.                                                    |
+>| Belric Crystal Fragment | -                                                    | -                                                                                                                     |
+>| Cubic Diodes            | Corpus Ship missions, especially on Europa           | Dropped by Eximus units on Corpus ships. Best farmed during Eximus Stronghold Sortie missions for higher spawn rates. |
+>| Gallos Rods             | Railjack missions, particularly around Earth Proxima | Found in containers and as drops from enemies in Railjack missions.                                                   |
+>| Grokdrul                | Plains of Eidolon (Earth)                            | Can be collected from Grokdrul Drums in Grineer camps.                                                                |
+>| Hexenon                 | Jupiter, especially the Gas City rework tileset      | Farmable from enemies and containers on Jupiter. Io, Jupiter is a popular spot for Hexenon farming.                   |
+>| Iradite                 | Plains of Eidolon (Earth)                            | Found in the wild, especially in higher-level areas of the Plains. Break iradite formations.                          |
+>| Lucent Teroglobe        | Cambion Drift (Deimos)                               | Dropped by enemies and found in the environment.                                                                      |
+>| Nacreous Pebble         | -                                                    | -                                                                                                                     |
+>| Nullstones              | Void missions                                        | Dropped by enemies and found in containers within the Void.                                                           |
+>| Rania Crystal Fragment  | -                                                    | -                                                                                                                     |
+>| Rubedo                  | Phobos, Earth, Pluto, Europa, Sedna, and Orokin Void | Higher drop rates in Void missions. Tycho, Lua is also a popular spot due to high enemy density.                      |
+>
+></details>
+>
+><details><summary>Oxides</summary>
+>
+>| Resource    | Best Farming Location(s)                                            | Additional Notes                                                                                                    |
+>| ----------- | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
+>| Alloy Plate | Venus, Ceres, Jupiter, Sedna                                        | Can be efficiently farmed in missions with high enemy density, such as Defense and Survival missions.               |
+>| Carbides    | Shipyard missions on Ceres, particularly against the Grineer        | Dropped by Eximus units on Ceres. Best farmed during Eximus Stronghold Sortie missions for higher spawn rates.      |
+>| Ferrite     | Mercury, Earth, Neptune, Orokin Void                                | High quantities can be found in Void missions. Capture missions are quick and can yield a good amount.              |
+>| Gallium     | Mars, Uranus                                                        | Low drop rate but can be farmed efficiently on Uranus due to a higher number of boss and rare enemy spawns.         |
+>| Maw Fang    | -                                                                   | -                                                                                                                   |
+>| Oxium       | Corpus missions, especially on Jupiter and Pluto                    | Oxium Ospreys are the primary source. Io, Jupiter is a popular farming location.                                    |
+>| Salvage     | Mars, Jupiter, Sedna                                                | Large quantities can be gathered in endless missions on these planets.                                              |
+>| Tellurium   | Archwing missions, Grineer Sealab (Uranus)                          | Rare resource that can drop in Archwing missions or Uranus Sealab tiles. Requires Archwing or submersible sections. |
+>| Titanium    | Railjack missions, particularly in Earth Proxima and Saturn Proxima | Farming in Railjack missions yields a good amount. Breaking down wreckage also grants Titanium.                     |
+>
+></details>
+>
+><details><summary>Pheromones</summary>
+>
+>| Resource            | Best Farming Location(s)                       | Additional Notes                                                                                |
+>| ------------------- | ---------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+>| Chitinous Husk      | Cambion Drift (Deimos)                         | Dropped by Deimos enemies, particularly the tougher variants.                                   |
+>| Infected Palpators  | Cambion Drift (Deimos)                         | Dropped by infested enemies on Deimos.                                                          |
+>| Lamentus            | -                                              | -                                                                                               |
+>| Mutagen Sample      | Orokin Derelict, Eris, Deimos                  | Best farmed in the Orokin Derelict and Eris. Clan Dojo research resource.                       |
+>| Nano Spores         | Saturn, Neptune, Eris, Orokin Derelict         | High quantities can be farmed in Survival, Defense, or Infested Salvage missions.               |
+>| Neurodes            | Earth, Eris, Lua, Deimos                       | Lua's Plato mission is a popular spot due to frequent Eximus spawns.                            |
+>| Plastids            | Saturn, Uranus, Phobos, Pluto, Eris            | Survival missions on Saturn and Uranus are good for farming Plastids.                           |
+>| Pulsating Tubercles | Cambion Drift (Deimos)                         | Dropped by Deimos enemies. Rare resource.                                                       |
+>| Severed Bile Sac    | Cambion Drift (Deimos)                         | Dropped by Deimos enemies. Rare resource.                                                       |
+>| Thrax Plasm         | Zariman Ten Zero                               | Dropped by enemies in Zariman missions.                                                         |
+>| Lua Thrax Plasm     | Lua, during Zariman-related missions or events | A variant of Thrax Plasm, specific to Lua during certain missions or events related to Zariman. |
+>
+></details>
+>
+><details><summary>Synthetics</summary>
+>
+>| Resource          | Best Farming Location(s)                                                  | Additional Notes                                                                                    |
+>| ----------------- | ------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+>| Aucrux Capacitors | -                                                                         | -                                                                                                   |
+>| Circuits          | Venus, Ceres, Kuva Fortress                                               | Endless missions on these planets can provide a steady supply.                                      |
+>| Control Module    | Neptune, Europa, Void                                                     | The Void is a reliable source, with missions like Survival and Defense being particularly fruitful. |
+>| Cryptographic ALU | Corpus Ship Sabotage missions (Ice Planet) during Razorback Armada events | Obtained by destroying Corpus Ship security nodes. Only drops during the Razorback Armada invasion. |
+>| Detonite Ampule   | Grineer missions                                                          | Common drop from Grineer enemies.                                                                   |
+>| Entrati Lanthorn  | -                                                                         | -                                                                                                   |
+>| Fieldron Sample   | Corpus missions                                                           | Common drop from Corpus enemies.                                                                    |
+>| Komms             | -                                                                         | -                                                                                                   |
+>| Neural Sensors    | Jupiter, Kuva Fortress                                                    | Alad V on Jupiter is a popular boss for Neural Sensor farming.                                      |
+>| Orokin Cell       | Saturn, Ceres, Derelict                                                   | Sargas Ruk on Saturn and General Sargas Ruk on Ceres are good targets for Orokin Cell farming.      |
+>| Polymer Bundle    | Mercury, Venus, Uranus                                                    | Dark Sector missions on Uranus, such as Assur, offer increased drop rates.                          |
+>| Saggen Pearl      | Cambion Drift (Deimos)                                                    | Found in the wild, particularly in the exocrine of Deimos. Rare resource.                           |
+>
+></details>
+>
+><details><summary>Sentient Appetite</summary>
+>
+>| Resource                  | Best Farming Location(s)                                                   | Additional Notes                                                                                                      |
+>| ------------------------- | -------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
+>| Anomaly Shard             | Veil Proxima during Sentient Anomaly in the Railjack missions              | Anomaly Shards are collected from the Sentient Ship that appears in the Veil Proxima for a limited time.              |
+>| Cetus Wisp                | Plains of Eidolon near bodies of water                                     | Best farmed at night or using a loot radar to spot them more easily. They spawn around the edges of lakes and ponds.  |
+>| Intact Sentient Core      | Plains of Eidolon from Vomvalysts and other Sentient enemies               | Commonly dropped by Vomvalysts upon defeat. Nighttime on the Plains is the best time to farm these.                   |
+>| Exceptional Sentient Core | Plains of Eidolon from Sentient enemies                                    | Higher chance of drop from stronger Sentients encountered during nighttime or within the Lua missions.                |
+>| Flawless Sentient Core    | Plains of Eidolon from Sentient enemies, particularly during Eidolon hunts | Dropped by stronger Sentient enemies; Eidolon Teralyst, Gantulyst, and Hydrolyst hunts provide these more frequently. |
+>| Eidolon Shard             | Plains of Eidolon from Eidolon Teralyst, Gantulyst, Hydrolyst              | Obtained by defeating Eidolons on the Plains of Eidolon. Requires completion of The War Within quest to collect.      |
+>
+></details>
 
 </details>
 
-<details><summary>Biotics</summary>
-
-| Resource             | Best Farming Location(s)                       | Additional Notes                                             |
-| -------------------- | ---------------------------------------------- | ------------------------------------------------------------ |
-| Connla Sprout        | Cambion Drift (Deimos)                         | Found in the wild, especially around bodies of water.        |
-| Dracroot             | Cambion Drift (Deimos)                         | Commonly found in the wild across Deimos.                    |
-| Dusklight Sarracenia | Ceres, in swampy waters                        | Best found in the Grineer Shipyard missions.                 |
-| Eevani               | -                                              | -                                                            |
-| Frostleaf            | On the ground in any cold environment on Venus | Look around the edges of cliffs and in open areas.           |
-| Ganglion             | Cambion Drift (Deimos)                         | Dropped by Deimos enemies and found in the environment.      |
-| Gorgaricus Spore     | Orb Vallis (Venus)                             | Found in caves and around mushroom patches.                  |
-| Kovnik               | -                                              | -                                                            |
-| Lunar Pitcher        | Lua                                            | Spawns in and around the Orokin structures.                  |
-| Maprico              | Plains of Eidolon (Earth)                      | Found on trees in the Plains.                                |
-| Moonlight Dragonlily | Plains of Eidolon (Earth) - night              | Found near water bodies during the night.                    |
-| Moonlight Jadeleaf   | Plains of Eidolon (Earth) - night              | Grows in grassy areas during the night.                      |
-| Moonlight Threshcone | Plains of Eidolon (Earth) - night              | Found in forested areas during the night.                    |
-| Mytocardia Spore     | Orb Vallis (Venus)                             | Found in the caves of Orb Vallis.                            |
-| Nistlepod            | Plains of Eidolon (Earth)                      | Grows on trees, especially near Grineer outposts.            |
-| Pustulite            | Cambion Drift (Deimos)                         | Dropped by enemies and found in the environment.             |
-| Ruk's Claw           | Grineer Asteroid missions (e.g., Mars)         | Grows in patches on the ground in Grineer Asteroid tilesets. |
-| Silphsela            | -                                              | -                                                            |
-| Sunlight Dragonlily  | Plains of Eidolon (Earth) - day                | Found near water bodies during the day.                      |
-| Sunlight Jadeleaf    | Plains of Eidolon (Earth) - day                | Grows in grassy areas during the day.                        |
-| Sunlight Threshcone  | Plains of Eidolon (Earth) - day                | Found in forested areas during the day.                      |
-| Tasoma Extract       | -                                              | -                                                            |
-| Tepa Nodule          | Cambion Drift (Deimos)                         | Found in the wild, often in areas with infestation presence. |
-| Ueymag               | -                                              | -                                                            |
-| Vestan Moss          | Asteroid missions, like those on Mercury       | Look on shaded rock walls in outdoor areas.                  |
-| Yao Shrub            | -                                              | -                                                            |
-
-</details>
-
-<details><summary>Calx</summary>
-
-| Resource                | Best Farming Location(s)                             | Additional Notes                                                                                                      |
-| ----------------------- | ---------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
-| Asterite                | Railjack missions, particularly in the Veil Proxima  | Farming in higher-level Railjack missions increases the drop rate.                                                    |
-| Belric Crystal Fragment | -                                                    | -                                                                                                                     |
-| Cubic Diodes            | Corpus Ship missions, especially on Europa           | Dropped by Eximus units on Corpus ships. Best farmed during Eximus Stronghold Sortie missions for higher spawn rates. |
-| Gallos Rods             | Railjack missions, particularly around Earth Proxima | Found in containers and as drops from enemies in Railjack missions.                                                   |
-| Grokdrul                | Plains of Eidolon (Earth)                            | Can be collected from Grokdrul Drums in Grineer camps.                                                                |
-| Hexenon                 | Jupiter, especially the Gas City rework tileset      | Farmable from enemies and containers on Jupiter. Io, Jupiter is a popular spot for Hexenon farming.                   |
-| Iradite                 | Plains of Eidolon (Earth)                            | Found in the wild, especially in higher-level areas of the Plains. Break iradite formations.                          |
-| Lucent Teroglobe        | Cambion Drift (Deimos)                               | Dropped by enemies and found in the environment.                                                                      |
-| Nacreous Pebble         | -                                                    | -                                                                                                                     |
-| Nullstones              | Void missions                                        | Dropped by enemies and found in containers within the Void.                                                           |
-| Rania Crystal Fragment  | -                                                    | -                                                                                                                     |
-| Rubedo                  | Phobos, Earth, Pluto, Europa, Sedna, and Orokin Void | Higher drop rates in Void missions. Tycho, Lua is also a popular spot due to high enemy density.                      |
-
-</details>
-
-<details><summary>Oxides</summary>
-
-| Resource    | Best Farming Location(s)                                            | Additional Notes                                                                                                    |
-| ----------- | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
-| Alloy Plate | Venus, Ceres, Jupiter, Sedna                                        | Can be efficiently farmed in missions with high enemy density, such as Defense and Survival missions.               |
-| Carbides    | Shipyard missions on Ceres, particularly against the Grineer        | Dropped by Eximus units on Ceres. Best farmed during Eximus Stronghold Sortie missions for higher spawn rates.      |
-| Ferrite     | Mercury, Earth, Neptune, Orokin Void                                | High quantities can be found in Void missions. Capture missions are quick and can yield a good amount.              |
-| Gallium     | Mars, Uranus                                                        | Low drop rate but can be farmed efficiently on Uranus due to a higher number of boss and rare enemy spawns.         |
-| Maw Fang    | -                                                                   | -                                                                                                                   |
-| Oxium       | Corpus missions, especially on Jupiter and Pluto                    | Oxium Ospreys are the primary source. Io, Jupiter is a popular farming location.                                    |
-| Salvage     | Mars, Jupiter, Sedna                                                | Large quantities can be gathered in endless missions on these planets.                                              |
-| Tellurium   | Archwing missions, Grineer Sealab (Uranus)                          | Rare resource that can drop in Archwing missions or Uranus Sealab tiles. Requires Archwing or submersible sections. |
-| Titanium    | Railjack missions, particularly in Earth Proxima and Saturn Proxima | Farming in Railjack missions yields a good amount. Breaking down wreckage also grants Titanium.                     |
-
-</details>
-
-<details><summary>Pheromones</summary>
-
-| Resource            | Best Farming Location(s)                       | Additional Notes                                                                                |
-| ------------------- | ---------------------------------------------- | ----------------------------------------------------------------------------------------------- |
-| Chitinous Husk      | Cambion Drift (Deimos)                         | Dropped by Deimos enemies, particularly the tougher variants.                                   |
-| Infected Palpators  | Cambion Drift (Deimos)                         | Dropped by infested enemies on Deimos.                                                          |
-| Lamentus            | -                                              | -                                                                                               |
-| Mutagen Sample      | Orokin Derelict, Eris, Deimos                  | Best farmed in the Orokin Derelict and Eris. Clan Dojo research resource.                       |
-| Nano Spores         | Saturn, Neptune, Eris, Orokin Derelict         | High quantities can be farmed in Survival, Defense, or Infested Salvage missions.               |
-| Neurodes            | Earth, Eris, Lua, Deimos                       | Lua's Plato mission is a popular spot due to frequent Eximus spawns.                            |
-| Plastids            | Saturn, Uranus, Phobos, Pluto, Eris            | Survival missions on Saturn and Uranus are good for farming Plastids.                           |
-| Pulsating Tubercles | Cambion Drift (Deimos)                         | Dropped by Deimos enemies. Rare resource.                                                       |
-| Severed Bile Sac    | Cambion Drift (Deimos)                         | Dropped by Deimos enemies. Rare resource.                                                       |
-| Thrax Plasm         | Zariman Ten Zero                               | Dropped by enemies in Zariman missions.                                                         |
-| Lua Thrax Plasm     | Lua, during Zariman-related missions or events | A variant of Thrax Plasm, specific to Lua during certain missions or events related to Zariman. |
-
-</details>
-
-<details><summary>Synthetics</summary>
-
-| Resource          | Best Farming Location(s)                                                  | Additional Notes                                                                                    |
-| ----------------- | ------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
-| Aucrux Capacitors | -                                                                         | -                                                                                                   |
-| Circuits          | Venus, Ceres, Kuva Fortress                                               | Endless missions on these planets can provide a steady supply.                                      |
-| Control Module    | Neptune, Europa, Void                                                     | The Void is a reliable source, with missions like Survival and Defense being particularly fruitful. |
-| Cryptographic ALU | Corpus Ship Sabotage missions (Ice Planet) during Razorback Armada events | Obtained by destroying Corpus Ship security nodes. Only drops during the Razorback Armada invasion. |
-| Detonite Ampule   | Grineer missions                                                          | Common drop from Grineer enemies.                                                                   |
-| Entrati Lanthorn  | -                                                                         | -                                                                                                   |
-| Fieldron Sample   | Corpus missions                                                           | Common drop from Corpus enemies.                                                                    |
-| Komms             | -                                                                         | -                                                                                                   |
-| Neural Sensors    | Jupiter, Kuva Fortress                                                    | Alad V on Jupiter is a popular boss for Neural Sensor farming.                                      |
-| Orokin Cell       | Saturn, Ceres, Derelict                                                   | Sargas Ruk on Saturn and General Sargas Ruk on Ceres are good targets for Orokin Cell farming.      |
-| Polymer Bundle    | Mercury, Venus, Uranus                                                    | Dark Sector missions on Uranus, such as Assur, offer increased drop rates.                          |
-| Saggen Pearl      | Cambion Drift (Deimos)                                                    | Found in the wild, particularly in the exocrine of Deimos. Rare resource.                           |
-
-</details>
-
-<details><summary>Sentient Appetite</summary>
-
-| Resource                  | Best Farming Location(s)                                                   | Additional Notes                                                                                                      |
-| ------------------------- | -------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
-| Anomaly Shard             | Veil Proxima during Sentient Anomaly in the Railjack missions              | Anomaly Shards are collected from the Sentient Ship that appears in the Veil Proxima for a limited time.              |
-| Cetus Wisp                | Plains of Eidolon near bodies of water                                     | Best farmed at night or using a loot radar to spot them more easily. They spawn around the edges of lakes and ponds.  |
-| Intact Sentient Core      | Plains of Eidolon from Vomvalysts and other Sentient enemies               | Commonly dropped by Vomvalysts upon defeat. Nighttime on the Plains is the best time to farm these.                   |
-| Exceptional Sentient Core | Plains of Eidolon from Sentient enemies                                    | Higher chance of drop from stronger Sentients encountered during nighttime or within the Lua missions.                |
-| Flawless Sentient Core    | Plains of Eidolon from Sentient enemies, particularly during Eidolon hunts | Dropped by stronger Sentient enemies; Eidolon Teralyst, Gantulyst, and Hydrolyst hunts provide these more frequently. |
-| Eidolon Shard             | Plains of Eidolon from Eidolon Teralyst, Gantulyst, Hydrolyst              | Obtained by defeating Eidolons on the Plains of Eidolon. Requires completion of The War Within quest to collect.      |
-
-</details>
-
----
-
-## Arcon Shards
+<details><summary>Arcon Shards</summary>
 
 A permanent upgrade item taken from Archons and used by the Helminth to further enhance a Warframe
 
@@ -274,3 +276,5 @@ A permanent upgrade item taken from Archons and used by the Helminth to further 
 - The Shard has an 80% chance of being a normal variant and 20% of being Tauforged.
 - Topaz, Violet, and Emerald Archon Shards are only obtainable through Coalescent Fusion of two Crimson, Amber, and Azure Shards.
 - 2 shards per week, 1 from the mission, 1 from Veilbreaker
+
+</details>

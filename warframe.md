@@ -225,7 +225,7 @@ Incarnon Genesis
 > | Fieldron Sample   | Corpus missions                                                           | Common drop from Corpus enemies.                                                                    |
 > | Komms             | -                                                                         | -                                                                                                   |
 > | Neural Sensors    | Jupiter, Kuva Fortress                                                    | Alad V on Jupiter is a popular boss for Neural Sensor farming.                                      |
-> | Orokin Cell       | Saturn, Ceres, Derelict                                                   | Sargas Ruk on Saturn and General Sargas Ruk on Ceres are good targets for Orokin Cell farming.      |
+> | Orokin Cell       | Tethys on Saturn                                                  | Sargas Ruk on Saturn, dies fast to Ignis Wraith      |
 > | Polymer Bundle    | Mercury, Venus, Uranus                                                    | Dark Sector missions on Uranus, such as Assur, offer increased drop rates.                          |
 > | Saggen Pearl      | Cambion Drift (Deimos)                                                    | Found in the wild, particularly in the exocrine of Deimos. Rare resource.                           |
 >

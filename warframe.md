@@ -189,7 +189,7 @@ Incarnon Genesis
 > | Maw Fang    | -                                                                   | -                                                                                                                   |
 > | Oxium       | Corpus missions, especially on Jupiter and Pluto                    | Oxium Ospreys are the primary source. Io, Jupiter is a popular farming location.                                    |
 > | Salvage     | Mars, Jupiter, Sedna                                                | Large quantities can be gathered in endless missions on these planets.                                              |
-> | Tellurium   | Archwing missions, Grineer Sealab (Uranus)                          | Rare resource that can drop in Archwing missions or Uranus Sealab tiles. Requires Archwing or submersible sections. |
+> | Tellurium   | Ophelia on Uranus                         | Rare resource that can drop in Archwing missions or Uranus Sealab tiles. |
 > | Titanium    | Railjack missions, particularly in Earth Proxima and Saturn Proxima | Farming in Railjack missions yields a good amount. Breaking down wreckage also grants Titanium.                     |
 >
 > </details>

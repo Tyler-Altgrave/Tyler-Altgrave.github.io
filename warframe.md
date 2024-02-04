@@ -98,7 +98,7 @@ Incarnon Genesis
 - Complete "The Circuit" missions on the Steel Path difficulty level to earn Genesis Adapters as rewards, specifically at the 5th and 10th tiers.
 </details>
 
-<details><summary>Loot Box Farming</summary>
+<details><summary>Titania Loot Box Farming</summary>
 
 - Subsume Nova's Null Star ability onto Titania
 - Equip the Neutron Star augment mod (this is how we break boxes)

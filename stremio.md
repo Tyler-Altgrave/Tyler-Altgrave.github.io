@@ -17,5 +17,4 @@
   - Change the "Debrid Provider" to "RealDebrid"
   - Copy Your [API Key](https://real-debrid.com/apitoken)
   - Paste Your [API Key](https://real-debrid.com/apitoken) into [Torrentio](https://torrentio.strem.fun/configure) and press "Install"
-  -
 - Done, you should now be able to stream anything within Stremio

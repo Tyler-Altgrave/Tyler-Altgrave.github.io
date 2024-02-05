@@ -1,12 +1,10 @@
 ## Stremio Setup
 
-<img src="./img/stremio.jpeg" width="100%">
-
-| Products                                                                                        |
-| ----------------------------------------------------------------------------------------------- |
-| Stremio is a free media center app that allows users to stream content online                   |
-| Torrentio is a software that aggregates torrents                                                |
-| Real-Debrid is a subscription-based service that allows users to stream pre-downloaded torrents |
+| <img src="./img/stremio.jpeg" width="100%">                                                          |
+| ---------------------------------------------------------------------------------------------------- |
+| Stremio is a free media center app that allows users to stream content online                        |
+| Torrentio is a software that aggregates torrents                                                     |
+| Real-Debrid is a subscription-based service that allows users to stream torrents without downloading |
 
 - Install the [Stremio Desktop App](https://www.stremio.com/downloads)
 - Sign up for a [Stremio Account](https://www.stremio.com/register)

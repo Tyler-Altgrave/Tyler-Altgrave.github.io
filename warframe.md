@@ -180,17 +180,17 @@ Incarnon Genesis
 >
 > <details><summary>Oxides</summary>
 >
-> | Resource    | Best Farming Location(s)                                            | Additional Notes                                                                                                    |
-> | ----------- | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
-> | Alloy Plate | Venus, Ceres, Jupiter, Sedna                                        | Can be efficiently farmed in missions with high enemy density, such as Defense and Survival missions.               |
-> | Carbides    | Shipyard missions on Ceres, particularly against the Grineer        | Dropped by Eximus units on Ceres. Best farmed during Eximus Stronghold Sortie missions for higher spawn rates.      |
-> | Ferrite     | Mercury, Earth, Neptune, Orokin Void                                | High quantities can be found in Void missions. Capture missions are quick and can yield a good amount.              |
-> | Gallium     | Mars, Uranus                                                        | Low drop rate but can be farmed efficiently on Uranus due to a higher number of boss and rare enemy spawns.         |
-> | Maw Fang    | -                                                                   | -                                                                                                                   |
-> | Oxium       | Corpus missions, especially on Jupiter and Pluto                    | Oxium Ospreys are the primary source. Io, Jupiter is a popular farming location.                                    |
-> | Salvage     | Mars, Jupiter, Sedna                                                | Large quantities can be gathered in endless missions on these planets.                                              |
-> | Tellurium   | Ophelia on Uranus                         | Rare resource that can drop in Archwing missions or Uranus Sealab tiles. |
-> | Titanium    | Railjack missions, particularly in Earth Proxima and Saturn Proxima | Farming in Railjack missions yields a good amount. Breaking down wreckage also grants Titanium.                     |
+> | Resource    | Best Farming Location(s)                                            | Additional Notes                                                                                               |
+> | ----------- | ------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+> | Alloy Plate | Venus, Ceres, Jupiter, Sedna                                        | Can be efficiently farmed in missions with high enemy density, such as Defense and Survival missions.          |
+> | Carbides    | Shipyard missions on Ceres, particularly against the Grineer        | Dropped by Eximus units on Ceres. Best farmed during Eximus Stronghold Sortie missions for higher spawn rates. |
+> | Ferrite     | Mercury, Earth, Neptune, Orokin Void                                | High quantities can be found in Void missions. Capture missions are quick and can yield a good amount.         |
+> | Gallium     | Mars, Uranus                                                        | Low drop rate but can be farmed efficiently on Uranus due to a higher number of boss and rare enemy spawns.    |
+> | Maw Fang    | -                                                                   | -                                                                                                              |
+> | Oxium       | Corpus missions, especially on Jupiter and Pluto                    | Oxium Ospreys are the primary source. Io, Jupiter is a popular farming location.                               |
+> | Salvage     | Mars, Jupiter, Sedna                                                | Large quantities can be gathered in endless missions on these planets.                                         |
+> | Tellurium   | Ophelia on Uranus                                                   | Rare resource that can drop in Archwing missions or Uranus Sealab tiles.                                       |
+> | Titanium    | Railjack missions, particularly in Earth Proxima and Saturn Proxima | Farming in Railjack missions yields a good amount. Breaking down wreckage also grants Titanium.                |
 >
 > </details>
 >
@@ -225,7 +225,7 @@ Incarnon Genesis
 > | Fieldron Sample   | Corpus missions                                                           | Common drop from Corpus enemies.                                                                    |
 > | Komms             | -                                                                         | -                                                                                                   |
 > | Neural Sensors    | Jupiter, Kuva Fortress                                                    | Alad V on Jupiter is a popular boss for Neural Sensor farming.                                      |
-> | Orokin Cell       | Tethys on Saturn                                                  | Sargas Ruk on Saturn, dies fast to Ignis Wraith      |
+> | Orokin Cell       | Tethys on Saturn                                                          | Sargas Ruk on Saturn, dies fast to Ignis Wraith                                                     |
 > | Polymer Bundle    | Mercury, Venus, Uranus                                                    | Dark Sector missions on Uranus, such as Assur, offer increased drop rates.                          |
 > | Saggen Pearl      | Cambion Drift (Deimos)                                                    | Found in the wild, particularly in the exocrine of Deimos. Rare resource.                           |
 >

@@ -274,3 +274,31 @@ A permanent upgrade item taken from Archons and used by the Helminth to further 
 - Use Razorwing to keep moving while you cast Null Star to break boxes
 <img src="./img/titaniaNeutronStar.jpeg" width="100%">
 </details>
+
+<details><summary>Alecaframe - Warframe companion app</summary>
+
+<details><summary>Installing Alecaframe</summary>
+
+Alecaframe is a companion app for warframe that makes it easier to track your progress, increase your mastery rank and craft, buy and sell items.
+
+- Install [Alecaframe](https://www.alecaframe.com/)
+- Link your [Warframe.Market](Warframe.Market) account in the settings
+- Launch Warframe and ensure your progress is sync'd with Alecaframe
+
+</details>
+
+<details><summary>Debloating Overwolf</summary>
+
+Overwolf is an addon platform that works with developers to ensure mods are TOS compliant and not bannable. The drawback of Overwolf is that it is resource heavy and using tracking and advertising within its overlay. Luckily, we can mitigate most of this by blocking its access to the internet. For this, we'll use "Simplewall", which is a free open-source extension of the native windows firewall that allows us to quickly allow/deny specific applcations internet access.
+
+- Fully close out of Alecaframe and Overwolf, ensure its not running on the taskbar and task manager
+- Install [Simplewall](https://github.com/henrypp/simplewall/releases)
+- In Simplewall, click the "Enable Filters" button
+- Once enabled, a notification will be displayed any time a new application tries to access the internet for the first time
+- Launch Overwolf and the Alecaframe addon
+- When any Overwolf component requests internet access, you can permantently deny it
+  - Ensure "Alecaframe.exe" is granted access when it requests. If you block it by mistake you can Allow it form the list in Simplewall.
+
+</details>
+
+</details>

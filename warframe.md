@@ -36,7 +36,7 @@ Unlocking the Kuva Lich weapon
   - Play through the missions, executing thralls along the way
   - Eventually your lich will spawn
     -  Defeat the Kuva Lich and execute them to see if you have your mods in the right order
-    -  Once you get the order wrong, the lich will move to the next planet and rank up (Earth, Mars)
+    -  Once you get the order wrong, the lich will move to the next planet and rank up (Earth, Mars, Ceres, Sedna, Kuva Fortress)
     -  Before moving on to the next planet, reorder your mods
   
 

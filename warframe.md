@@ -315,3 +315,16 @@ Overwolf is an addon platform that works with developers to ensure mods are TOS 
 </details>
 
 </details>
+
+<details><summary>Arcane Mod Farming</summary>
+
+- Zariman, Tuvul Commons, Void Cascade Mission Type
+- Farm Thrax enemies to drop Arcanes using a Mod Drop Chance Booster
+  - Mod Drop Chance Booster is a 3-day booster can be obtained as a reward from Sorties, Archon Hunts, and the Steel Path track of The Circuit
+  - It's also offered as a periodic item for sale by Baro Ki'Teer, costing 500 Orokin Ducats and 175,000 to purchase
+- Buy Arcanes using Cavalero Standing
+- Dissolve junk arcanes for Vosfor
+- Trade Vosfor to Loid for Arcanes
+- Rank Up Arcanes
+
+</details>

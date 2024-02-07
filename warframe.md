@@ -29,15 +29,21 @@ Selecting a Kuva Lich weapon
 Unlocking the Kuva Lich weapon
 
 - On creation of a Kuva Lich, they generate a random passphrase of 3 different Requiems
-- To spawn the lich, you'll need to execute thralls in kuva lich missions
+- To spawn the Lich, you'll need to execute thralls in Kuva Lich missions
   - Players must slot the matching Requiem Mods in their Parazon and defeat the Lich until they find the correct order
   - Always place an Oull requiem mod in the first slot of your paragon, as it acts as a wildcard (Guaranteed success on the first try)
-  - Start on Earth, select any mission with the lich icon (higher level)
-  - Play through the missions, executing thralls along the way
-  - Eventually your lich will spawn
-    -  Defeat the Kuva Lich and execute them to see if you have your mods in the right order
-    -  Once you get the order wrong, the lich will move to the next planet and rank up (Earth, Mars, Ceres, Sedna, Kuva Fortress)
-    -  Before moving on to the next planet, reorder your mods
+  - Start on Earth, select any mission with the Lich icon (higher level)
+  - Play through the missions, executing thralls along the way to draw out your Kuva Lich
+  - Once your Kuva Lich has spawned:
+    - Down the Kuva Lich without executing until you've revealed your first 2 Requiem Murmurs
+    - Slot the 2 known murmurs in the first 2 slots and an Oull (wildcard) in the third slot
+    - Down the Kuva Lich and execute it
+      - If the first mod is wrong, swap it with the second slot
+      - If the first mod is right and the second mod is wrong, swap the second mod to the third slot
+    - Down the Kuva Lich and execute it
+      - If the first mod is wrong, swap it with the third slot
+    - Down the Kuva Lich and execute it
+      - You should now have all 3 mods in the correct order
   
 
 Buying a Kuva Lich contract

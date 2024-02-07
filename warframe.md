@@ -44,7 +44,6 @@ Unlocking the Kuva Lich weapon
       - If the first mod is wrong, swap it with the third slot
     - Down the Kuva Lich and execute it
       - You should now have all 3 mods in the correct order
-  
 
 Buying a Kuva Lich contract
 
@@ -265,14 +264,15 @@ A permanent upgrade item taken from Archons and used by the Helminth to further 
 
 - Complete the Veilbreaker quest
 - Install the Helminth Archon Shard Segment
-- Archon Shards are awarded from Archon Hunts
-  - Archon Hunts are multi-stage missions in a battle against Narmer forces to defeat Pazuul's Archons
-  - Crimson from Archon Amar
-  - Amber from Archon Nira
-  - Azure from Archon Boreal
-- The Shard has an 80% chance of being a normal variant and 20% of being Tauforged.
-- Topaz, Violet, and Emerald Archon Shards are only obtainable through Coalescent Fusion of two Crimson, Amber, and Azure Shards.
-- 2 shards per week, 1 from the mission, 1 from Veilbreaker
+- Archon Shards are awarded from Archon Hunts (1), Netracell (5) and Chipper (1)
+  - Archon Hunts are multi-stage missions in a battle against Narmer forces to defeat Pazuul's Archons, accessed from the archon hunts tab on the star chart
+  - Netracell is a repeatable mission that can be replayed up to 5 times per week for rewards
+  - Chipper is a merchant that appears in the Drifter Camp after reaching Rank 2 with the Kahl's Garrison Syndicate. Archon Shards become available in their shop after reaching Rank 5 with the Kahl's Garrison syndicate.
+- Archon Shards have an 80% chance of being a normal variant and 20% of being Tauforged
+- Topaz, Violet, and Emerald Archon Shards are only obtainable through Coalescent Fusion
+  - Topaz: Crimson + Amber
+  - Violet: Crimson + Azure
+  - Emerald: Amber + Azure
 
 </details>
 

@@ -331,26 +331,26 @@ Overwolf is an addon platform that works with developers to ensure mods are TOS 
 
 <details><summary>Kahl Garrison Missions</summary>
 
-><details><summary>Sneaky Sabotage Speedrun</summary>
+> <details><summary>Sneaky Sabotage Speedrun</summary>
 >
->|                                    |                                              |                                                                    |                                      |
->| ---------------------------------- | -------------------------------------------- | ------------------------------------------------------------------ | ------------------------------------ |
->| ACTIVATE THE CONSOLE (MARKED)      | DEACTIVATE THE BARRIER TO THE RIGHT          | -                                                                  | -                                    |
->| ACTIVATE THE CONSOLE (MARKED)      | DEACTIVATE THE MAGNALOCK TO THE LEFT         | DEACTIVATE THE BARRIER TO THE RIGHT                                | CHANGE THE CAMERA VIEW TO THE RIGHT  |
->| DEACTIVATE THE BARRIER TO THE LEFT | EXIT                                         |                                                                    |                                      |
->| EXIT DOOR                          | TURN LEFT                                    | JUMP OVER RAILING                                                  |                                      |
->| STAIRS IMMEDIATELY TO THE RIGHT    | HACK THE CONSOLE                             | JUMP DOWN                                                          | DOOR ON LEFT                         |
->| ACTIVATE CONSOLE                   | DEACTIVATE BARRIER                           | EXIT ROOM                                                          | TURN RIGHT                           |
->| GO UP STAIRS                       | TURN RIGHT                                   | GO DOWN STAIRS                                                     | JUMP OVER RAILING                    |
->| CONTINUE STRAIGHT                  | DOWN STAIRS                                  | UP STAIRS                                                          | HACK CONSOLE                         |
->| TURN LEFT                          | JUMP RAILING                                 | CLIMB WALL                                                         | FALL DOWN                            |
->| HACK CONSOLE                       | TURN LEFT                                    | ACTIVATE ELEVATOR                                                  | RUN TO MARKED CONSOLE                |
->| CONTINUE STRAIGHT TO ROOM          | ACTIVATE CONSOLE                             | DEACTIVATE BARRIER                                                 | 180° DEACTIVATE MAGNALOCK            |
->| RUN TO MARKED CONSOLE              | HACK CONSOLE                                 | RUN ON LEFT SLOPED WALL UNTIL LEDGE                                | DOUBLE JUMP UP TO HIGH LEDGE         |
->| FOLLOW SSTAIRS ON LEFT             | ENTER ROOM ON LEFT                           | ACTIVATE CONSOLE                                                   |                                      |
->| RIGHT CAMERA                       | UP ACTIVATE DRONE                            | CHANGE SYMBOLS TO MATCH THEIR CONNECTED DOOR SYMBOL (FOLLOW LINES) | RUN BOOT SEQUENCE                    |
->| EXIT                               | GRAB GUN                                     | MOVE TO 60M MARKED OBJECTIVE                                       | ACTIVATE CONSOLE                     |
->| TURN RIGHT                         | KEEP RUNNING STAIGHT TO FAR END OF LONG HALL | FREEZE BOSS WITH BARRELS                                           | Repeat Each Phase: G, 1, 1, 3, Shoot |
+> |                                                                                                                                                             |
+> | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+> | <span style="color: cyan">Console (Marked) &emsp;\|&emsp; Deactivate Right Barrier </span>                                                                               |
+> | <span style="color: yellow">Console (Marked) &emsp;\|&emsp; Deactivate Left Magnalock &emsp;\|&emsp; Deactivate Right Barrier &emsp;\|&emsp; Change To Right Camera </span>                            |
+> | <span style="color: magenta">Deactivate Left Barrier &emsp;\|&emsp; Exit </span>                                                                                            |
+> | <span style="color: white">Exit Door &emsp;\|&emsp; Turn Left &emsp;\|&emsp; Jump Over Railing &emsp;\|&emsp; </span>                                                                                 |
+> | <span style="color: cyan">Stairs Immediately To The Right &emsp;\|&emsp; Hack Console &emsp;\|&emsp; Jump Down &emsp;\|&emsp; Left Door </span>                                                      |
+> | <span style="color: yellow">Console &emsp;\|&emsp; Deactivate Barrier &emsp;\|&emsp; Exit Room &emsp;\|&emsp; Turn Right </span>                                                                       |
+> | <span style="color: magenta">Go Up Stairs &emsp;\|&emsp; Turn Right &emsp;\|&emsp; Go Down Stairs &emsp;\|&emsp; Jump Over Railing </span>                                                              |
+> | <span style="color: white">Continue Straight &emsp;\|&emsp; Down Stairs &emsp;\|&emsp; Up Stairs &emsp;\|&emsp; Hack Console </span>                                                                  |
+> | <span style="color: cyan">Turn Left &emsp;\|&emsp; Jump Railing &emsp;\|&emsp; Climb Wall &emsp;\|&emsp; Fall Down </span>                                                                           |
+> | <span style="color: yellow">Hack Console &emsp;\|&emsp; Turn Left &emsp;\|&emsp; Activate Elevator &emsp;\|&emsp; Run Towards Blinking Light </span>                                                        |
+> | <span style="color: magenta">Continue Straight To Room &emsp;\|&emsp; Activate Console &emsp;\|&emsp; Deactivate Barrier &emsp;\|&emsp; 180° Deactivate Magnalock </span>                               |
+> | <span style="color: white">Run To Marked Console &emsp;\|&emsp; Hack Console &emsp;\|&emsp; Run On Left Sloped Wall &emsp;\|&emsp; Double Jump Up To High Ledge </span>                   |
+> | <span style="color: cyan">Follow Sstairs On Left &emsp;\|&emsp; Enter Room On Left &emsp;\|&emsp; Activate Console &emsp;\|&emsp; </span>                                                            |
+> | <span style="color: yellow">Right Camera &emsp;\|&emsp; Up Activate Drone &emsp;\|&emsp; Change Symbols To Match Their Connected Door Symbol (Follow Lines) &emsp;\|&emsp; Run Boot Sequence </span>   |
+> | <span style="color: magenta">Exit &emsp;\|&emsp; Grab Gun &emsp;\|&emsp; Move To 60m Marked Objective &emsp;\|&emsp; Activate Console </span>                                                           |
+> | <span style="color: white">Turn Right &emsp;\|&emsp; Keep Running Staight To Far End Of Long Hall &emsp;\|&emsp; Freeze Boss With Barrel &emsp;\|&emsp; Repeat Each Phase: G, 1, 1, 3, Shoot </span> |
 
 </details>
 

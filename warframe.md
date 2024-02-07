@@ -52,9 +52,9 @@ Buying a Kuva Lich contract
   - Meet the seller in the Crimson Branch room of a Dojo
   - Complete the trade to activate the Lich
 
-|                  Male Larvaling                  |                  Female Larvaling                  |
-| :----------------------------------------------: | :------------------------------------------------: |
-| <img src="./img/maleLarvaling.webp" width="100"> | <img src="./img/femaleLarvaling.webp" width="100"> |
+|                         Male Larvaling                         |                         Female Larvaling                         |
+| :------------------------------------------------------------: | :--------------------------------------------------------------: |
+| <img src="./img/warframe/kuva/maleLarvaling.webp" width="100"> | <img src="./img/warframe/kuva/femaleLarvaling.webp" width="100"> |
 
 ## </details>
 
@@ -86,9 +86,9 @@ Buying a candidate contract
   - Meet the seller in the Crimson Branch room of a Dojo
   - Complete the trade to activate the candidate
 
-|                  Treasurer                   |                 Zenith Granum Crown                  |                 Granum Void Hand Tribute                 |
-| :------------------------------------------: | :--------------------------------------------------: | :------------------------------------------------------: |
-| <img src="./img/treasurer.webp" width="100"> | <img src="./img/zenithGranumCrown.webp" width="100"> | <img src="./img/granumVoidHandTribute.webp" width="100"> |
+|                           Treasurer                           |                          Zenith Granum Crown                          |                         Granum Void Hand Tribute                          |
+| :-----------------------------------------------------------: | :-------------------------------------------------------------------: | :-----------------------------------------------------------------------: |
+| <img src="./img/warframe/sisters/treasurer.webp" width="100"> | <img src="./img/warframe/sisters/zenithGranumCrown.webp" width="100"> | <img src="./img/warframe/sisters/granumVoidHandTribute.webp" width="100"> |
 
 ## </details>
 
@@ -267,7 +267,7 @@ A permanent upgrade item taken from Archons and used by the Helminth to further 
 - Archon Shards are awarded from Archon Hunts (1), Netracell (5) and Chipper (1)
   - Archon Hunts are multi-stage missions in a battle against Narmer forces to defeat Pazuul's Archons, accessed from the archon hunts tab on the star chart
   - Netracell is a repeatable mission that can be replayed up to 5 times per week for rewards
-  - Chipper is a merchant that appears in the Drifter Camp after reaching Rank 2 with the Kahl's Garrison Syndicate. Archon Shards become available in their shop after reaching Rank 5 with the Kahl's Garrison syndicate.
+  - Chipper is a merchant that appears in the Drifter Camp after reaching Rank 2 with the Kahl's Garrison Syndicate. Archon Shards become available in their shop after reaching Rank 5 with the Kahl's Garrison syndicate. Cost 90 Stock.
 - Archon Shards have an 80% chance of being a normal variant and 20% of being Tauforged
 - Topaz, Violet, and Emerald Archon Shards are only obtainable through Coalescent Fusion
   - Topaz: Crimson + Amber
@@ -285,7 +285,7 @@ A permanent upgrade item taken from Archons and used by the Helminth to further 
   - 265 Range (Companion Vacuum is 11.5M, Neutron Star is 21.2M)
   - 70% Strength (Needed to break boxes in a single cast)
 - Use Razorwing to keep moving while you cast Null Star to break boxes
-<img src="./img/titaniaNeutronStar.jpeg" width="100%">
+<img src="./img/warframe/builds/titaniaNeutronStar.jpeg" width="100%">
 </details>
 
 <details><summary>Alecaframe - Warframe companion app</summary>
@@ -326,5 +326,32 @@ Overwolf is an addon platform that works with developers to ensure mods are TOS 
 - Dissolve junk arcanes for Vosfor
 - Trade Vosfor to Loid for Arcanes
 - Rank Up Arcanes
+
+</details>
+
+<details><summary>Kahl Garrison Missions</summary>
+
+<details><summary>Sneaky Sabotage</summary>
+
+|                                    |                                      |                                                                    |                                     |
+| ---------------------------------- | ------------------------------------ | ------------------------------------------------------------------ | ----------------------------------- |
+| Activate The Console (Marked)      | Deactivate The Barrier To The Right  | -                                                                  | -                                   |
+| Activate The Console (Marked)      | Deactivate The Magnalock To The Left | Deactivate The Barrier To The Right                                | Change The Camera View To The Right |
+| Deactivate The Barrier To The Left | Exit                                 |                                                                    |                                     |
+| Exit Door                          | Turn Left                            | Jump Over Railing                                                  |                                     |
+| Stairs immediately to the right    | Hack The Console                     | Jump Down                                                          | Door On Left                        |
+| Activate Console                   | Deactivate Barrier                   | Exit Room                                                          | Turn Right                          |
+| Go Up Stairs                       | Turn Right                           | Go Down Stairs                                                     | Jump over railing                   |
+| Continue Straight                  | Down Stairs                          | Up Stairs                                                          | Hack Console                        |
+| Turn Left                          | Jump Railing                         | Climb Wall                                                         | Fall Down                           |
+| Hack Console                       | Turn Left                            | Activate Elevator                                                  | Run To Marked Console               |
+| Continue straight to room          | Activate console                     | Deactivate barrier                                                 | 180° Deactivate Magnalock           |
+| Run To Marked Console              | Hack console                         | Run on left sloped wall until ledge                                | double jump up to high ledge        |
+| follow sstairs on left             | enter room on left                   | activate console                                                   |                                     |
+| Right camera                       | up deactivate                        | change symbols to match their connected door symbol (follow lines) | deactivae main machine              |
+| exit                               | grab item                            | move to 60M marked objective                                       | activate console                    |
+| run to "extract" point             | break barrel to freeze enemy         | spam "1" ability grenades                                          | 2 phases, 50% HP                    |
+
+</details>
 
 </details>

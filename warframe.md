@@ -331,26 +331,26 @@ Overwolf is an addon platform that works with developers to ensure mods are TOS 
 
 <details><summary>Kahl Garrison Missions</summary>
 
-><details><summary>Sneaky Sabotage Speedrun</summary>
->
->|                                             |                                    |                                              |                                                                    |                                     |
->| ------------------------------------------- | ---------------------------------- | -------------------------------------------- | ------------------------------------------------------------------ | ----------------------------------- |
->| <span style="color: blue">●</span>          | ACTIVATE THE CONSOLE (MARKED)      | DEACTIVATE THE BARRIER TO THE RIGHT          | -                                                                  | -                                   |
->| <span style="color: red">●</span>           | ACTIVATE THE CONSOLE (MARKED)      | DEACTIVATE THE MAGNALOCK TO THE LEFT         | DEACTIVATE THE BARRIER TO THE RIGHT                                | CHANGE THE CAMERA VIEW TO THE RIGHT |
->| <span style="color: green">●</span>         | DEACTIVATE THE BARRIER TO THE LEFT | EXIT                                         |                                                                    |                                     |
->| <span style="color: orange">●</span>        | EXIT DOOR                          | TURN LEFT                                    | JUMP OVER RAILING                                                  |                                     |
->| <span style="color: purple">●</span>        | STAIRS IMMEDIATELY TO THE RIGHT    | HACK THE CONSOLE                             | JUMP DOWN                                                          | DOOR ON LEFT                        |
->| <span style="color: teal">●</span>          | ACTIVATE CONSOLE                   | DEACTIVATE BARRIER                           | EXIT ROOM                                                          | TURN RIGHT                          |
->| <span style="color: indigo">●</span>        | GO UP STAIRS                       | TURN RIGHT                                   | GO DOWN STAIRS                                                     | JUMP OVER RAILING                   |
->| <span style="color: brown">●</span>         | CONTINUE STRAIGHT                  | DOWN STAIRS                                  | UP STAIRS                                                          | HACK CONSOLE                        |
->| <span style="color: gold">●</span>          | TURN LEFT                          | JUMP RAILING                                 | CLIMB WALL                                                         | FALL DOWN                           |
->| <span style="color: limegreen">●</span>     | HACK CONSOLE                       | TURN LEFT                                    | ACTIVATE ELEVATOR                                                  | RUN TO MARKED CONSOLE               |
->| <span style="color: darkcyan">●</span>      | CONTINUE STRAIGHT TO ROOM          | ACTIVATE CONSOLE                             | DEACTIVATE BARRIER                                                 | 180° DEACTIVATE MAGNALOCK           |
->| <span style="color: crimson">●</span>       | RUN TO MARKED CONSOLE              | HACK CONSOLE                                 | RUN ON LEFT SLOPED WALL UNTIL LEDGE                                | DOUBLE JUMP UP TO HIGH LEDGE        |
->| <span style="color: darkslategray">●</span> | FOLLOW SSTAIRS ON LEFT             | ENTER ROOM ON LEFT                           | ACTIVATE CONSOLE                                                   |                                     |
->| <span style="color: darkorchid">●</span>    | RIGHT CAMERA                       | UP ACTIVATE DRONE                            | CHANGE SYMBOLS TO MATCH THEIR CONNECTED DOOR SYMBOL (FOLLOW LINES) | RUN BOOT SEQUENCE                   |
->| <span style="color: darkorange">●</span>    | EXIT                               | GRAB GUN                                     | MOVE TO 60M MARKED OBJECTIVE                                       | ACTIVATE CONSOLE                    |
->| <span style="color: blueviolet">●</span>    | TURN RIGHT                         | KEEP RUNNING STAIGHT TO FAR END OF LONG HALL | FREEZE BOSS WITH BARRELS                                           | Repeat Each Phase: G, 1, 1, Shoot   |
+<details><summary>Sneaky Sabotage Speedrun</summary>
+
+|                                    |                                              |                                                                    |                                      |
+| ---------------------------------- | -------------------------------------------- | ------------------------------------------------------------------ | ------------------------------------ |
+| ACTIVATE THE CONSOLE (MARKED)      | DEACTIVATE THE BARRIER TO THE RIGHT          | -                                                                  | -                                    |
+| ACTIVATE THE CONSOLE (MARKED)      | DEACTIVATE THE MAGNALOCK TO THE LEFT         | DEACTIVATE THE BARRIER TO THE RIGHT                                | CHANGE THE CAMERA VIEW TO THE RIGHT  |
+| DEACTIVATE THE BARRIER TO THE LEFT | EXIT                                         |                                                                    |                                      |
+| EXIT DOOR                          | TURN LEFT                                    | JUMP OVER RAILING                                                  |                                      |
+| STAIRS IMMEDIATELY TO THE RIGHT    | HACK THE CONSOLE                             | JUMP DOWN                                                          | DOOR ON LEFT                         |
+| ACTIVATE CONSOLE                   | DEACTIVATE BARRIER                           | EXIT ROOM                                                          | TURN RIGHT                           |
+| GO UP STAIRS                       | TURN RIGHT                                   | GO DOWN STAIRS                                                     | JUMP OVER RAILING                    |
+| CONTINUE STRAIGHT                  | DOWN STAIRS                                  | UP STAIRS                                                          | HACK CONSOLE                         |
+| TURN LEFT                          | JUMP RAILING                                 | CLIMB WALL                                                         | FALL DOWN                            |
+| HACK CONSOLE                       | TURN LEFT                                    | ACTIVATE ELEVATOR                                                  | RUN TO MARKED CONSOLE                |
+| CONTINUE STRAIGHT TO ROOM          | ACTIVATE CONSOLE                             | DEACTIVATE BARRIER                                                 | 180° DEACTIVATE MAGNALOCK            |
+| RUN TO MARKED CONSOLE              | HACK CONSOLE                                 | RUN ON LEFT SLOPED WALL UNTIL LEDGE                                | DOUBLE JUMP UP TO HIGH LEDGE         |
+| FOLLOW SSTAIRS ON LEFT             | ENTER ROOM ON LEFT                           | ACTIVATE CONSOLE                                                   |                                      |
+| RIGHT CAMERA                       | UP ACTIVATE DRONE                            | CHANGE SYMBOLS TO MATCH THEIR CONNECTED DOOR SYMBOL (FOLLOW LINES) | RUN BOOT SEQUENCE                    |
+| EXIT                               | GRAB GUN                                     | MOVE TO 60M MARKED OBJECTIVE                                       | ACTIVATE CONSOLE                     |
+| TURN RIGHT                         | KEEP RUNNING STAIGHT TO FAR END OF LONG HALL | FREEZE BOSS WITH BARRELS                                           | Repeat Each Phase: G, 1, 1, 3, Shoot |
 
 </details>
 

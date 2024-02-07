@@ -1,6 +1,6 @@
 ## Stremio Setup
 
-| <img src="./img/stremio.jpeg" width="100%">                                                          |
+| <img src="./img/stremio/stremio.jpeg" width="100%">                                                          |
 | ---------------------------------------------------------------------------------------------------- |
 | Stremio is a free media center app that allows users to stream content online                        |
 | Torrentio is a software that aggregates torrents                                                     |

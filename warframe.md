@@ -117,6 +117,7 @@ Incarnon Genesis
 - From the Orbiter's star chart, locate and click the Duvari icon (resembles a metal head) at the top right corner to open the Duvari menu.
 - Within the Duvari menu, choose two Genesis Adapters you wish to aim for during the week
 - Complete "The Circuit" missions on the Steel Path difficulty level to earn Genesis Adapters as rewards, specifically at the 5th and 10th tiers.
+- After receiving a Incarnon Genesis Adapter, visit Cavalero located in the Chrysalith aboard the Zariman to Evolve your weapons
 
 ---
 

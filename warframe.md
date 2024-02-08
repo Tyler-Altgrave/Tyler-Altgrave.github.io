@@ -151,7 +151,7 @@ Incarnon Genesis
 ---
 
 </details>
->
+
 > <details><summary><h2>Biotics</h2></summary>
 >
 > | Resource             | Best Farming Location(s)                       | Additional Notes                                             |
@@ -186,7 +186,7 @@ Incarnon Genesis
 ---
 
 </details>
->
+
 > <details><summary><h2>Calx</h2></summary>
 >
 > | Resource                | Best Farming Location(s)                             | Additional Notes                                                                                                      |
@@ -207,7 +207,7 @@ Incarnon Genesis
 ---
 
 </details>
->
+
 > <details><summary><h2>Oxides</h2></summary>
 >
 > | Resource    | Best Farming Location(s)                                            | Additional Notes                                                                                               |
@@ -225,7 +225,7 @@ Incarnon Genesis
 ---
 
 </details>
->
+
 > <details><summary><h2>Pheromones</h2></summary>
 >
 > | Resource            | Best Farming Location(s)                       | Additional Notes                                                                                |
@@ -245,7 +245,7 @@ Incarnon Genesis
 ---
 
 </details>
->
+
 > <details><summary><h2>Synthetics</h2></summary>
 >
 > | Resource          | Best Farming Location(s)                                                  | Additional Notes                                                                                    |
@@ -266,7 +266,7 @@ Incarnon Genesis
 ---
 
 </details>
->
+
 > <details><summary><h2>Sentient Appetite</h2></summary>
 >
 > | Resource                  | Best Farming Location(s)                                                   | Additional Notes                                                                                                      |

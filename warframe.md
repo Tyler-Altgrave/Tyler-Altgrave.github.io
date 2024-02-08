@@ -1,4 +1,4 @@
-<details><summary><h2>Progenitor Warframe Table</h2></summary>
+<details><summary><h1>Progenitor Warframe Table</h1></summary>
 
 | TYPE                                                                                                                                                                                                                                                  | -                                                                                                                                                                                               | -                                                                                                                                                                                               | -                                                                                                                                                                                                         | -                                                                                                                                                                                                    | -                                                                                                                                                                                                    | -                                                                                                                                                                                               | -                                                                                                                                                                                               | -                                                                                                                                                                                          | -                                                                                                                                                                                          | -   |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --- |
@@ -12,7 +12,7 @@
 
 </details>
 
-<details><summary><h2>Kuva Lich Weapons</h2></summary>
+<details><summary><h1>Kuva Lich Weapons</h1></summary>
 
 Selecting a Kuva Lich weapon
 
@@ -58,7 +58,7 @@ Buying a Kuva Lich contract
 
 ## </details>
 
-<details><summary><h2>Sisters Of Parvos Weapons</h2></summary>
+<details><summary><h1>Sisters Of Parvos Weapons</h1></summary>
 
 Selecting a Tenet Weapon
 
@@ -92,9 +92,9 @@ Buying a candidate contract
 
 ## </details>
 
-<details><summary><h2>Incarnon Weapons and Genesis</h2></summary>
+<details><summary><h1>Incarnon Weapons and Genesis</h1></summary>
 
-> <details><summary><h2>Incarnon Weapons</h2></summary>
+> <details><summary><h1>Incarnon Weapons</h1></summary>
 >
 > - Finish the "Angels of the Zariman" questline to unlock access to Incarnon weapons.
 > - Visit Cavalero located in the Chrysalith aboard the Zariman. He is the vendor for Incarnon weapons.
@@ -102,7 +102,7 @@ Buying a candidate contract
 >
 > </details>
 >
-> <details><summary><h2>Incarnon Genesis</h2></summary>
+> <details><summary><h1>Incarnon Genesis</h1></summary>
 >
 > - Review the [Reward Rotation](https://warframe.fandom.com/wiki/Incarnon#Reward_Rotation) to know which Genesis Adapters are available that week.
 > - From the Orbiter's star chart, locate and click the Duvari icon (resembles a metal head) at the top right corner to open the Duvari menu.
@@ -113,9 +113,9 @@ Buying a candidate contract
 
 </details>
 
-<details><summary><h2>Helminth Farming Locations</h2></summary>
+<details><summary><h1>Helminth Farming Locations</h1></summary>
 
-> <details><summary><h2>Bile</h2></summary>
+> <details><summary><h1>Bile</h1></summary>
 >
 > | Resource                    | Best Farming Location(s)                            | Additional Notes                                                                                                        |
 > | --------------------------- | --------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
@@ -141,7 +141,7 @@ Buying a candidate contract
 >
 > </details>
 >
-> <details><summary><h2>Biotics</h2></summary>
+> <details><summary><h1>Biotics</h1></summary>
 >
 > | Resource             | Best Farming Location(s)                       | Additional Notes                                             |
 > | -------------------- | ---------------------------------------------- | ------------------------------------------------------------ |
@@ -174,7 +174,7 @@ Buying a candidate contract
 >
 > </details>
 >
-> <details><summary><h2>Calx</h2></summary>
+> <details><summary><h1>Calx</h1></summary>
 >
 > | Resource                | Best Farming Location(s)                             | Additional Notes                                                                                                      |
 > | ----------------------- | ---------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
@@ -193,7 +193,7 @@ Buying a candidate contract
 >
 > </details>
 >
-> <details><summary><h2>Oxides</h2></summary>
+> <details><summary><h1>Oxides</h1></summary>
 >
 > | Resource    | Best Farming Location(s)                                            | Additional Notes                                                                                               |
 > | ----------- | ------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
@@ -209,7 +209,7 @@ Buying a candidate contract
 >
 > </details>
 >
-> <details><summary><h2>Pheromones</h2></summary>
+> <details><summary><h1>Pheromones</h1></summary>
 >
 > | Resource            | Best Farming Location(s)                       | Additional Notes                                                                                |
 > | ------------------- | ---------------------------------------------- | ----------------------------------------------------------------------------------------------- |
@@ -227,7 +227,7 @@ Buying a candidate contract
 >
 > </details>
 >
-> <details><summary><h2>Synthetics</h2></summary>
+> <details><summary><h1>Synthetics</h1></summary>
 >
 > | Resource          | Best Farming Location(s)                                                  | Additional Notes                                                                                    |
 > | ----------------- | ------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
@@ -246,7 +246,7 @@ Buying a candidate contract
 >
 > </details>
 >
-> <details><summary><h2>Sentient Appetite</h2></summary>
+> <details><summary><h1>Sentient Appetite</h1></summary>
 >
 > | Resource                  | Best Farming Location(s)                                                   | Additional Notes                                                                                                      |
 > | ------------------------- | -------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
@@ -261,7 +261,7 @@ Buying a candidate contract
 
 </details>
 
-<details><summary><h2>Arcon Shards</h2></summary>
+<details><summary><h1>Arcon Shards</h1></summary>
 
 A permanent upgrade item taken from Archons and used by the Helminth to further enhance a Warframe
 
@@ -279,7 +279,7 @@ A permanent upgrade item taken from Archons and used by the Helminth to further 
 
 </details>
 
-<details><summary><h2>Titania Loot Box Farming</h2></summary>
+<details><summary><h1>Titania Loot Box Farming</h1></summary>
 
 - Subsume Nova's Null Star ability onto Titania
 - Equip the Neutron Star augment mod (this is how we break boxes)
@@ -291,9 +291,9 @@ A permanent upgrade item taken from Archons and used by the Helminth to further 
 <img src="./img/warframe/builds/titaniaNeutronStar.jpeg" width="100%">
 </details>
 
-<details><summary><h2>Alecaframe - Warframe companion app</h2></summary>
+<details><summary><h1>Alecaframe - Warframe companion app</h1></summary>
 
-<details><summary><h2>Installing Alecaframe</h2></summary>
+<details><summary><h1>Installing Alecaframe</h1></summary>
 
 Alecaframe is a companion app for warframe that makes it easier to track your progress, increase your mastery rank and craft, buy and sell items.
 
@@ -303,7 +303,7 @@ Alecaframe is a companion app for warframe that makes it easier to track your pr
 
 </details>
 
-<details><summary><h2>Debloating Overwolf</h2></summary>
+<details><summary><h1>Debloating Overwolf</h1></summary>
 
 Overwolf is an addon platform that works with developers to ensure mods are TOS compliant and not bannable. The drawback of Overwolf is that it is resource heavy and using tracking and advertising within its overlay. Luckily, we can mitigate most of this by blocking its access to the internet. For this, we'll use "Simplewall", which is a free open-source extension of the native windows firewall that allows us to quickly allow/deny specific applcations internet access.
 
@@ -319,7 +319,7 @@ Overwolf is an addon platform that works with developers to ensure mods are TOS 
 
 </details>
 
-<details><summary><h2>Arcane Mod Farming</h2></summary>
+<details><summary><h1>Arcane Mod Farming</h1></summary>
 
 - Zariman, Tuvul Commons, Void Cascade Mission Type
 - Farm Thrax enemies to drop Arcanes using a Mod Drop Chance Booster
@@ -332,9 +332,9 @@ Overwolf is an addon platform that works with developers to ensure mods are TOS 
 
 </details>
 
-<details><summary><h2>Kahl Garrison Missions</h2></summary>
+<details><summary><h1>Kahl Garrison Missions</h1></summary>
 
-> <details><summary><h2>Sneaky Sabotage Speedrun</h2></summary>
+> <details><summary><h1>Sneaky Sabotage Speedrun</h1></summary>
 >
 > |                                                                                                                                                                   |
 > | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |

@@ -1,4 +1,4 @@
-<section style="margin: 100px auto">
+<section style="margin: 1000px auto">
 
 <h1>Progenitor Warframe Table</h1>
 

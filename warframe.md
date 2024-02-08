@@ -131,7 +131,9 @@ Incarnon weapons are special Orokin Era ceremonial weapons. Incarnon Genesis gra
 <br>
 
 # Helminth Farming Locations
+
 <details>
+
 > ## Bile
 >
 > | Resource                    | Best Farming Location(s)                            | Additional Notes                                                                                                        |

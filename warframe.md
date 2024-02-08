@@ -131,7 +131,7 @@ Incarnon weapons are special Orokin Era ceremonial weapons. Incarnon Genesis gra
 <br>
 
 # Helminth Farming Locations
-
+<details>
 > ## Bile
 >
 > | Resource                    | Best Farming Location(s)                            | Additional Notes                                                                                                        |
@@ -273,6 +273,8 @@ Incarnon weapons are special Orokin Era ceremonial weapons. Incarnon Genesis gra
 > | Exceptional Sentient Core | Plains of Eidolon from Sentient enemies                                    | Higher chance of drop from stronger Sentients encountered during nighttime or within the Lua missions.                |
 > | Flawless Sentient Core    | Plains of Eidolon from Sentient enemies, particularly during Eidolon hunts | Dropped by stronger Sentient enemies; Eidolon Teralyst, Gantulyst, and Hydrolyst hunts provide these more frequently. |
 > | Eidolon Shard             | Plains of Eidolon from Eidolon Teralyst, Gantulyst, Hydrolyst              | Obtained by defeating Eidolons on the Plains of Eidolon. Requires completion of The War Within quest to collect.      |
+
+</details>
 
 <br>
 

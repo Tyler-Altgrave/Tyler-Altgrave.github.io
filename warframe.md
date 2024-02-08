@@ -1,7 +1,7 @@
 # Progenitor Warframe Table
 
-| TYPE                                                                                                                                                                                                                                                  | -                                                                                                                                                                                               | -                                                                                                                                                                                               | -                                                                                                                                                                                                         | -                                                                                                                                                                                                    | -                                                                                                                                                                                                    | -                                                                                                                                                                                               | -                                                                                                                                                                                               | -                                                                                                                                                                                          | -                                                                                                                                                                                          | -   |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --- |
+| TYPE                                                                                                                                                                                                                                                  |                                                                                                                                                                                                 |                                                                                                                                                                                                 |                                                                                                                                                                                                           |                                                                                                                                                                                                      |                                                                                                                                                                                                     |                                                                                                                                                                                                 |                                                                                                                                                                                                 |                                                                                                                                                                                            |                                                                                                                                                                                           |     |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  | --  |
 | [![DmgImpactSmall64](https://static.wikia.nocookie.net/warframe/images/4/4c/DmgImpactSmall64.png/revision/latest/scale-to-width-down/32?cb=20210326161307)](/wiki/Damage/Impact_Damage) [Impact](/wiki/Damage/Impact_Damage)                          | [![BaruukIcon272](https://static.wikia.nocookie.net/warframe/images/b/b5/BaruukIcon272.png/revision/latest/scale-to-width-down/31?cb=20181219151057)](/wiki/Baruuk) [Baruuk](/wiki/Baruuk)      | [![GaussIcon272](https://static.wikia.nocookie.net/warframe/images/3/34/GaussIcon272.png/revision/latest/scale-to-width-down/31?cb=20191102061637)](/wiki/Gauss) [Gauss](/wiki/Gauss)           | [![GrendelIcon272](https://static.wikia.nocookie.net/warframe/images/1/18/GrendelIcon272.png/revision/latest/scale-to-width-down/31?cb=20191102061815)](/wiki/Grendel) [Grendel](/wiki/Grendel)           | [![RhinoIcon272](https://static.wikia.nocookie.net/warframe/images/8/8d/RhinoIcon272.png/revision/latest/scale-to-width-down/31?cb=20180121174212)](/wiki/Rhino) [Rhino](/wiki/Rhino)                | [![SevagothIcon272](https://static.wikia.nocookie.net/warframe/images/0/0c/SevagothIcon272.png/revision/latest/scale-to-width-down/31?cb=20210414042501)](/wiki/Sevagoth) [Sevagoth](/wiki/Sevagoth) | [![WukongIcon272](https://static.wikia.nocookie.net/warframe/images/6/68/WukongIcon272.png/revision/latest/scale-to-width-down/31?cb=20180121174232)](/wiki/Wukong) [Wukong](/wiki/Wukong)      | [![ZephyrIcon272](https://static.wikia.nocookie.net/warframe/images/1/1d/ZephyrIcon272.png/revision/latest/scale-to-width-down/31?cb=20180121174233)](/wiki/Zephyr) [Zephyr](/wiki/Zephyr)      |
 | [![DmgFireSmall64](https://static.wikia.nocookie.net/warframe/images/3/3b/DmgHeatSmall64.png/revision/latest/scale-to-width-down/32?cb=20210323025835)](/wiki/Damage/Heat_Damage) [Heat](/wiki/Damage/Heat_Damage)                                    | [![ChromaIcon272](https://static.wikia.nocookie.net/warframe/images/6/60/ChromaIcon272.png/revision/latest/scale-to-width-down/31?cb=20180121174115)](/wiki/Chroma) [Chroma](/wiki/Chroma)      | [![EmberIcon272](https://static.wikia.nocookie.net/warframe/images/5/50/EmberIcon272.png/revision/latest/scale-to-width-down/31?cb=20180121174118)](/wiki/Ember) [Ember](/wiki/Ember)           | [![InarosIcon272](https://static.wikia.nocookie.net/warframe/images/3/33/InarosIcon272.png/revision/latest/scale-to-width-down/31?cb=20180121174135)](/wiki/Inaros) [Inaros](/wiki/Inaros)                | [![KullervoIcon272](https://static.wikia.nocookie.net/warframe/images/c/c8/KullervoIcon272.png/revision/latest/scale-to-width-down/31?cb=20230622002515)](/wiki/Kullervo) [Kullervo](/wiki/Kullervo) | [![NezhaIcon272](https://static.wikia.nocookie.net/warframe/images/e/ee/NezhaIcon272.png/revision/latest/scale-to-width-down/31?cb=20180121174155)](/wiki/Nezha) [Nezha](/wiki/Nezha)                | [![ProteaIcon272](https://static.wikia.nocookie.net/warframe/images/6/63/ProteaIcon272.png/revision/latest/scale-to-width-down/31?cb=20200616142026)](/wiki/Protea) [Protea](/wiki/Protea)      | [![VaubanIcon272](https://static.wikia.nocookie.net/warframe/images/d/de/VaubanIcon272.png/revision/latest/scale-to-width-down/31?cb=20180121174227)](/wiki/Vauban) [Vauban](/wiki/Vauban)      | [![WispIcon272](https://static.wikia.nocookie.net/warframe/images/a/a3/WispIcon272.png/revision/latest/scale-to-width-down/31?cb=20210505121139)](/wiki/Wisp) [Wisp](/wiki/Wisp)           |
 | [![DmgColdSmall64](https://static.wikia.nocookie.net/warframe/images/b/b1/DmgColdSmall64.png/revision/latest/scale-to-width-down/32?cb=20210323025839)](/wiki/Damage/Cold_Damage) [Cold](/wiki/Damage/Cold_Damage)                                    | [![FrostIcon272](https://static.wikia.nocookie.net/warframe/images/d/d0/FrostIcon272.png/revision/latest/scale-to-width-down/31?cb=20180121174127)](/wiki/Frost) [Frost](/wiki/Frost)           | [![GaraIcon272](https://static.wikia.nocookie.net/warframe/images/8/84/GaraIcon272.png/revision/latest/scale-to-width-down/31?cb=20180121174128)](/wiki/Gara) [Gara](/wiki/Gara)                | [![HildrynIcon272](https://static.wikia.nocookie.net/warframe/images/1/19/HildrynIcon272.png/revision/latest/scale-to-width-down/31?cb=20210901193927)](/wiki/Hildryn) [Hildryn](/wiki/Hildryn)           | [![RevenantIcon272](https://static.wikia.nocookie.net/warframe/images/0/02/RevenantIcon272.png/revision/latest/scale-to-width-down/31?cb=20181209040330)](/wiki/Revenant) [Revenant](/wiki/Revenant) | [![StyanaxIcon272](https://static.wikia.nocookie.net/warframe/images/c/c3/StyanaxIcon272.png/revision/latest/scale-to-width-down/31?cb=20220907225007)](/wiki/Styanax) [Styanax](/wiki/Styanax)      | [![TitaniaIcon272](https://static.wikia.nocookie.net/warframe/images/e/e8/TitaniaIcon272.png/revision/latest/scale-to-width-down/31?cb=20180121174217)](/wiki/Titania) [Titania](/wiki/Titania) | [![TrinityIcon272](https://static.wikia.nocookie.net/warframe/images/f/f9/TrinityIcon272.png/revision/latest/scale-to-width-down/31?cb=20180121174220)](/wiki/Trinity) [Trinity](/wiki/Trinity) |
@@ -20,41 +20,41 @@
 
 ##  Selecting a Kuva Lich weapon
 
-- Finish The War Within quest to unlock Kuva Liches
-- If you're farming for a specific weapon, choose a Progenitor Warframe based on the table above
-- Start a Level 20+ Grineer Mission. Cassini Capture on Saturn is popular
-- The timer starts when the light flicker, this can be immediately on start or during the mission
-  - On Capture missions, the lights wont flicker until after the mission target has been successfully captured
-- Kill 10 Grineer within 1 minute to trigger a Kuva Larvaling (Below)
-- When a Kuva Larvaling is killed they will display a weapon above their head
-  - If its the weapon you want, hold Q to execute the Lich, complete the mission and extract normally
-  - If its not the weapon you want, complete the Mission and extract normally to try again
+  Finish The War Within quest to unlock Kuva Liches
+  If you're farming for a specific weapon, choose a Progenitor Warframe based on the table above
+  Start a Level 20+ Grineer Mission. Cassini Capture on Saturn is popular
+  The timer starts when the light flicker, this can be immediately on start or during the mission
+    On Capture missions, the lights wont flicker until after the mission target has been successfully captured
+  Kill 10 Grineer within 1 minute to trigger a Kuva Larvaling (Below)
+  When a Kuva Larvaling is killed they will display a weapon above their head
+    If its the weapon you want, hold Q to execute the Lich, complete the mission and extract normally
+    If its not the weapon you want, complete the Mission and extract normally to try again
 
 ##  Unlocking the Kuva Lich weapon
 
-- On creation of a Kuva Lich, they generate a random passphrase of 3 different Requiems
-- To spawn the Lich, you'll need to execute thralls in Kuva Lich missions
-  - Players must slot the matching Requiem Mods in their Parazon and defeat the Lich until they find the correct order
-  - Always place an Oull requiem mod in the first slot of your paragon, as it acts as a wildcard (Guaranteed success on the first try)
-  - Start on Earth, select any mission with the Lich icon (higher level)
-  - Play through the missions, executing thralls along the way to draw out your Kuva Lich
-  - Once your Kuva Lich has spawned:
-    - Down the Kuva Lich without executing until you've revealed your first 2 Requiem Murmurs
-    - Slot the 2 known murmurs in the first 2 slots and an Oull (wildcard) in the third slot
-    - Down the Kuva Lich and execute it
-      - If the first mod is wrong, swap it with the second slot
-      - If the first mod is right and the second mod is wrong, swap the second mod to the third slot
-    - Down the Kuva Lich and execute it
-      - If the first mod is wrong, swap it with the third slot
-    - Down the Kuva Lich and execute it
-      - You should now have all 3 mods in the correct order
+  On creation of a Kuva Lich, they generate a random passphrase of 3 different Requiems
+  To spawn the Lich, you'll need to execute thralls in Kuva Lich missions
+    Players must slot the matching Requiem Mods in their Parazon and defeat the Lich until they find the correct order
+    Always place an Oull requiem mod in the first slot of your paragon, as it acts as a wildcard (Guaranteed success on the first try)
+    Start on Earth, select any mission with the Lich icon (higher level)
+    Play through the missions, executing thralls along the way to draw out your Kuva Lich
+    Once your Kuva Lich has spawned:
+      Down the Kuva Lich without executing until you've revealed your first 2 Requiem Murmurs
+      Slot the 2 known murmurs in the first 2 slots and an Oull (wildcard) in the third slot
+      Down the Kuva Lich and execute it
+        If the first mod is wrong, swap it with the second slot
+        If the first mod is right and the second mod is wrong, swap the second mod to the third slot
+      Down the Kuva Lich and execute it
+        If the first mod is wrong, swap it with the third slot
+      Down the Kuva Lich and execute it
+        You should now have all 3 mods in the correct order
 
 ##  Buying a Kuva Lich contract
 
-- You can buy Kuva Lich contracts on [Warframe.Market](https://warframe.market/auctions) to skip the Larvaling farm
-  - Find the Lich you want to buy
-  - Meet the seller in the Crimson Branch room of a Dojo
-  - Complete the trade to activate the Lich
+  You can buy Kuva Lich contracts on [Warframe.Market](https://warframe.market/auctions) to skip the Larvaling farm
+    Find the Lich you want to buy
+    Meet the seller in the Crimson Branch room of a Dojo
+    Complete the trade to activate the Lich
 
 |                         Male Larvaling                         |                         Female Larvaling                         |
 | :------------------------------------------------------------: | :--------------------------------------------------------------: |
@@ -71,29 +71,29 @@
 
 ##  Selecting a Tenet Weapon
 
-- Finish The War Within and Call of the Tempestarii questlines
-- If you're farming for a specific weapon, choose a Progenitor Warframe based on the table above
-- Start a Level 20+ Corpus Mission. Hydra Capture on Pluto is popular
-- Find the Granum Void (Golden Hand) and start a Zenith Crown
-  - If you don't have a Zenith Crown, wait 3 to 6 minutes for a Treasurer to spawn and kill them to gain one
-- Complete the Granum Void to spawn a Candidate
-- When a Candidate is killed they will display a weapon above their head
-  - If its the weapon you want, hold Q to execute the candidate, complete the mission and extract normally
-  - If its not the weapon you want, complete the Mission and extract normally to try again
+  Finish The War Within and Call of the Tempestarii questlines
+  If you're farming for a specific weapon, choose a Progenitor Warframe based on the table above
+  Start a Level 20+ Corpus Mission. Hydra Capture on Pluto is popular
+  Find the Granum Void (Golden Hand) and start a Zenith Crown
+    If you don't have a Zenith Crown, wait 3 to 6 minutes for a Treasurer to spawn and kill them to gain one
+  Complete the Granum Void to spawn a Candidate
+  When a Candidate is killed they will display a weapon above their head
+    If its the weapon you want, hold Q to execute the candidate, complete the mission and extract normally
+    If its not the weapon you want, complete the Mission and extract normally to try again
 
 ##  Unlocking a Tenet Weapon
 
-- On creation of a Candidate, they generate a random passphrase of 3 different Requiems
-- Defeating Candidates will reveal the Requiems for their passphrase, but not the order
-- Players must slot the matching Requiem Mods in their Parazon and defeat the candidate until they find the correct order
-  - Always place an Oull requiem mod in the first slot of your paragon, as it acts as a wildcard (Guaranteed success on the first try)
+  On creation of a Candidate, they generate a random passphrase of 3 different Requiems
+  Defeating Candidates will reveal the Requiems for their passphrase, but not the order
+  Players must slot the matching Requiem Mods in their Parazon and defeat the candidate until they find the correct order
+    Always place an Oull requiem mod in the first slot of your paragon, as it acts as a wildcard (Guaranteed success on the first try)
 
 ##  Buying a candidate contract
 
-- You can buy candidate contracts on [Warframe.Market](https://warframe.market/auctions) to skip the candidate farm
-  - Find the candidate you want to buy
-  - Meet the seller in the Crimson Branch room of a Dojo
-  - Complete the trade to activate the candidate
+  You can buy candidate contracts on [Warframe.Market](https://warframe.market/auctions) to skip the candidate farm
+    Find the candidate you want to buy
+    Meet the seller in the Crimson Branch room of a Dojo
+    Complete the trade to activate the candidate
 
 |                           Treasurer                           |                          Zenith Granum Crown                          |                         Granum Void Hand Tribute                          |
 | :-----------------------------------------------------------: | :-------------------------------------------------------------------: | :-----------------------------------------------------------------------: |
@@ -112,16 +112,16 @@ Incarnon weapons are special Orokin Era ceremonial weapons. Incarnon Genesis gra
 
 ##  Incarnon Weapons
 
-- Finish the "Angels of the Zariman" questline to unlock access to Incarnon weapons.
-- Visit Cavalero located in the Chrysalith aboard the Zariman. He is the vendor for Incarnon weapons.
-- Exchange Holdfasts, a form of standing earned through Zariman activities, for Incarnon weapons with Cavalero.
+  Finish the "Angels of the Zariman" questline to unlock access to Incarnon weapons.
+  Visit Cavalero located in the Chrysalith aboard the Zariman. He is the vendor for Incarnon weapons.
+  Exchange Holdfasts, a form of standing earned through Zariman activities, for Incarnon weapons with Cavalero.
 
 ##  Incarnon Genesis
 
-- Review the [Reward Rotation](https://warframe.fandom.com/wiki/Incarnon#Reward_Rotation) to know which Genesis Adapters are available that week.
-- From the Orbiter's star chart, locate and click the Duvari icon (resembles a metal head) at the top right corner to open the Duvari menu.
-- Within the Duvari menu, choose two Genesis Adapters you wish to aim for during the week
-- Complete "The Circuit" missions on the Steel Path difficulty level to earn Genesis Adapters as rewards, specifically at the 5th and 10th tiers.
+  Review the [Reward Rotation](https://warframe.fandom.com/wiki/Incarnon#Reward_Rotation) to know which Genesis Adapters are available that week.
+  From the Orbiter's star chart, locate and click the Duvari icon (resembles a metal head) at the top right corner to open the Duvari menu.
+  Within the Duvari menu, choose two Genesis Adapters you wish to aim for during the week
+  Complete "The Circuit" missions on the Steel Path difficulty level to earn Genesis Adapters as rewards, specifically at the 5th and 10th tiers.
 
 
 <br>
@@ -137,25 +137,25 @@ Incarnon weapons are special Orokin Era ceremonial weapons. Incarnon Genesis gra
 > ## Bile
 >
 > | Resource                    | Best Farming Location(s)                            | Additional Notes                                                                                                        |
-> | --------------------------- | --------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
-> | Aggristone                  | -                                                   | -                                                                                                                       |
-> | Ariette Scale               | -                                                   | -                                                                                                                       |
+> | --------------------------  | --------------------------------------------------  | ----------------------------------------------------------------------------------------------------------------------  |
+> | Aggristone                  |                                                     |                                                                                                                         |
+> | Ariette Scale               |                                                     |                                                                                                                         |
 > | Antiserum Injector Fragment | Infested Salvage missions (Oestrus, Eris)           | Use Nekros with Desecrate, Hydroid with Pilfering Swarm, or Khora with Pilfering Strangledome for increased drop rates. |
 > | Argon Crystal               | Void missions (any)                                 | Best farmed in missions like Capture for quick runs. Argon Crystals decay over time, so use them quickly.               |
 > | Cryotic                     | Excavation missions (any planet)                    | Longer missions yield more Cryotic. Consider using frames like Frost, Limbo, or Gara for defense.                       |
 > | Diluted Thermia             | Thermia Fractures on Orb Vallis (Venus)             | Available during the "Operation: Buried Debts" event. Collect and close Thermia Fractures.                              |
-> | Enigma Gyrum                | -                                                   | -                                                                                                                       |
+> | Enigma Gyrum                |                                                     |                                                                                                                         |
 > | Isos                        | Railjack missions, specifically in the Veil Proxima | Farming in higher-level Railjack missions increases the drop rate.                                                      |
 > | Javlok Capacitor            | Incursions in the Plains of Eidolon (Earth)         | Random drop from enemy units during Incursions.                                                                         |
 > | Morphics                    | Mars, Mercury, Pluto, and Europa                    | War, Mars and Apollodorus, Mercury are good farming spots. Use frames with loot abilities for better efficiency.        |
 > | Nav Coordinate              | Assassination missions, Orokin Derelict missions    | Common in the reward pool for these mission types.                                                                      |
 > | Omega Isotope               | Planets where a Fomorian event is active            | Drop from any mission on a planet under invasion.                                                                       |
 > | Orokin Cipher               | Orokin Derelict Vaults                              | Requires a Dragon Key to access vaults. Random chance to obtain Ciphers from the vaults.                                |
-> | Rune Marrow                 | -                                                   | -                                                                                                                       |
+> | Rune Marrow                 |                                                     |                                                                                                                         |
 > | Somatic Fibers              | Lua (The Moon)                                      | Drops from Sentients. Farming during missions like Crossfire Exterminate can yield good results.                        |
 > | Thermal Sludge              | Orb Vallis (Venus)                                  | Found in containers and as environmental pickups. Good spots are around the outskirts of Fortuna and industrial areas.  |
 > | Ticor Plate                 | Railjack missions, specifically in the Veil Proxima | Higher-level Railjack missions have a better drop rate.                                                                 |
-> | Vainthorn                   | -                                                   | -                                                                                                                       |
+> | Vainthorn                   |                                                     |                                                                                                                         |
 > | Voidgel Orb                 | Void Storm missions in Railjack                     | Drops from enemies and crates during Void Storms.                                                                       |
 >
 > 
@@ -163,51 +163,51 @@ Incarnon weapons are special Orokin Era ceremonial weapons. Incarnon Genesis gra
 > ## Biotics
 >
 > | Resource             | Best Farming Location(s)                       | Additional Notes                                             |
-> | -------------------- | ---------------------------------------------- | ------------------------------------------------------------ |
+> | ------------------- | ---------------------------------------------  | ----------------------------------------------------------- |
 > | Connla Sprout        | Cambion Drift (Deimos)                         | Found in the wild, especially around bodies of water.        |
 > | Dracroot             | Cambion Drift (Deimos)                         | Commonly found in the wild across Deimos.                    |
 > | Dusklight Sarracenia | Ceres, in swampy waters                        | Best found in the Grineer Shipyard missions.                 |
-> | Eevani               | -                                              | -                                                            |
+> | Eevani               |                                               |                                                              |
 > | Frostleaf            | On the ground in any cold environment on Venus | Look around the edges of cliffs and in open areas.           |
 > | Ganglion             | Cambion Drift (Deimos)                         | Dropped by Deimos enemies and found in the environment.      |
 > | Gorgaricus Spore     | Orb Vallis (Venus)                             | Found in caves and around mushroom patches.                  |
-> | Kovnik               | -                                              | -                                                            |
+> | Kovnik               |                                               |                                                              |
 > | Lunar Pitcher        | Lua                                            | Spawns in and around the Orokin structures.                  |
 > | Maprico              | Plains of Eidolon (Earth)                      | Found on trees in the Plains.                                |
-> | Moonlight Dragonlily | Plains of Eidolon (Earth) - night              | Found near water bodies during the night.                    |
-> | Moonlight Jadeleaf   | Plains of Eidolon (Earth) - night              | Grows in grassy areas during the night.                      |
-> | Moonlight Threshcone | Plains of Eidolon (Earth) - night              | Found in forested areas during the night.                    |
+> | Moonlight Dragonlily | Plains of Eidolon (Earth)  night              | Found near water bodies during the night.                    |
+> | Moonlight Jadeleaf   | Plains of Eidolon (Earth)  night              | Grows in grassy areas during the night.                      |
+> | Moonlight Threshcone | Plains of Eidolon (Earth)  night              | Found in forested areas during the night.                    |
 > | Mytocardia Spore     | Orb Vallis (Venus)                             | Found in the caves of Orb Vallis.                            |
 > | Nistlepod            | Plains of Eidolon (Earth)                      | Grows on trees, especially near Grineer outposts.            |
 > | Pustulite            | Cambion Drift (Deimos)                         | Dropped by enemies and found in the environment.             |
 > | Ruk's Claw           | Grineer Asteroid missions (e.g., Mars)         | Grows in patches on the ground in Grineer Asteroid tilesets. |
-> | Silphsela            | -                                              | -                                                            |
-> | Sunlight Dragonlily  | Plains of Eidolon (Earth) - day                | Found near water bodies during the day.                      |
-> | Sunlight Jadeleaf    | Plains of Eidolon (Earth) - day                | Grows in grassy areas during the day.                        |
-> | Sunlight Threshcone  | Plains of Eidolon (Earth) - day                | Found in forested areas during the day.                      |
-> | Tasoma Extract       | -                                              | -                                                            |
+> | Silphsela            |                                               |                                                              |
+> | Sunlight Dragonlily  | Plains of Eidolon (Earth)  day                | Found near water bodies during the day.                      |
+> | Sunlight Jadeleaf    | Plains of Eidolon (Earth)  day                | Grows in grassy areas during the day.                        |
+> | Sunlight Threshcone  | Plains of Eidolon (Earth)  day                | Found in forested areas during the day.                      |
+> | Tasoma Extract       |                                               |                                                              |
 > | Tepa Nodule          | Cambion Drift (Deimos)                         | Found in the wild, often in areas with infestation presence. |
-> | Ueymag               | -                                              | -                                                            |
+> | Ueymag               |                                               |                                                              |
 > | Vestan Moss          | Asteroid missions, like those on Mercury       | Look on shaded rock walls in outdoor areas.                  |
-> | Yao Shrub            | -                                              | -                                                            |
+> | Yao Shrub            |                                               |                                                              |
 >
 > 
 >
 > ## Calx
 >
 > | Resource                | Best Farming Location(s)                             | Additional Notes                                                                                                      |
-> | ----------------------- | ---------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
+> | ----------------------  | --------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
 > | Asterite                | Railjack missions, particularly in the Veil Proxima  | Farming in higher-level Railjack missions increases the drop rate.                                                    |
-> | Belric Crystal Fragment | -                                                    | -                                                                                                                     |
+> | Belric Crystal Fragment |                                                      |                                                                                                                      |
 > | Cubic Diodes            | Corpus Ship missions, especially on Europa           | Dropped by Eximus units on Corpus ships. Best farmed during Eximus Stronghold Sortie missions for higher spawn rates. |
 > | Gallos Rods             | Railjack missions, particularly around Earth Proxima | Found in containers and as drops from enemies in Railjack missions.                                                   |
 > | Grokdrul                | Plains of Eidolon (Earth)                            | Can be collected from Grokdrul Drums in Grineer camps.                                                                |
 > | Hexenon                 | Jupiter, especially the Gas City rework tileset      | Farmable from enemies and containers on Jupiter. Io, Jupiter is a popular spot for Hexenon farming.                   |
 > | Iradite                 | Plains of Eidolon (Earth)                            | Found in the wild, especially in higher-level areas of the Plains. Break iradite formations.                          |
 > | Lucent Teroglobe        | Cambion Drift (Deimos)                               | Dropped by enemies and found in the environment.                                                                      |
-> | Nacreous Pebble         | -                                                    | -                                                                                                                     |
+> | Nacreous Pebble         |                                                      |                                                                                                                      |
 > | Nullstones              | Void missions                                        | Dropped by enemies and found in containers within the Void.                                                           |
-> | Rania Crystal Fragment  | -                                                    | -                                                                                                                     |
+> | Rania Crystal Fragment  |                                                      |                                                                                                                      |
 > | Rubedo                  | Phobos, Earth, Pluto, Europa, Sedna, and Orokin Void | Higher drop rates in Void missions. Tycho, Lua is also a popular spot due to high enemy density.                      |
 >
 > 
@@ -215,12 +215,12 @@ Incarnon weapons are special Orokin Era ceremonial weapons. Incarnon Genesis gra
 > ## Oxides
 >
 > | Resource    | Best Farming Location(s)                                            | Additional Notes                                                                                               |
-> | ----------- | ------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+> | ----------  | ------------------------------------------------------------------  | ------------------------------------------------------------------------------------------------------------- |
 > | Alloy Plate | Venus, Ceres, Jupiter, Sedna                                        | Can be efficiently farmed in missions with high enemy density, such as Defense and Survival missions.          |
 > | Carbides    | Shipyard missions on Ceres, particularly against the Grineer        | Dropped by Eximus units on Ceres. Best farmed during Eximus Stronghold Sortie missions for higher spawn rates. |
 > | Ferrite     | Mercury, Earth, Neptune, Orokin Void                                | High quantities can be found in Void missions. Capture missions are quick and can yield a good amount.         |
 > | Gallium     | Mars, Uranus                                                        | Low drop rate but can be farmed efficiently on Uranus due to a higher number of boss and rare enemy spawns.    |
-> | Maw Fang    | -                                                                   | -                                                                                                              |
+> | Maw Fang    |                                                                     |                                                                                                                |
 > | Oxium       | Corpus missions, especially on Jupiter and Pluto                    | Oxium Ospreys are the primary source. Io, Jupiter is a popular farming location.                               |
 > | Salvage     | Mars, Jupiter, Sedna                                                | Large quantities can be gathered in endless missions on these planets.                                         |
 > | Tellurium   | Ophelia on Uranus                                                   | Rare resource that can drop in Archwing missions or Uranus Sealab tiles.                                       |
@@ -231,10 +231,10 @@ Incarnon weapons are special Orokin Era ceremonial weapons. Incarnon Genesis gra
 > ## Pheromones
 >
 > | Resource            | Best Farming Location(s)                       | Additional Notes                                                                                |
-> | ------------------- | ---------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+> | ------------------  | --------------------------------------------- | ---------------------------------------------------------------------------------------------- |
 > | Chitinous Husk      | Cambion Drift (Deimos)                         | Dropped by Deimos enemies, particularly the tougher variants.                                   |
 > | Infected Palpators  | Cambion Drift (Deimos)                         | Dropped by infested enemies on Deimos.                                                          |
-> | Lamentus            | -                                              | -                                                                                               |
+> | Lamentus            |                                                |                                                                                                |
 > | Mutagen Sample      | Orokin Derelict, Eris, Deimos                  | Best farmed in the Orokin Derelict and Eris. Clan Dojo research resource.                       |
 > | Nano Spores         | Saturn, Neptune, Eris, Orokin Derelict         | High quantities can be farmed in Survival, Defense, or Infested Salvage missions.               |
 > | Neurodes            | Earth, Eris, Lua, Deimos                       | Lua's Plato mission is a popular spot due to frequent Eximus spawns.                            |
@@ -249,15 +249,15 @@ Incarnon weapons are special Orokin Era ceremonial weapons. Incarnon Genesis gra
 > ## Synthetics
 >
 > | Resource          | Best Farming Location(s)                                                  | Additional Notes                                                                                    |
-> | ----------------- | ------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
-> | Aucrux Capacitors | -                                                                         | -                                                                                                   |
+> | ----------------  | ------------------------------------------------------------------------  | --------------------------------------------------------------------------------------------------  |
+> | Aucrux Capacitors |                                                                           |                                                                                                     |
 > | Circuits          | Venus, Ceres, Kuva Fortress                                               | Endless missions on these planets can provide a steady supply.                                      |
 > | Control Module    | Neptune, Europa, Void                                                     | The Void is a reliable source, with missions like Survival and Defense being particularly fruitful. |
 > | Cryptographic ALU | Corpus Ship Sabotage missions (Ice Planet) during Razorback Armada events | Obtained by destroying Corpus Ship security nodes. Only drops during the Razorback Armada invasion. |
 > | Detonite Ampule   | Grineer missions                                                          | Common drop from Grineer enemies.                                                                   |
-> | Entrati Lanthorn  | -                                                                         | -                                                                                                   |
+> | Entrati Lanthorn  |                                                                           |                                                                                                     |
 > | Fieldron Sample   | Corpus missions                                                           | Common drop from Corpus enemies.                                                                    |
-> | Komms             | -                                                                         | -                                                                                                   |
+> | Komms             |                                                                           |                                                                                                     |
 > | Neural Sensors    | Jupiter, Kuva Fortress                                                    | Alad V on Jupiter is a popular boss for Neural Sensor farming.                                      |
 > | Orokin Cell       | Tethys on Saturn                                                          | Sargas Ruk on Saturn, dies fast to Ignis Wraith                                                     |
 > | Polymer Bundle    | Mercury, Venus, Uranus                                                    | Dark Sector missions on Uranus, such as Assur, offer increased drop rates.                          |
@@ -268,7 +268,7 @@ Incarnon weapons are special Orokin Era ceremonial weapons. Incarnon Genesis gra
 > ## Sentient Appetite
 >
 > | Resource                  | Best Farming Location(s)                                                   | Additional Notes                                                                                                      |
-> | ------------------------- | -------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
+> | ------------------------  | ------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
 > | Anomaly Shard             | Veil Proxima during Sentient Anomaly in the Railjack missions              | Anomaly Shards are collected from the Sentient Ship that appears in the Veil Proxima for a limited time.              |
 > | Cetus Wisp                | Plains of Eidolon near bodies of water                                     | Best farmed at night or using a loot radar to spot them more easily. They spawn around the edges of lakes and ponds.  |
 > | Intact Sentient Core      | Plains of Eidolon from Vomvalysts and other Sentient enemies               | Commonly dropped by Vomvalysts upon defeat. Nighttime on the Plains is the best time to farm these.                   |
@@ -288,17 +288,17 @@ Incarnon weapons are special Orokin Era ceremonial weapons. Incarnon Genesis gra
 
 A permanent upgrade item taken from Archons and used by the Helminth to further enhance a Warframe
 
-- Complete the Veilbreaker quest
-- Install the Helminth Archon Shard Segment
-- Archon Shards are awarded from Archon Hunts (1), Netracell (5) and Chipper (1)
-  - Archon Hunts are multi-stage missions in a battle against Narmer forces to defeat Pazuul's Archons, accessed from the archon hunts tab on the star chart
-  - Netracell is a repeatable mission that can be replayed up to 5 times per week for rewards
-  - Chipper is a merchant that appears in the Drifter Camp after reaching Rank 2 with the Kahl's Garrison Syndicate. Archon Shards become available in their shop after reaching Rank 5 with the Kahl's Garrison syndicate. Cost 90 Stock.
-- Archon Shards have an 80% chance of being a normal variant and 20% of being Tauforged
-- Topaz, Violet, and Emerald Archon Shards are only obtainable through Coalescent Fusion
-  - Topaz: Crimson + Amber
-  - Violet: Crimson + Azure
-  - Emerald: Amber + Azure
+  Complete the Veilbreaker quest
+  Install the Helminth Archon Shard Segment
+  Archon Shards are awarded from Archon Hunts (1), Netracell (5) and Chipper (1)
+    Archon Hunts are multi-stage missions in a battle against Narmer forces to defeat Pazuul's Archons, accessed from the archon hunts tab on the star chart
+    Netracell is a repeatable mission that can be replayed up to 5 times per week for rewards
+    Chipper is a merchant that appears in the Drifter Camp after reaching Rank 2 with the Kahl's Garrison Syndicate. Archon Shards become available in their shop after reaching Rank 5 with the Kahl's Garrison syndicate. Cost 90 Stock.
+  Archon Shards have an 80% chance of being a normal variant and 20% of being Tauforged
+  Topaz, Violet, and Emerald Archon Shards are only obtainable through Coalescent Fusion
+    Topaz: Crimson + Amber
+    Violet: Crimson + Azure
+    Emerald: Amber + Azure
 
 <br>
 
@@ -308,13 +308,13 @@ A permanent upgrade item taken from Archons and used by the Helminth to further 
 
 # Titania Loot Box Farming
 
-- Subsume Nova's Null Star ability onto Titania
-- Equip the Neutron Star augment mod (this is how we break boxes)
-- Build for +Range and Efficiency
-  - 175 Efficiency
-  - 265 Range (Companion Vacuum is 11.5M, Neutron Star is 21.2M)
-  - 70% Strength (Needed to break boxes in a single cast)
-- Use Razorwing to keep moving while you cast Null Star to break boxes
+  Subsume Nova's Null Star ability onto Titania
+  Equip the Neutron Star augment mod (this is how we break boxes)
+  Build for +Range and Efficiency
+    175 Efficiency
+    265 Range (Companion Vacuum is 11.5M, Neutron Star is 21.2M)
+    70% Strength (Needed to break boxes in a single cast)
+  Use Razorwing to keep moving while you cast Null Star to break boxes
 <img src="./img/warframe/builds/titaniaNeutronStar.jpeg" width="100%">
 
 
@@ -324,15 +324,15 @@ A permanent upgrade item taken from Archons and used by the Helminth to further 
 
 <br>
 
-# Alecaframe - Warframe companion app
+# Alecaframe  Warframe companion app
 
 # Installing Alecaframe
 
 Alecaframe is a companion app for warframe that makes it easier to track your progress, increase your mastery rank and craft, buy and sell items.
 
-- Install [Alecaframe](https://www.alecaframe.com/)
-- Link your [Warframe.Market](Warframe.Market) account in the settings
-- Launch Warframe and ensure your progress is sync'd with Alecaframe
+  Install [Alecaframe](https://www.alecaframe.com/)
+  Link your [Warframe.Market](Warframe.Market) account in the settings
+  Launch Warframe and ensure your progress is sync'd with Alecaframe
 
 
 
@@ -340,13 +340,13 @@ Alecaframe is a companion app for warframe that makes it easier to track your pr
 
 Overwolf is an addon platform that works with developers to ensure mods are TOS compliant and not bannable. The drawback of Overwolf is that it is resource heavy and using tracking and advertising within its overlay. Luckily, we can mitigate most of this by blocking its access to the internet. For this, we'll use "Simplewall", which is a free open-source extension of the native windows firewall that allows us to quickly allow/deny specific applcations internet access.
 
-- Fully close out of Alecaframe and Overwolf, ensure its not running on the taskbar and task manager
-- Install [Simplewall](https://github.com/henrypp/simplewall/releases)
-- In Simplewall, click the "Enable Filters" button
-- Once enabled, a notification will be displayed any time a new application tries to access the internet for the first time
-- Launch Overwolf and the Alecaframe addon
-- When any Overwolf component requests internet access, you can permantently deny it
-  - Ensure "Alecaframe.exe" is granted access when it requests. If you block it by mistake you can Allow it form the list in Simplewall.
+  Fully close out of Alecaframe and Overwolf, ensure its not running on the taskbar and task manager
+  Install [Simplewall](https://github.com/henrypp/simplewall/releases)
+  In Simplewall, click the "Enable Filters" button
+  Once enabled, a notification will be displayed any time a new application tries to access the internet for the first time
+  Launch Overwolf and the Alecaframe addon
+  When any Overwolf component requests internet access, you can permantently deny it
+    Ensure "Alecaframe.exe" is granted access when it requests. If you block it by mistake you can Allow it form the list in Simplewall.
 
 
 <br>
@@ -357,14 +357,14 @@ Overwolf is an addon platform that works with developers to ensure mods are TOS 
 
 # Arcane Mod Farming
 
-- Zariman, Tuvul Commons, Void Cascade Mission Type
-- Farm Thrax enemies to drop Arcanes using a Mod Drop Chance Booster
-  - Mod Drop Chance Booster is a 3-day booster can be obtained as a reward from Sorties, Archon Hunts, and the Steel Path track of The Circuit
-  - It's also offered as a periodic item for sale by Baro Ki'Teer, costing 500 Orokin Ducats and 175,000 to purchase
-- Buy Arcanes using Cavalero Standing
-- Dissolve junk arcanes for Vosfor
-- Trade Vosfor to Loid for Arcanes
-- Rank Up Arcanes
+  Zariman, Tuvul Commons, Void Cascade Mission Type
+  Farm Thrax enemies to drop Arcanes using a Mod Drop Chance Booster
+    Mod Drop Chance Booster is a 3-day booster can be obtained as a reward from Sorties, Archon Hunts, and the Steel Path track of The Circuit
+    It's also offered as a periodic item for sale by Baro Ki'Teer, costing 500 Orokin Ducats and 175,000 to purchase
+  Buy Arcanes using Cavalero Standing
+  Dissolve junk arcanes for Vosfor
+  Trade Vosfor to Loid for Arcanes
+  Rank Up Arcanes
 
 
 <br>
@@ -378,7 +378,7 @@ Overwolf is an addon platform that works with developers to ensure mods are TOS 
 >#  Sneaky Sabotage Speedrun
 >
 >|                                                                                                                                                                   |
->| ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+>| ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 >| Console (Marked) &emsp;\|&emsp; Deactivate Right Barrier                                                                                                          |
 >| Console (Marked) &emsp;\|&emsp; Deactivate Left Magnalock &emsp;\|&emsp; Deactivate Right Barrier &emsp;\|&emsp; Change To Right Camera                           |
 >| Deactivate Left Barrier &emsp;\|&emsp; Exit                                                                                                                       |

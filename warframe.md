@@ -1,4 +1,5 @@
-<details><summary>Progenitor Warframe Table</summary>
+<h2>table</h2>
+<details><summary></summary>
 
 | TYPE                                                                                                                                                                                                                                                  | -                                                                                                                                                                                               | -                                                                                                                                                                                               | -                                                                                                                                                                                                         | -                                                                                                                                                                                                    | -                                                                                                                                                                                                    | -                                                                                                                                                                                               | -                                                                                                                                                                                               | -                                                                                                                                                                                          | -                                                                                                                                                                                          | -   |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --- |
@@ -10,7 +11,7 @@
 | [![DmgMagneticSmall64](https://static.wikia.nocookie.net/warframe/images/8/83/DmgMagneticSmall64.png/revision/latest/scale-to-width-down/32?cb=20210323025836)](/wiki/Damage/Magnetic_Damage) [Magnetic](/wiki/Damage/Magnetic_Damage)                | [![CitrineIcon272](https://static.wikia.nocookie.net/warframe/images/8/82/CitrineIcon272.png/revision/latest/scale-to-width-down/31?cb=20230215182406)](/wiki/Citrine) [Citrine](/wiki/Citrine) | [![HarrowIcon272](https://static.wikia.nocookie.net/warframe/images/6/68/HarrowIcon272.png/revision/latest/scale-to-width-down/31?cb=20180121174130)](/wiki/Harrow) [Harrow](/wiki/Harrow)      | [![HydroidIcon272](https://static.wikia.nocookie.net/warframe/images/8/8f/HydroidIcon272.png/revision/latest/scale-to-width-down/31?cb=20180121174134)](/wiki/Hydroid) [Hydroid](/wiki/Hydroid)           | [![LavosIcon272](https://static.wikia.nocookie.net/warframe/images/f/f9/LavosIcon272.png/revision/latest/scale-to-width-down/31?cb=20201218203644)](/wiki/Lavos) [Lavos](/wiki/Lavos)                | [![MagIcon272](https://static.wikia.nocookie.net/warframe/images/8/89/MagIcon272.png/revision/latest/scale-to-width-down/31?cb=20180121174145)](/wiki/Mag) [Mag](/wiki/Mag)                          | [![MesaIcon272](https://static.wikia.nocookie.net/warframe/images/0/08/MesaIcon272.png/revision/latest/scale-to-width-down/31?cb=20180121174147)](/wiki/Mesa) [Mesa](/wiki/Mesa)                | [![XakuIcon272](https://static.wikia.nocookie.net/warframe/images/b/be/XakuIcon272.png/revision/latest/scale-to-width-down/31?cb=20200826170409)](/wiki/Xaku) [Xaku](/wiki/Xaku)                | [![YareliIcon272](https://static.wikia.nocookie.net/warframe/images/2/2f/YareliIcon272.png/revision/latest/scale-to-width-down/31?cb=20210706231956)](/wiki/Yareli) [Yareli](/wiki/Yareli) |
 | [![DmgRadiationSmall64](https://static.wikia.nocookie.net/warframe/images/1/1b/DmgRadiationSmall64.png/revision/latest/scale-to-width-down/32?cb=20210323025837)](/wiki/Damage/Radiation_Damage) [Radiation](/wiki/Damage/Radiation_Damage)           | [![AshIcon272](https://static.wikia.nocookie.net/warframe/images/0/0d/AshIcon272.png/revision/latest/scale-to-width-down/31?cb=20180121174108)](/wiki/Ash) [Ash](/wiki/Ash)                     | [![EquinoxIcon272](https://static.wikia.nocookie.net/warframe/images/7/7a/EquinoxIcon272.png/revision/latest/scale-to-width-down/31?cb=20180121174120)](/wiki/Equinox) [Equinox](/wiki/Equinox) | [![GarudaIcon272](https://static.wikia.nocookie.net/warframe/images/8/8f/GarudaIcon272.png/revision/latest/scale-to-width-down/31?cb=20181110001450)](/wiki/Garuda) [Garuda](/wiki/Garuda)                | [![LokiIcon272](https://static.wikia.nocookie.net/warframe/images/0/0e/LokiIcon272.png/revision/latest/scale-to-width-down/31?cb=20180121174142)](/wiki/Loki) [Loki](/wiki/Loki)                     | [![MirageIcon272](https://static.wikia.nocookie.net/warframe/images/d/d6/MirageIcon272.png/revision/latest/scale-to-width-down/31?cb=20180121174150)](/wiki/Mirage) [Mirage](/wiki/Mirage)           | [![NyxIcon272](https://static.wikia.nocookie.net/warframe/images/9/93/NyxIcon272.png/revision/latest/scale-to-width-down/31?cb=20180121174204)](/wiki/Nyx) [Nyx](/wiki/Nyx)                     | [![OctaviaIcon272](https://static.wikia.nocookie.net/warframe/images/7/7f/OctaviaIcon272.png/revision/latest/scale-to-width-down/31?cb=20180121174209)](/wiki/Octavia) [Octavia](/wiki/Octavia) | [![QorvexIcon272](https://static.wikia.nocookie.net/warframe/images/8/8f/QorvexIcon272.png/revision/latest/scale-to-width-down/31?cb=20231214120354)](/wiki/Qorvex) [Qorvex](/wiki/Qorvex) | [![VorunaIcon272](https://static.wikia.nocookie.net/warframe/images/3/3c/VorunaIcon272.png/revision/latest/scale-to-width-down/31?cb=20221130191427)](/wiki/Voruna) [Voruna](/wiki/Voruna) |
 
-## </details>
+</details>
 
 <details><summary>Kuva Lich Weapons</summary>
 
@@ -94,20 +95,23 @@ Buying a candidate contract
 
 <details><summary>Incarnon Weapons and Genesis</summary>
 
-Incarnon weapons are special Orokin Era ceremonial weapons. Incarnon Genesis grants access to the Incarnon upgrades on a variety of weapons.
+><details><summary>Incarnon Weapons</summary>
+>
+>- Finish the "Angels of the Zariman" questline to unlock access to Incarnon weapons.
+>- Visit Cavalero located in the Chrysalith aboard the Zariman. He is the vendor for Incarnon weapons.
+>- Exchange Holdfasts, a form of standing earned through Zariman activities, for Incarnon weapons with Cavalero.
+>
+></details>
+>
+><details><summary>Incarnon Genesis</summary>
+>
+>- Review the [Reward Rotation](https://warframe.fandom.com/wiki/Incarnon#Reward_Rotation) to know which Genesis Adapters are available that week.
+>- From the Orbiter's star chart, locate and click the Duvari icon (resembles a metal head) at the top right corner to open the Duvari menu.
+>- Within the Duvari menu, choose two Genesis Adapters you wish to aim for during the week
+>- Complete "The Circuit" missions on the Steel Path difficulty level to earn Genesis Adapters as rewards, specifically at the 5th and 10th tiers.
+>
+></details>
 
-Incarnon Weapons
-
-- Finish the "Angels of the Zariman" questline to unlock access to Incarnon weapons.
-- Visit Cavalero located in the Chrysalith aboard the Zariman. He is the vendor for Incarnon weapons.
-- Exchange Holdfasts, a form of standing earned through Zariman activities, for Incarnon weapons with Cavalero.
-
-Incarnon Genesis
-
-- Review the [Reward Rotation](https://warframe.fandom.com/wiki/Incarnon#Reward_Rotation) to know which Genesis Adapters are available that week.
-- From the Orbiter's star chart, locate and click the Duvari icon (resembles a metal head) at the top right corner to open the Duvari menu.
-- Within the Duvari menu, choose two Genesis Adapters you wish to aim for during the week
-- Complete "The Circuit" missions on the Steel Path difficulty level to earn Genesis Adapters as rewards, specifically at the 5th and 10th tiers.
 </details>
 
 <details><summary>Helminth Farming Locations</summary>
@@ -331,26 +335,26 @@ Overwolf is an addon platform that works with developers to ensure mods are TOS 
 
 <details><summary>Kahl Garrison Missions</summary>
 
-><details><summary>Sneaky Sabotage Speedrun</summary>
+> <details><summary>Sneaky Sabotage Speedrun</summary>
 >
->|                                                                                                                                                                   |
->| ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
->| Console (Marked) &emsp;\|&emsp; Deactivate Right Barrier                                                                                                          |
->| Console (Marked) &emsp;\|&emsp; Deactivate Left Magnalock &emsp;\|&emsp; Deactivate Right Barrier &emsp;\|&emsp; Change To Right Camera                           |
->| Deactivate Left Barrier &emsp;\|&emsp; Exit                                                                                                                       |
->| Exit Door &emsp;\|&emsp; Turn Left &emsp;\|&emsp; Jump Over Railing &emsp;\|&emsp;                                                                                |
->| Stairs Immediately To The Right &emsp;\|&emsp; Hack Console &emsp;\|&emsp; Jump Down &emsp;\|&emsp; Left Door                                                     |
->| Console &emsp;\|&emsp; Deactivate Barrier &emsp;\|&emsp; Exit Room &emsp;\|&emsp; Turn Right                                                                      |
->| Go Up Stairs &emsp;\|&emsp; Turn Right &emsp;\|&emsp; Go Down Stairs &emsp;\|&emsp; Jump Over Railing                                                             |
->| Continue Straight &emsp;\|&emsp; Down Stairs &emsp;\|&emsp; Up Stairs &emsp;\|&emsp; Hack Console                                                                 |
->| Turn Left &emsp;\|&emsp; Jump Railing &emsp;\|&emsp; Climb Wall &emsp;\|&emsp; Fall Down                                                                          |
->| Hack Console &emsp;\|&emsp; Turn Left &emsp;\|&emsp; Activate Elevator &emsp;\|&emsp; Run Towards Blinking Light                                                  |
->| Continue Straight To Room &emsp;\|&emsp; Activate Console &emsp;\|&emsp; Deactivate Barrier &emsp;\|&emsp; 180° Deactivate Magnalock                              |
->| Run To Marked Console &emsp;\|&emsp; Hack Console &emsp;\|&emsp; Run On Left Sloped Wall &emsp;\|&emsp; Double Jump Up To High Ledge                              |
->| Follow Sstairs On Left &emsp;\|&emsp; Enter Room On Left &emsp;\|&emsp; Activate Console &emsp;\|&emsp;                                                           |
->| Right Camera &emsp;\|&emsp; Up Activate Drone &emsp;\|&emsp; Change Symbols To Match Their Connected Door Symbol (Follow Lines) &emsp;\|&emsp; Run Boot Sequence  |
->| Exit &emsp;\|&emsp; Grab Gun &emsp;\|&emsp; Move To 60m Marked Objective &emsp;\|&emsp; Activate Console                                                          |
->| Turn Right &emsp;\|&emsp; Keep Running Staight To Far End Of Long Hall &emsp;\|&emsp; Freeze Boss With Barrel &emsp;\|&emsp; Repeat Each Phase: G, 1, 1, 3, Shoot |
+> |                                                                                                                                                                   |
+> | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+> | Console (Marked) &emsp;\|&emsp; Deactivate Right Barrier                                                                                                          |
+> | Console (Marked) &emsp;\|&emsp; Deactivate Left Magnalock &emsp;\|&emsp; Deactivate Right Barrier &emsp;\|&emsp; Change To Right Camera                           |
+> | Deactivate Left Barrier &emsp;\|&emsp; Exit                                                                                                                       |
+> | Exit Door &emsp;\|&emsp; Turn Left &emsp;\|&emsp; Jump Over Railing &emsp;\|&emsp;                                                                                |
+> | Stairs Immediately To The Right &emsp;\|&emsp; Hack Console &emsp;\|&emsp; Jump Down &emsp;\|&emsp; Left Door                                                     |
+> | Console &emsp;\|&emsp; Deactivate Barrier &emsp;\|&emsp; Exit Room &emsp;\|&emsp; Turn Right                                                                      |
+> | Go Up Stairs &emsp;\|&emsp; Turn Right &emsp;\|&emsp; Go Down Stairs &emsp;\|&emsp; Jump Over Railing                                                             |
+> | Continue Straight &emsp;\|&emsp; Down Stairs &emsp;\|&emsp; Up Stairs &emsp;\|&emsp; Hack Console                                                                 |
+> | Turn Left &emsp;\|&emsp; Jump Railing &emsp;\|&emsp; Climb Wall &emsp;\|&emsp; Fall Down                                                                          |
+> | Hack Console &emsp;\|&emsp; Turn Left &emsp;\|&emsp; Activate Elevator &emsp;\|&emsp; Run Towards Blinking Light                                                  |
+> | Continue Straight To Room &emsp;\|&emsp; Activate Console &emsp;\|&emsp; Deactivate Barrier &emsp;\|&emsp; 180° Deactivate Magnalock                              |
+> | Run To Marked Console &emsp;\|&emsp; Hack Console &emsp;\|&emsp; Run On Left Sloped Wall &emsp;\|&emsp; Double Jump Up To High Ledge                              |
+> | Follow Sstairs On Left &emsp;\|&emsp; Enter Room On Left &emsp;\|&emsp; Activate Console &emsp;\|&emsp;                                                           |
+> | Right Camera &emsp;\|&emsp; Up Activate Drone &emsp;\|&emsp; Change Symbols To Match Their Connected Door Symbol (Follow Lines) &emsp;\|&emsp; Run Boot Sequence  |
+> | Exit &emsp;\|&emsp; Grab Gun &emsp;\|&emsp; Move To 60m Marked Objective &emsp;\|&emsp; Activate Console                                                          |
+> | Turn Right &emsp;\|&emsp; Keep Running Staight To Far End Of Long Hall &emsp;\|&emsp; Freeze Boss With Barrel &emsp;\|&emsp; Repeat Each Phase: G, 1, 1, 3, Shoot |
 
 </details>
 

@@ -69,7 +69,7 @@
 
 # Sisters Of Parvos Weapons
 
-Selecting a Tenet Weapon
+##  Selecting a Tenet Weapon
 
 - Finish The War Within and Call of the Tempestarii questlines
 - If you're farming for a specific weapon, choose a Progenitor Warframe based on the table above
@@ -81,14 +81,14 @@ Selecting a Tenet Weapon
   - If its the weapon you want, hold Q to execute the candidate, complete the mission and extract normally
   - If its not the weapon you want, complete the Mission and extract normally to try again
 
-Unlocking a Tenet Weapon
+##  Unlocking a Tenet Weapon
 
 - On creation of a Candidate, they generate a random passphrase of 3 different Requiems
 - Defeating Candidates will reveal the Requiems for their passphrase, but not the order
 - Players must slot the matching Requiem Mods in their Parazon and defeat the candidate until they find the correct order
   - Always place an Oull requiem mod in the first slot of your paragon, as it acts as a wildcard (Guaranteed success on the first try)
 
-Buying a candidate contract
+##  Buying a candidate contract
 
 - You can buy candidate contracts on [Warframe.Market](https://warframe.market/auctions) to skip the candidate farm
   - Find the candidate you want to buy

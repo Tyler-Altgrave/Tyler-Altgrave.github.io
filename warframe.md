@@ -1,4 +1,6 @@
-# Progenitor Warframe Table
+<pre>
+
+<details><summary>Progenitor Warframe Table</summary>
 
 | TYPE                                                                                                                                                                                                                                                  | -                                                                                                                                                                                               | -                                                                                                                                                                                               | -                                                                                                                                                                                                         | -                                                                                                                                                                                                    | -                                                                                                                                                                                                    | -                                                                                                                                                                                               | -                                                                                                                                                                                               | -                                                                                                                                                                                          | -                                                                                                                                                                                          | -   |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --- |
@@ -10,15 +12,11 @@
 | [![DmgMagneticSmall64](https://static.wikia.nocookie.net/warframe/images/8/83/DmgMagneticSmall64.png/revision/latest/scale-to-width-down/32?cb=20210323025836)](/wiki/Damage/Magnetic_Damage) [Magnetic](/wiki/Damage/Magnetic_Damage)                | [![CitrineIcon272](https://static.wikia.nocookie.net/warframe/images/8/82/CitrineIcon272.png/revision/latest/scale-to-width-down/31?cb=20230215182406)](/wiki/Citrine) [Citrine](/wiki/Citrine) | [![HarrowIcon272](https://static.wikia.nocookie.net/warframe/images/6/68/HarrowIcon272.png/revision/latest/scale-to-width-down/31?cb=20180121174130)](/wiki/Harrow) [Harrow](/wiki/Harrow)      | [![HydroidIcon272](https://static.wikia.nocookie.net/warframe/images/8/8f/HydroidIcon272.png/revision/latest/scale-to-width-down/31?cb=20180121174134)](/wiki/Hydroid) [Hydroid](/wiki/Hydroid)           | [![LavosIcon272](https://static.wikia.nocookie.net/warframe/images/f/f9/LavosIcon272.png/revision/latest/scale-to-width-down/31?cb=20201218203644)](/wiki/Lavos) [Lavos](/wiki/Lavos)                | [![MagIcon272](https://static.wikia.nocookie.net/warframe/images/8/89/MagIcon272.png/revision/latest/scale-to-width-down/31?cb=20180121174145)](/wiki/Mag) [Mag](/wiki/Mag)                          | [![MesaIcon272](https://static.wikia.nocookie.net/warframe/images/0/08/MesaIcon272.png/revision/latest/scale-to-width-down/31?cb=20180121174147)](/wiki/Mesa) [Mesa](/wiki/Mesa)                | [![XakuIcon272](https://static.wikia.nocookie.net/warframe/images/b/be/XakuIcon272.png/revision/latest/scale-to-width-down/31?cb=20200826170409)](/wiki/Xaku) [Xaku](/wiki/Xaku)                | [![YareliIcon272](https://static.wikia.nocookie.net/warframe/images/2/2f/YareliIcon272.png/revision/latest/scale-to-width-down/31?cb=20210706231956)](/wiki/Yareli) [Yareli](/wiki/Yareli) |
 | [![DmgRadiationSmall64](https://static.wikia.nocookie.net/warframe/images/1/1b/DmgRadiationSmall64.png/revision/latest/scale-to-width-down/32?cb=20210323025837)](/wiki/Damage/Radiation_Damage) [Radiation](/wiki/Damage/Radiation_Damage)           | [![AshIcon272](https://static.wikia.nocookie.net/warframe/images/0/0d/AshIcon272.png/revision/latest/scale-to-width-down/31?cb=20180121174108)](/wiki/Ash) [Ash](/wiki/Ash)                     | [![EquinoxIcon272](https://static.wikia.nocookie.net/warframe/images/7/7a/EquinoxIcon272.png/revision/latest/scale-to-width-down/31?cb=20180121174120)](/wiki/Equinox) [Equinox](/wiki/Equinox) | [![GarudaIcon272](https://static.wikia.nocookie.net/warframe/images/8/8f/GarudaIcon272.png/revision/latest/scale-to-width-down/31?cb=20181110001450)](/wiki/Garuda) [Garuda](/wiki/Garuda)                | [![LokiIcon272](https://static.wikia.nocookie.net/warframe/images/0/0e/LokiIcon272.png/revision/latest/scale-to-width-down/31?cb=20180121174142)](/wiki/Loki) [Loki](/wiki/Loki)                     | [![MirageIcon272](https://static.wikia.nocookie.net/warframe/images/d/d6/MirageIcon272.png/revision/latest/scale-to-width-down/31?cb=20180121174150)](/wiki/Mirage) [Mirage](/wiki/Mirage)           | [![NyxIcon272](https://static.wikia.nocookie.net/warframe/images/9/93/NyxIcon272.png/revision/latest/scale-to-width-down/31?cb=20180121174204)](/wiki/Nyx) [Nyx](/wiki/Nyx)                     | [![OctaviaIcon272](https://static.wikia.nocookie.net/warframe/images/7/7f/OctaviaIcon272.png/revision/latest/scale-to-width-down/31?cb=20180121174209)](/wiki/Octavia) [Octavia](/wiki/Octavia) | [![QorvexIcon272](https://static.wikia.nocookie.net/warframe/images/8/8f/QorvexIcon272.png/revision/latest/scale-to-width-down/31?cb=20231214120354)](/wiki/Qorvex) [Qorvex](/wiki/Qorvex) | [![VorunaIcon272](https://static.wikia.nocookie.net/warframe/images/3/3c/VorunaIcon272.png/revision/latest/scale-to-width-down/31?cb=20221130191427)](/wiki/Voruna) [Voruna](/wiki/Voruna) |
 
-<br>
+## </details>
 
----
+<details><summary>Kuva Lich Weapons</summary>
 
-<br>
-
-# Kuva Lich Weapons
-
-##  Selecting a Kuva Lich weapon
+Selecting a Kuva Lich weapon
 
 - Finish The War Within quest to unlock Kuva Liches
 - If you're farming for a specific weapon, choose a Progenitor Warframe based on the table above
@@ -30,7 +28,7 @@
   - If its the weapon you want, hold Q to execute the Lich, complete the mission and extract normally
   - If its not the weapon you want, complete the Mission and extract normally to try again
 
-##  Unlocking the Kuva Lich weapon
+Unlocking the Kuva Lich weapon
 
 - On creation of a Kuva Lich, they generate a random passphrase of 3 different Requiems
 - To spawn the Lich, you'll need to execute thralls in Kuva Lich missions
@@ -49,7 +47,7 @@
     - Down the Kuva Lich and execute it
       - You should now have all 3 mods in the correct order
 
-##  Buying a Kuva Lich contract
+Buying a Kuva Lich contract
 
 - You can buy Kuva Lich contracts on [Warframe.Market](https://warframe.market/auctions) to skip the Larvaling farm
   - Find the Lich you want to buy
@@ -60,16 +58,11 @@
 | :------------------------------------------------------------: | :--------------------------------------------------------------: |
 | <img src="./img/warframe/kuva/maleLarvaling.webp" width="100"> | <img src="./img/warframe/kuva/femaleLarvaling.webp" width="100"> |
 
+## </details>
 
-<br>
+<details><summary>Sisters Of Parvos Weapons</summary>
 
----
-
-<br>
-
-# Sisters Of Parvos Weapons
-
-##  Selecting a Tenet Weapon
+Selecting a Tenet Weapon
 
 - Finish The War Within and Call of the Tempestarii questlines
 - If you're farming for a specific weapon, choose a Progenitor Warframe based on the table above
@@ -81,14 +74,14 @@
   - If its the weapon you want, hold Q to execute the candidate, complete the mission and extract normally
   - If its not the weapon you want, complete the Mission and extract normally to try again
 
-##  Unlocking a Tenet Weapon
+Unlocking a Tenet Weapon
 
 - On creation of a Candidate, they generate a random passphrase of 3 different Requiems
 - Defeating Candidates will reveal the Requiems for their passphrase, but not the order
 - Players must slot the matching Requiem Mods in their Parazon and defeat the candidate until they find the correct order
   - Always place an Oull requiem mod in the first slot of your paragon, as it acts as a wildcard (Guaranteed success on the first try)
 
-##  Buying a candidate contract
+Buying a candidate contract
 
 - You can buy candidate contracts on [Warframe.Market](https://warframe.market/auctions) to skip the candidate farm
   - Find the candidate you want to buy
@@ -99,48 +92,29 @@
 | :-----------------------------------------------------------: | :-------------------------------------------------------------------: | :-----------------------------------------------------------------------: |
 | <img src="./img/warframe/sisters/treasurer.webp" width="100"> | <img src="./img/warframe/sisters/zenithGranumCrown.webp" width="100"> | <img src="./img/warframe/sisters/granumVoidHandTribute.webp" width="100"> |
 
+## </details>
 
-<br>
-
----
-
-<br>
-
-# Incarnon Weapons and Genesis
-
-<pre>
+<details><summary>Incarnon Weapons and Genesis</summary>
 
 Incarnon weapons are special Orokin Era ceremonial weapons. Incarnon Genesis grants access to the Incarnon upgrades on a variety of weapons.
 
-##  Incarnon Weapons
+Incarnon Weapons
 
+- Finish the "Angels of the Zariman" questline to unlock access to Incarnon weapons.
+- Visit Cavalero located in the Chrysalith aboard the Zariman. He is the vendor for Incarnon weapons.
+- Exchange Holdfasts, a form of standing earned through Zariman activities, for Incarnon weapons with Cavalero.
 
-Finish the "Angels of the Zariman" questline to unlock access to Incarnon weapons.
-  Visit Cavalero located in the Chrysalith aboard the Zariman. He is the vendor for Incarnon weapons.
-    Exchange Holdfasts, a form of standing earned through Zariman activities, for Incarnon weapons with Cavalero.
-
-
-
-##  Incarnon Genesis
+Incarnon Genesis
 
 - Review the [Reward Rotation](https://warframe.fandom.com/wiki/Incarnon#Reward_Rotation) to know which Genesis Adapters are available that week.
 - From the Orbiter's star chart, locate and click the Duvari icon (resembles a metal head) at the top right corner to open the Duvari menu.
 - Within the Duvari menu, choose two Genesis Adapters you wish to aim for during the week
 - Complete "The Circuit" missions on the Steel Path difficulty level to earn Genesis Adapters as rewards, specifically at the 5th and 10th tiers.
+</details>
 
-</pre>
+<details><summary>Helminth Farming Locations</summary>
 
-<br>
-
----
-
-<br>
-
-# Helminth Farming Locations
-
-<details>
-
-> ## Bile
+> <details><summary>Bile</summary>
 >
 > | Resource                    | Best Farming Location(s)                            | Additional Notes                                                                                                        |
 > | --------------------------- | --------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
@@ -164,9 +138,9 @@ Finish the "Angels of the Zariman" questline to unlock access to Incarnon weapon
 > | Vainthorn                   | -                                                   | -                                                                                                                       |
 > | Voidgel Orb                 | Void Storm missions in Railjack                     | Drops from enemies and crates during Void Storms.                                                                       |
 >
-> 
+> </details>
 >
-> ## Biotics
+> <details><summary>Biotics</summary>
 >
 > | Resource             | Best Farming Location(s)                       | Additional Notes                                             |
 > | -------------------- | ---------------------------------------------- | ------------------------------------------------------------ |
@@ -197,9 +171,9 @@ Finish the "Angels of the Zariman" questline to unlock access to Incarnon weapon
 > | Vestan Moss          | Asteroid missions, like those on Mercury       | Look on shaded rock walls in outdoor areas.                  |
 > | Yao Shrub            | -                                              | -                                                            |
 >
-> 
+> </details>
 >
-> ## Calx
+> <details><summary>Calx</summary>
 >
 > | Resource                | Best Farming Location(s)                             | Additional Notes                                                                                                      |
 > | ----------------------- | ---------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
@@ -216,9 +190,9 @@ Finish the "Angels of the Zariman" questline to unlock access to Incarnon weapon
 > | Rania Crystal Fragment  | -                                                    | -                                                                                                                     |
 > | Rubedo                  | Phobos, Earth, Pluto, Europa, Sedna, and Orokin Void | Higher drop rates in Void missions. Tycho, Lua is also a popular spot due to high enemy density.                      |
 >
-> 
+> </details>
 >
-> ## Oxides
+> <details><summary>Oxides</summary>
 >
 > | Resource    | Best Farming Location(s)                                            | Additional Notes                                                                                               |
 > | ----------- | ------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
@@ -232,9 +206,9 @@ Finish the "Angels of the Zariman" questline to unlock access to Incarnon weapon
 > | Tellurium   | Ophelia on Uranus                                                   | Rare resource that can drop in Archwing missions or Uranus Sealab tiles.                                       |
 > | Titanium    | Railjack missions, particularly in Earth Proxima and Saturn Proxima | Farming in Railjack missions yields a good amount. Breaking down wreckage also grants Titanium.                |
 >
-> 
+> </details>
 >
-> ## Pheromones
+> <details><summary>Pheromones</summary>
 >
 > | Resource            | Best Farming Location(s)                       | Additional Notes                                                                                |
 > | ------------------- | ---------------------------------------------- | ----------------------------------------------------------------------------------------------- |
@@ -250,9 +224,9 @@ Finish the "Angels of the Zariman" questline to unlock access to Incarnon weapon
 > | Thrax Plasm         | Zariman Ten Zero                               | Dropped by enemies in Zariman missions.                                                         |
 > | Lua Thrax Plasm     | Lua, during Zariman-related missions or events | A variant of Thrax Plasm, specific to Lua during certain missions or events related to Zariman. |
 >
-> 
+> </details>
 >
-> ## Synthetics
+> <details><summary>Synthetics</summary>
 >
 > | Resource          | Best Farming Location(s)                                                  | Additional Notes                                                                                    |
 > | ----------------- | ------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
@@ -269,9 +243,9 @@ Finish the "Angels of the Zariman" questline to unlock access to Incarnon weapon
 > | Polymer Bundle    | Mercury, Venus, Uranus                                                    | Dark Sector missions on Uranus, such as Assur, offer increased drop rates.                          |
 > | Saggen Pearl      | Cambion Drift (Deimos)                                                    | Found in the wild, particularly in the exocrine of Deimos. Rare resource.                           |
 >
-> 
+> </details>
 >
-> ## Sentient Appetite
+> <details><summary>Sentient Appetite</summary>
 >
 > | Resource                  | Best Farming Location(s)                                                   | Additional Notes                                                                                                      |
 > | ------------------------- | -------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
@@ -281,16 +255,12 @@ Finish the "Angels of the Zariman" questline to unlock access to Incarnon weapon
 > | Exceptional Sentient Core | Plains of Eidolon from Sentient enemies                                    | Higher chance of drop from stronger Sentients encountered during nighttime or within the Lua missions.                |
 > | Flawless Sentient Core    | Plains of Eidolon from Sentient enemies, particularly during Eidolon hunts | Dropped by stronger Sentient enemies; Eidolon Teralyst, Gantulyst, and Hydrolyst hunts provide these more frequently. |
 > | Eidolon Shard             | Plains of Eidolon from Eidolon Teralyst, Gantulyst, Hydrolyst              | Obtained by defeating Eidolons on the Plains of Eidolon. Requires completion of The War Within quest to collect.      |
+>
+> </details>
 
 </details>
 
-<br>
-
----
-
-<br>
-
-# Arcon Shards
+<details><summary>Arcon Shards</summary>
 
 A permanent upgrade item taken from Archons and used by the Helminth to further enhance a Warframe
 
@@ -306,13 +276,9 @@ A permanent upgrade item taken from Archons and used by the Helminth to further 
   - Violet: Crimson + Azure
   - Emerald: Amber + Azure
 
-<br>
+</details>
 
----
-
-<br>
-
-# Titania Loot Box Farming
+<details><summary>Titania Loot Box Farming</summary>
 
 - Subsume Nova's Null Star ability onto Titania
 - Equip the Neutron Star augment mod (this is how we break boxes)
@@ -322,17 +288,11 @@ A permanent upgrade item taken from Archons and used by the Helminth to further 
   - 70% Strength (Needed to break boxes in a single cast)
 - Use Razorwing to keep moving while you cast Null Star to break boxes
 <img src="./img/warframe/builds/titaniaNeutronStar.jpeg" width="100%">
+</details>
 
+<details><summary>Alecaframe - Warframe companion app</summary>
 
-<br>
-
----
-
-<br>
-
-# Alecaframe - Warframe companion app
-
-# Installing Alecaframe
+<details><summary>Installing Alecaframe</summary>
 
 Alecaframe is a companion app for warframe that makes it easier to track your progress, increase your mastery rank and craft, buy and sell items.
 
@@ -340,9 +300,9 @@ Alecaframe is a companion app for warframe that makes it easier to track your pr
 - Link your [Warframe.Market](Warframe.Market) account in the settings
 - Launch Warframe and ensure your progress is sync'd with Alecaframe
 
+</details>
 
-
-# Debloating Overwolf
+<details><summary>Debloating Overwolf</summary>
 
 Overwolf is an addon platform that works with developers to ensure mods are TOS compliant and not bannable. The drawback of Overwolf is that it is resource heavy and using tracking and advertising within its overlay. Luckily, we can mitigate most of this by blocking its access to the internet. For this, we'll use "Simplewall", which is a free open-source extension of the native windows firewall that allows us to quickly allow/deny specific applcations internet access.
 
@@ -354,14 +314,11 @@ Overwolf is an addon platform that works with developers to ensure mods are TOS 
 - When any Overwolf component requests internet access, you can permantently deny it
   - Ensure "Alecaframe.exe" is granted access when it requests. If you block it by mistake you can Allow it form the list in Simplewall.
 
+</details>
 
-<br>
+</details>
 
----
-
-<br>
-
-# Arcane Mod Farming
+<details><summary>Arcane Mod Farming</summary>
 
 - Zariman, Tuvul Commons, Void Cascade Mission Type
 - Farm Thrax enemies to drop Arcanes using a Mod Drop Chance Booster
@@ -372,16 +329,11 @@ Overwolf is an addon platform that works with developers to ensure mods are TOS 
 - Trade Vosfor to Loid for Arcanes
 - Rank Up Arcanes
 
+</details>
 
-<br>
+<details><summary>Kahl Garrison Missions</summary>
 
----
-
-<br>
-
-# Kahl Garrison Missions
-
->#  Sneaky Sabotage Speedrun
+><details><summary>Sneaky Sabotage Speedrun</summary>
 >
 >|                                                                                                                                                                   |
 >| ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -402,6 +354,8 @@ Overwolf is an addon platform that works with developers to ensure mods are TOS 
 >| Exit &emsp;\|&emsp; Grab Gun &emsp;\|&emsp; Move To 60m Marked Objective &emsp;\|&emsp; Activate Console                                                          |
 >| Turn Right &emsp;\|&emsp; Keep Running Staight To Far End Of Long Hall &emsp;\|&emsp; Freeze Boss With Barrel &emsp;\|&emsp; Repeat Each Phase: G, 1, 1, 3, Shoot |
 
+</details>
 
+</details>
 
-
+</pre>

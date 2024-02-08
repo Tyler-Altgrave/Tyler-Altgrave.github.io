@@ -10,7 +10,10 @@
 | [![DmgMagneticSmall64](https://static.wikia.nocookie.net/warframe/images/8/83/DmgMagneticSmall64.png/revision/latest/scale-to-width-down/32?cb=20210323025836)](/wiki/Damage/Magnetic_Damage) [Magnetic](/wiki/Damage/Magnetic_Damage)                | [![CitrineIcon272](https://static.wikia.nocookie.net/warframe/images/8/82/CitrineIcon272.png/revision/latest/scale-to-width-down/31?cb=20230215182406)](/wiki/Citrine) [Citrine](/wiki/Citrine) | [![HarrowIcon272](https://static.wikia.nocookie.net/warframe/images/6/68/HarrowIcon272.png/revision/latest/scale-to-width-down/31?cb=20180121174130)](/wiki/Harrow) [Harrow](/wiki/Harrow)      | [![HydroidIcon272](https://static.wikia.nocookie.net/warframe/images/8/8f/HydroidIcon272.png/revision/latest/scale-to-width-down/31?cb=20180121174134)](/wiki/Hydroid) [Hydroid](/wiki/Hydroid)           | [![LavosIcon272](https://static.wikia.nocookie.net/warframe/images/f/f9/LavosIcon272.png/revision/latest/scale-to-width-down/31?cb=20201218203644)](/wiki/Lavos) [Lavos](/wiki/Lavos)                | [![MagIcon272](https://static.wikia.nocookie.net/warframe/images/8/89/MagIcon272.png/revision/latest/scale-to-width-down/31?cb=20180121174145)](/wiki/Mag) [Mag](/wiki/Mag)                          | [![MesaIcon272](https://static.wikia.nocookie.net/warframe/images/0/08/MesaIcon272.png/revision/latest/scale-to-width-down/31?cb=20180121174147)](/wiki/Mesa) [Mesa](/wiki/Mesa)                | [![XakuIcon272](https://static.wikia.nocookie.net/warframe/images/b/be/XakuIcon272.png/revision/latest/scale-to-width-down/31?cb=20200826170409)](/wiki/Xaku) [Xaku](/wiki/Xaku)                | [![YareliIcon272](https://static.wikia.nocookie.net/warframe/images/2/2f/YareliIcon272.png/revision/latest/scale-to-width-down/31?cb=20210706231956)](/wiki/Yareli) [Yareli](/wiki/Yareli) |
 | [![DmgRadiationSmall64](https://static.wikia.nocookie.net/warframe/images/1/1b/DmgRadiationSmall64.png/revision/latest/scale-to-width-down/32?cb=20210323025837)](/wiki/Damage/Radiation_Damage) [Radiation](/wiki/Damage/Radiation_Damage)           | [![AshIcon272](https://static.wikia.nocookie.net/warframe/images/0/0d/AshIcon272.png/revision/latest/scale-to-width-down/31?cb=20180121174108)](/wiki/Ash) [Ash](/wiki/Ash)                     | [![EquinoxIcon272](https://static.wikia.nocookie.net/warframe/images/7/7a/EquinoxIcon272.png/revision/latest/scale-to-width-down/31?cb=20180121174120)](/wiki/Equinox) [Equinox](/wiki/Equinox) | [![GarudaIcon272](https://static.wikia.nocookie.net/warframe/images/8/8f/GarudaIcon272.png/revision/latest/scale-to-width-down/31?cb=20181110001450)](/wiki/Garuda) [Garuda](/wiki/Garuda)                | [![LokiIcon272](https://static.wikia.nocookie.net/warframe/images/0/0e/LokiIcon272.png/revision/latest/scale-to-width-down/31?cb=20180121174142)](/wiki/Loki) [Loki](/wiki/Loki)                     | [![MirageIcon272](https://static.wikia.nocookie.net/warframe/images/d/d6/MirageIcon272.png/revision/latest/scale-to-width-down/31?cb=20180121174150)](/wiki/Mirage) [Mirage](/wiki/Mirage)           | [![NyxIcon272](https://static.wikia.nocookie.net/warframe/images/9/93/NyxIcon272.png/revision/latest/scale-to-width-down/31?cb=20180121174204)](/wiki/Nyx) [Nyx](/wiki/Nyx)                     | [![OctaviaIcon272](https://static.wikia.nocookie.net/warframe/images/7/7f/OctaviaIcon272.png/revision/latest/scale-to-width-down/31?cb=20180121174209)](/wiki/Octavia) [Octavia](/wiki/Octavia) | [![QorvexIcon272](https://static.wikia.nocookie.net/warframe/images/8/8f/QorvexIcon272.png/revision/latest/scale-to-width-down/31?cb=20231214120354)](/wiki/Qorvex) [Qorvex](/wiki/Qorvex) | [![VorunaIcon272](https://static.wikia.nocookie.net/warframe/images/3/3c/VorunaIcon272.png/revision/latest/scale-to-width-down/31?cb=20221130191427)](/wiki/Voruna) [Voruna](/wiki/Voruna) |
 
-## </details>
+
+---
+
+</details>
 
 <details><summary><h2>Kuva Lich Weapons</h2></summary>
 
@@ -56,7 +59,10 @@ Buying a Kuva Lich contract
 | :------------------------------------------------------------: | :--------------------------------------------------------------: |
 | <img src="./img/warframe/kuva/maleLarvaling.webp" width="100"> | <img src="./img/warframe/kuva/femaleLarvaling.webp" width="100"> |
 
-## </details>
+
+---
+
+</details>
 
 <details><summary><h2>Sisters Of Parvos Weapons</h2></summary>
 
@@ -90,7 +96,10 @@ Buying a candidate contract
 | :-----------------------------------------------------------: | :-------------------------------------------------------------------: | :-----------------------------------------------------------------------: |
 | <img src="./img/warframe/sisters/treasurer.webp" width="100"> | <img src="./img/warframe/sisters/zenithGranumCrown.webp" width="100"> | <img src="./img/warframe/sisters/granumVoidHandTribute.webp" width="100"> |
 
-## </details>
+
+---
+
+</details>
 
 <details><summary><h2>Incarnon Weapons and Genesis</h2></summary>
 
@@ -108,6 +117,9 @@ Incarnon Genesis
 - From the Orbiter's star chart, locate and click the Duvari icon (resembles a metal head) at the top right corner to open the Duvari menu.
 - Within the Duvari menu, choose two Genesis Adapters you wish to aim for during the week
 - Complete "The Circuit" missions on the Steel Path difficulty level to earn Genesis Adapters as rewards, specifically at the 5th and 10th tiers.
+
+---
+
 </details>
 
 <details><summary><h2>Helminth Farming Locations</h2></summary>
@@ -136,7 +148,10 @@ Incarnon Genesis
 > | Vainthorn                   | -                                                   | -                                                                                                                       |
 > | Voidgel Orb                 | Void Storm missions in Railjack                     | Drops from enemies and crates during Void Storms.                                                                       |
 >
-> </details>
+> 
+---
+
+</details>
 >
 > <details><summary><h2>Biotics</h2></summary>
 >
@@ -169,7 +184,10 @@ Incarnon Genesis
 > | Vestan Moss          | Asteroid missions, like those on Mercury       | Look on shaded rock walls in outdoor areas.                  |
 > | Yao Shrub            | -                                              | -                                                            |
 >
-> </details>
+> 
+---
+
+</details>
 >
 > <details><summary><h2>Calx</h2></summary>
 >
@@ -188,7 +206,10 @@ Incarnon Genesis
 > | Rania Crystal Fragment  | -                                                    | -                                                                                                                     |
 > | Rubedo                  | Phobos, Earth, Pluto, Europa, Sedna, and Orokin Void | Higher drop rates in Void missions. Tycho, Lua is also a popular spot due to high enemy density.                      |
 >
-> </details>
+> 
+---
+
+</details>
 >
 > <details><summary><h2>Oxides</h2></summary>
 >
@@ -204,7 +225,10 @@ Incarnon Genesis
 > | Tellurium   | Ophelia on Uranus                                                   | Rare resource that can drop in Archwing missions or Uranus Sealab tiles.                                       |
 > | Titanium    | Railjack missions, particularly in Earth Proxima and Saturn Proxima | Farming in Railjack missions yields a good amount. Breaking down wreckage also grants Titanium.                |
 >
-> </details>
+> 
+---
+
+</details>
 >
 > <details><summary><h2>Pheromones</h2></summary>
 >
@@ -222,7 +246,10 @@ Incarnon Genesis
 > | Thrax Plasm         | Zariman Ten Zero                               | Dropped by enemies in Zariman missions.                                                         |
 > | Lua Thrax Plasm     | Lua, during Zariman-related missions or events | A variant of Thrax Plasm, specific to Lua during certain missions or events related to Zariman. |
 >
-> </details>
+> 
+---
+
+</details>
 >
 > <details><summary><h2>Synthetics</h2></summary>
 >
@@ -241,7 +268,10 @@ Incarnon Genesis
 > | Polymer Bundle    | Mercury, Venus, Uranus                                                    | Dark Sector missions on Uranus, such as Assur, offer increased drop rates.                          |
 > | Saggen Pearl      | Cambion Drift (Deimos)                                                    | Found in the wild, particularly in the exocrine of Deimos. Rare resource.                           |
 >
-> </details>
+> 
+---
+
+</details>
 >
 > <details><summary><h2>Sentient Appetite</h2></summary>
 >
@@ -254,7 +284,13 @@ Incarnon Genesis
 > | Flawless Sentient Core    | Plains of Eidolon from Sentient enemies, particularly during Eidolon hunts | Dropped by stronger Sentient enemies; Eidolon Teralyst, Gantulyst, and Hydrolyst hunts provide these more frequently. |
 > | Eidolon Shard             | Plains of Eidolon from Eidolon Teralyst, Gantulyst, Hydrolyst              | Obtained by defeating Eidolons on the Plains of Eidolon. Requires completion of The War Within quest to collect.      |
 >
-> </details>
+> 
+---
+
+</details>
+
+
+---
 
 </details>
 
@@ -274,6 +310,9 @@ A permanent upgrade item taken from Archons and used by the Helminth to further 
   - Violet: Crimson + Azure
   - Emerald: Amber + Azure
 
+
+---
+
 </details>
 
 <details><summary><h2>Titania Loot Box Farming</h2></summary>
@@ -286,6 +325,9 @@ A permanent upgrade item taken from Archons and used by the Helminth to further 
   - 70% Strength (Needed to break boxes in a single cast)
 - Use Razorwing to keep moving while you cast Null Star to break boxes
 <img src="./img/warframe/builds/titaniaNeutronStar.jpeg" width="100%">
+
+---
+
 </details>
 
 <details><summary><h2>Alecaframe - Warframe companion app</h2></summary>
@@ -297,6 +339,9 @@ Alecaframe is a companion app for warframe that makes it easier to track your pr
 - Install [Alecaframe](https://www.alecaframe.com/)
 - Link your [Warframe.Market](Warframe.Market) account in the settings
 - Launch Warframe and ensure your progress is sync'd with Alecaframe
+
+
+---
 
 </details>
 
@@ -312,7 +357,13 @@ Overwolf is an addon platform that works with developers to ensure mods are TOS 
 - When any Overwolf component requests internet access, you can permantently deny it
   - Ensure "Alecaframe.exe" is granted access when it requests. If you block it by mistake you can Allow it form the list in Simplewall.
 
+
+---
+
 </details>
+
+
+---
 
 </details>
 
@@ -326,6 +377,9 @@ Overwolf is an addon platform that works with developers to ensure mods are TOS 
 - Dissolve junk arcanes for Vosfor
 - Trade Vosfor to Loid for Arcanes
 - Rank Up Arcanes
+
+
+---
 
 </details>
 
@@ -352,6 +406,12 @@ Overwolf is an addon platform that works with developers to ensure mods are TOS 
 >| Exit &emsp;\|&emsp; Grab Gun &emsp;\|&emsp; Move To 60m Marked Objective &emsp;\|&emsp; Activate Console                                                          |
 >| Turn Right &emsp;\|&emsp; Keep Running Staight To Far End Of Long Hall &emsp;\|&emsp; Freeze Boss With Barrel &emsp;\|&emsp; Repeat Each Phase: G, 1, 1, 3, Shoot |
 
+
+---
+
 </details>
+
+
+---
 
 </details>

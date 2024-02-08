@@ -61,6 +61,11 @@ Buying a Kuva Lich contract
 | <img src="./img/warframe/kuva/maleLarvaling.webp" width="100"> | <img src="./img/warframe/kuva/femaleLarvaling.webp" width="100"> |
 
 
+<br>
+
+---
+
+<br>
 
 # Sisters Of Parvos Weapons
 
@@ -95,18 +100,23 @@ Buying a candidate contract
 | <img src="./img/warframe/sisters/treasurer.webp" width="100"> | <img src="./img/warframe/sisters/zenithGranumCrown.webp" width="100"> | <img src="./img/warframe/sisters/granumVoidHandTribute.webp" width="100"> |
 
 
+<br>
+
+---
+
+<br>
 
 # Incarnon Weapons and Genesis
 
 Incarnon weapons are special Orokin Era ceremonial weapons. Incarnon Genesis grants access to the Incarnon upgrades on a variety of weapons.
 
-Incarnon Weapons
+##  Incarnon Weapons
 
 - Finish the "Angels of the Zariman" questline to unlock access to Incarnon weapons.
 - Visit Cavalero located in the Chrysalith aboard the Zariman. He is the vendor for Incarnon weapons.
 - Exchange Holdfasts, a form of standing earned through Zariman activities, for Incarnon weapons with Cavalero.
 
-Incarnon Genesis
+##  Incarnon Genesis
 
 - Review the [Reward Rotation](https://warframe.fandom.com/wiki/Incarnon#Reward_Rotation) to know which Genesis Adapters are available that week.
 - From the Orbiter's star chart, locate and click the Duvari icon (resembles a metal head) at the top right corner to open the Duvari menu.
@@ -114,9 +124,15 @@ Incarnon Genesis
 - Complete "The Circuit" missions on the Steel Path difficulty level to earn Genesis Adapters as rewards, specifically at the 5th and 10th tiers.
 
 
+<br>
+
+---
+
+<br>
+
 # Helminth Farming Locations
 
-> # Bile
+> ## Bile
 >
 > | Resource                    | Best Farming Location(s)                            | Additional Notes                                                                                                        |
 > | --------------------------- | --------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
@@ -142,7 +158,7 @@ Incarnon Genesis
 >
 > 
 >
-> # Biotics
+> ## Biotics
 >
 > | Resource             | Best Farming Location(s)                       | Additional Notes                                             |
 > | -------------------- | ---------------------------------------------- | ------------------------------------------------------------ |
@@ -175,7 +191,7 @@ Incarnon Genesis
 >
 > 
 >
-> # Calx
+> ## Calx
 >
 > | Resource                | Best Farming Location(s)                             | Additional Notes                                                                                                      |
 > | ----------------------- | ---------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
@@ -194,7 +210,7 @@ Incarnon Genesis
 >
 > 
 >
-> # Oxides
+> ## Oxides
 >
 > | Resource    | Best Farming Location(s)                                            | Additional Notes                                                                                               |
 > | ----------- | ------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
@@ -210,7 +226,7 @@ Incarnon Genesis
 >
 > 
 >
-> # Pheromones
+> ## Pheromones
 >
 > | Resource            | Best Farming Location(s)                       | Additional Notes                                                                                |
 > | ------------------- | ---------------------------------------------- | ----------------------------------------------------------------------------------------------- |
@@ -228,7 +244,7 @@ Incarnon Genesis
 >
 > 
 >
-> # Synthetics
+> ## Synthetics
 >
 > | Resource          | Best Farming Location(s)                                                  | Additional Notes                                                                                    |
 > | ----------------- | ------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
@@ -247,7 +263,7 @@ Incarnon Genesis
 >
 > 
 >
-> # Sentient Appetite
+> ## Sentient Appetite
 >
 > | Resource                  | Best Farming Location(s)                                                   | Additional Notes                                                                                                      |
 > | ------------------------- | -------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
@@ -257,10 +273,12 @@ Incarnon Genesis
 > | Exceptional Sentient Core | Plains of Eidolon from Sentient enemies                                    | Higher chance of drop from stronger Sentients encountered during nighttime or within the Lua missions.                |
 > | Flawless Sentient Core    | Plains of Eidolon from Sentient enemies, particularly during Eidolon hunts | Dropped by stronger Sentient enemies; Eidolon Teralyst, Gantulyst, and Hydrolyst hunts provide these more frequently. |
 > | Eidolon Shard             | Plains of Eidolon from Eidolon Teralyst, Gantulyst, Hydrolyst              | Obtained by defeating Eidolons on the Plains of Eidolon. Requires completion of The War Within quest to collect.      |
->
-> 
 
+<br>
 
+---
+
+<br>
 
 # Arcon Shards
 
@@ -278,7 +296,11 @@ A permanent upgrade item taken from Archons and used by the Helminth to further 
   - Violet: Crimson + Azure
   - Emerald: Amber + Azure
 
+<br>
 
+---
+
+<br>
 
 # Titania Loot Box Farming
 
@@ -291,6 +313,12 @@ A permanent upgrade item taken from Archons and used by the Helminth to further 
 - Use Razorwing to keep moving while you cast Null Star to break boxes
 <img src="./img/warframe/builds/titaniaNeutronStar.jpeg" width="100%">
 
+
+<br>
+
+---
+
+<br>
 
 # Alecaframe - Warframe companion app
 
@@ -317,8 +345,11 @@ Overwolf is an addon platform that works with developers to ensure mods are TOS 
   - Ensure "Alecaframe.exe" is granted access when it requests. If you block it by mistake you can Allow it form the list in Simplewall.
 
 
+<br>
 
+---
 
+<br>
 
 # Arcane Mod Farming
 
@@ -332,6 +363,11 @@ Overwolf is an addon platform that works with developers to ensure mods are TOS 
 - Rank Up Arcanes
 
 
+<br>
+
+---
+
+<br>
 
 # Kahl Garrison Missions
 

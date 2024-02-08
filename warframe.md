@@ -1,5 +1,3 @@
-<pre>
-
 <details><summary>Progenitor Warframe Table</summary>
 
 | TYPE                                                                                                                                                                                                                                                  | -                                                                                                                                                                                               | -                                                                                                                                                                                               | -                                                                                                                                                                                                         | -                                                                                                                                                                                                    | -                                                                                                                                                                                                    | -                                                                                                                                                                                               | -                                                                                                                                                                                               | -                                                                                                                                                                                          | -                                                                                                                                                                                          | -   |
@@ -15,7 +13,7 @@
 ## </details>
 
 <details><summary>Kuva Lich Weapons</summary>
-
+```
 Selecting a Kuva Lich weapon
 
 - Finish The War Within quest to unlock Kuva Liches
@@ -57,7 +55,7 @@ Buying a Kuva Lich contract
 |                         Male Larvaling                         |                         Female Larvaling                         |
 | :------------------------------------------------------------: | :--------------------------------------------------------------: |
 | <img src="./img/warframe/kuva/maleLarvaling.webp" width="100"> | <img src="./img/warframe/kuva/femaleLarvaling.webp" width="100"> |
-
+```
 ## </details>
 
 <details><summary>Sisters Of Parvos Weapons</summary>
@@ -357,5 +355,3 @@ Overwolf is an addon platform that works with developers to ensure mods are TOS 
 </details>
 
 </details>
-
-</pre>

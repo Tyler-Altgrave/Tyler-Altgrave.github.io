@@ -108,17 +108,18 @@
 
 # Incarnon Weapons and Genesis
 
+<pre>
+
 Incarnon weapons are special Orokin Era ceremonial weapons. Incarnon Genesis grants access to the Incarnon upgrades on a variety of weapons.
 
 ##  Incarnon Weapons
 
-<pre>
 
 Finish the "Angels of the Zariman" questline to unlock access to Incarnon weapons.
   Visit Cavalero located in the Chrysalith aboard the Zariman. He is the vendor for Incarnon weapons.
     Exchange Holdfasts, a form of standing earned through Zariman activities, for Incarnon weapons with Cavalero.
 
-</pre>
+
 
 ##  Incarnon Genesis
 
@@ -127,6 +128,7 @@ Finish the "Angels of the Zariman" questline to unlock access to Incarnon weapon
 - Within the Duvari menu, choose two Genesis Adapters you wish to aim for during the week
 - Complete "The Circuit" missions on the Steel Path difficulty level to earn Genesis Adapters as rewards, specifically at the 5th and 10th tiers.
 
+</pre>
 
 <br>
 

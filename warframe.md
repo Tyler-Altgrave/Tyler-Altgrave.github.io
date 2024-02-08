@@ -11,12 +11,9 @@
 | [![DmgRadiationSmall64](https://static.wikia.nocookie.net/warframe/images/1/1b/DmgRadiationSmall64.png/revision/latest/scale-to-width-down/32?cb=20210323025837)](/wiki/Damage/Radiation_Damage) [Radiation](/wiki/Damage/Radiation_Damage)           | [![AshIcon272](https://static.wikia.nocookie.net/warframe/images/0/0d/AshIcon272.png/revision/latest/scale-to-width-down/31?cb=20180121174108)](/wiki/Ash) [Ash](/wiki/Ash)                     | [![EquinoxIcon272](https://static.wikia.nocookie.net/warframe/images/7/7a/EquinoxIcon272.png/revision/latest/scale-to-width-down/31?cb=20180121174120)](/wiki/Equinox) [Equinox](/wiki/Equinox) | [![GarudaIcon272](https://static.wikia.nocookie.net/warframe/images/8/8f/GarudaIcon272.png/revision/latest/scale-to-width-down/31?cb=20181110001450)](/wiki/Garuda) [Garuda](/wiki/Garuda)                | [![LokiIcon272](https://static.wikia.nocookie.net/warframe/images/0/0e/LokiIcon272.png/revision/latest/scale-to-width-down/31?cb=20180121174142)](/wiki/Loki) [Loki](/wiki/Loki)                     | [![MirageIcon272](https://static.wikia.nocookie.net/warframe/images/d/d6/MirageIcon272.png/revision/latest/scale-to-width-down/31?cb=20180121174150)](/wiki/Mirage) [Mirage](/wiki/Mirage)           | [![NyxIcon272](https://static.wikia.nocookie.net/warframe/images/9/93/NyxIcon272.png/revision/latest/scale-to-width-down/31?cb=20180121174204)](/wiki/Nyx) [Nyx](/wiki/Nyx)                     | [![OctaviaIcon272](https://static.wikia.nocookie.net/warframe/images/7/7f/OctaviaIcon272.png/revision/latest/scale-to-width-down/31?cb=20180121174209)](/wiki/Octavia) [Octavia](/wiki/Octavia) | [![QorvexIcon272](https://static.wikia.nocookie.net/warframe/images/8/8f/QorvexIcon272.png/revision/latest/scale-to-width-down/31?cb=20231214120354)](/wiki/Qorvex) [Qorvex](/wiki/Qorvex) | [![VorunaIcon272](https://static.wikia.nocookie.net/warframe/images/3/3c/VorunaIcon272.png/revision/latest/scale-to-width-down/31?cb=20221130191427)](/wiki/Voruna) [Voruna](/wiki/Voruna) |
 
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
+---
+
 <br>
 
 # Kuva Lich Weapons

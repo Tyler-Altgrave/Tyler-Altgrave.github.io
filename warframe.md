@@ -1,4 +1,4 @@
-<details><summary><h1>Progenitor Warframe Table</h1></summary>
+<details><summary>Progenitor Warframe Table</summary>
 
 | TYPE                                                                                                                                                                                                                                                  | -                                                                                                                                                                                               | -                                                                                                                                                                                               | -                                                                                                                                                                                                         | -                                                                                                                                                                                                    | -                                                                                                                                                                                                    | -                                                                                                                                                                                               | -                                                                                                                                                                                               | -                                                                                                                                                                                          | -                                                                                                                                                                                          | -   |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --- |
@@ -10,9 +10,9 @@
 | [![DmgMagneticSmall64](https://static.wikia.nocookie.net/warframe/images/8/83/DmgMagneticSmall64.png/revision/latest/scale-to-width-down/32?cb=20210323025836)](/wiki/Damage/Magnetic_Damage) [Magnetic](/wiki/Damage/Magnetic_Damage)                | [![CitrineIcon272](https://static.wikia.nocookie.net/warframe/images/8/82/CitrineIcon272.png/revision/latest/scale-to-width-down/31?cb=20230215182406)](/wiki/Citrine) [Citrine](/wiki/Citrine) | [![HarrowIcon272](https://static.wikia.nocookie.net/warframe/images/6/68/HarrowIcon272.png/revision/latest/scale-to-width-down/31?cb=20180121174130)](/wiki/Harrow) [Harrow](/wiki/Harrow)      | [![HydroidIcon272](https://static.wikia.nocookie.net/warframe/images/8/8f/HydroidIcon272.png/revision/latest/scale-to-width-down/31?cb=20180121174134)](/wiki/Hydroid) [Hydroid](/wiki/Hydroid)           | [![LavosIcon272](https://static.wikia.nocookie.net/warframe/images/f/f9/LavosIcon272.png/revision/latest/scale-to-width-down/31?cb=20201218203644)](/wiki/Lavos) [Lavos](/wiki/Lavos)                | [![MagIcon272](https://static.wikia.nocookie.net/warframe/images/8/89/MagIcon272.png/revision/latest/scale-to-width-down/31?cb=20180121174145)](/wiki/Mag) [Mag](/wiki/Mag)                          | [![MesaIcon272](https://static.wikia.nocookie.net/warframe/images/0/08/MesaIcon272.png/revision/latest/scale-to-width-down/31?cb=20180121174147)](/wiki/Mesa) [Mesa](/wiki/Mesa)                | [![XakuIcon272](https://static.wikia.nocookie.net/warframe/images/b/be/XakuIcon272.png/revision/latest/scale-to-width-down/31?cb=20200826170409)](/wiki/Xaku) [Xaku](/wiki/Xaku)                | [![YareliIcon272](https://static.wikia.nocookie.net/warframe/images/2/2f/YareliIcon272.png/revision/latest/scale-to-width-down/31?cb=20210706231956)](/wiki/Yareli) [Yareli](/wiki/Yareli) |
 | [![DmgRadiationSmall64](https://static.wikia.nocookie.net/warframe/images/1/1b/DmgRadiationSmall64.png/revision/latest/scale-to-width-down/32?cb=20210323025837)](/wiki/Damage/Radiation_Damage) [Radiation](/wiki/Damage/Radiation_Damage)           | [![AshIcon272](https://static.wikia.nocookie.net/warframe/images/0/0d/AshIcon272.png/revision/latest/scale-to-width-down/31?cb=20180121174108)](/wiki/Ash) [Ash](/wiki/Ash)                     | [![EquinoxIcon272](https://static.wikia.nocookie.net/warframe/images/7/7a/EquinoxIcon272.png/revision/latest/scale-to-width-down/31?cb=20180121174120)](/wiki/Equinox) [Equinox](/wiki/Equinox) | [![GarudaIcon272](https://static.wikia.nocookie.net/warframe/images/8/8f/GarudaIcon272.png/revision/latest/scale-to-width-down/31?cb=20181110001450)](/wiki/Garuda) [Garuda](/wiki/Garuda)                | [![LokiIcon272](https://static.wikia.nocookie.net/warframe/images/0/0e/LokiIcon272.png/revision/latest/scale-to-width-down/31?cb=20180121174142)](/wiki/Loki) [Loki](/wiki/Loki)                     | [![MirageIcon272](https://static.wikia.nocookie.net/warframe/images/d/d6/MirageIcon272.png/revision/latest/scale-to-width-down/31?cb=20180121174150)](/wiki/Mirage) [Mirage](/wiki/Mirage)           | [![NyxIcon272](https://static.wikia.nocookie.net/warframe/images/9/93/NyxIcon272.png/revision/latest/scale-to-width-down/31?cb=20180121174204)](/wiki/Nyx) [Nyx](/wiki/Nyx)                     | [![OctaviaIcon272](https://static.wikia.nocookie.net/warframe/images/7/7f/OctaviaIcon272.png/revision/latest/scale-to-width-down/31?cb=20180121174209)](/wiki/Octavia) [Octavia](/wiki/Octavia) | [![QorvexIcon272](https://static.wikia.nocookie.net/warframe/images/8/8f/QorvexIcon272.png/revision/latest/scale-to-width-down/31?cb=20231214120354)](/wiki/Qorvex) [Qorvex](/wiki/Qorvex) | [![VorunaIcon272](https://static.wikia.nocookie.net/warframe/images/3/3c/VorunaIcon272.png/revision/latest/scale-to-width-down/31?cb=20221130191427)](/wiki/Voruna) [Voruna](/wiki/Voruna) |
 
-</details>
+## </details>
 
-<details><summary><h1>Kuva Lich Weapons</h1></summary>
+<details><summary>Kuva Lich Weapons</summary>
 
 Selecting a Kuva Lich weapon
 
@@ -58,7 +58,7 @@ Buying a Kuva Lich contract
 
 ## </details>
 
-<details><summary><h1>Sisters Of Parvos Weapons</h1></summary>
+<details><summary>Sisters Of Parvos Weapons</summary>
 
 Selecting a Tenet Weapon
 
@@ -92,30 +92,27 @@ Buying a candidate contract
 
 ## </details>
 
-<details><summary><h1>Incarnon Weapons and Genesis</h1></summary>
+<details><summary>Incarnon Weapons and Genesis</summary>
 
-> <details><summary><h1>Incarnon Weapons</h1></summary>
->
-> - Finish the "Angels of the Zariman" questline to unlock access to Incarnon weapons.
-> - Visit Cavalero located in the Chrysalith aboard the Zariman. He is the vendor for Incarnon weapons.
-> - Exchange Holdfasts, a form of standing earned through Zariman activities, for Incarnon weapons with Cavalero.
->
-> </details>
->
-> <details><summary><h1>Incarnon Genesis</h1></summary>
->
-> - Review the [Reward Rotation](https://warframe.fandom.com/wiki/Incarnon#Reward_Rotation) to know which Genesis Adapters are available that week.
-> - From the Orbiter's star chart, locate and click the Duvari icon (resembles a metal head) at the top right corner to open the Duvari menu.
-> - Within the Duvari menu, choose two Genesis Adapters you wish to aim for during the week
-> - Complete "The Circuit" missions on the Steel Path difficulty level to earn Genesis Adapters as rewards, specifically at the 5th and 10th tiers.
->
-> </details>
+Incarnon weapons are special Orokin Era ceremonial weapons. Incarnon Genesis grants access to the Incarnon upgrades on a variety of weapons.
 
+Incarnon Weapons
+
+- Finish the "Angels of the Zariman" questline to unlock access to Incarnon weapons.
+- Visit Cavalero located in the Chrysalith aboard the Zariman. He is the vendor for Incarnon weapons.
+- Exchange Holdfasts, a form of standing earned through Zariman activities, for Incarnon weapons with Cavalero.
+
+Incarnon Genesis
+
+- Review the [Reward Rotation](https://warframe.fandom.com/wiki/Incarnon#Reward_Rotation) to know which Genesis Adapters are available that week.
+- From the Orbiter's star chart, locate and click the Duvari icon (resembles a metal head) at the top right corner to open the Duvari menu.
+- Within the Duvari menu, choose two Genesis Adapters you wish to aim for during the week
+- Complete "The Circuit" missions on the Steel Path difficulty level to earn Genesis Adapters as rewards, specifically at the 5th and 10th tiers.
 </details>
 
-<details><summary><h1>Helminth Farming Locations</h1></summary>
+<details><summary>Helminth Farming Locations</summary>
 
-> <details><summary><h1>Bile</h1></summary>
+> <details><summary>Bile</summary>
 >
 > | Resource                    | Best Farming Location(s)                            | Additional Notes                                                                                                        |
 > | --------------------------- | --------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
@@ -141,7 +138,7 @@ Buying a candidate contract
 >
 > </details>
 >
-> <details><summary><h1>Biotics</h1></summary>
+> <details><summary>Biotics</summary>
 >
 > | Resource             | Best Farming Location(s)                       | Additional Notes                                             |
 > | -------------------- | ---------------------------------------------- | ------------------------------------------------------------ |
@@ -174,7 +171,7 @@ Buying a candidate contract
 >
 > </details>
 >
-> <details><summary><h1>Calx</h1></summary>
+> <details><summary>Calx</summary>
 >
 > | Resource                | Best Farming Location(s)                             | Additional Notes                                                                                                      |
 > | ----------------------- | ---------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
@@ -193,7 +190,7 @@ Buying a candidate contract
 >
 > </details>
 >
-> <details><summary><h1>Oxides</h1></summary>
+> <details><summary>Oxides</summary>
 >
 > | Resource    | Best Farming Location(s)                                            | Additional Notes                                                                                               |
 > | ----------- | ------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
@@ -209,7 +206,7 @@ Buying a candidate contract
 >
 > </details>
 >
-> <details><summary><h1>Pheromones</h1></summary>
+> <details><summary>Pheromones</summary>
 >
 > | Resource            | Best Farming Location(s)                       | Additional Notes                                                                                |
 > | ------------------- | ---------------------------------------------- | ----------------------------------------------------------------------------------------------- |
@@ -227,7 +224,7 @@ Buying a candidate contract
 >
 > </details>
 >
-> <details><summary><h1>Synthetics</h1></summary>
+> <details><summary>Synthetics</summary>
 >
 > | Resource          | Best Farming Location(s)                                                  | Additional Notes                                                                                    |
 > | ----------------- | ------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
@@ -246,7 +243,7 @@ Buying a candidate contract
 >
 > </details>
 >
-> <details><summary><h1>Sentient Appetite</h1></summary>
+> <details><summary>Sentient Appetite</summary>
 >
 > | Resource                  | Best Farming Location(s)                                                   | Additional Notes                                                                                                      |
 > | ------------------------- | -------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
@@ -261,7 +258,7 @@ Buying a candidate contract
 
 </details>
 
-<details><summary><h1>Arcon Shards</h1></summary>
+<details><summary>Arcon Shards</summary>
 
 A permanent upgrade item taken from Archons and used by the Helminth to further enhance a Warframe
 
@@ -279,7 +276,7 @@ A permanent upgrade item taken from Archons and used by the Helminth to further 
 
 </details>
 
-<details><summary><h1>Titania Loot Box Farming</h1></summary>
+<details><summary>Titania Loot Box Farming</summary>
 
 - Subsume Nova's Null Star ability onto Titania
 - Equip the Neutron Star augment mod (this is how we break boxes)
@@ -291,9 +288,9 @@ A permanent upgrade item taken from Archons and used by the Helminth to further 
 <img src="./img/warframe/builds/titaniaNeutronStar.jpeg" width="100%">
 </details>
 
-<details><summary><h1>Alecaframe - Warframe companion app</h1></summary>
+<details><summary>Alecaframe - Warframe companion app</summary>
 
-<details><summary><h2>Installing Alecaframe</h2></summary>
+<details><summary>Installing Alecaframe</summary>
 
 Alecaframe is a companion app for warframe that makes it easier to track your progress, increase your mastery rank and craft, buy and sell items.
 
@@ -303,7 +300,7 @@ Alecaframe is a companion app for warframe that makes it easier to track your pr
 
 </details>
 
-<details><summary><h2>Debloating Overwolf</h2></summary>
+<details><summary>Debloating Overwolf</summary>
 
 Overwolf is an addon platform that works with developers to ensure mods are TOS compliant and not bannable. The drawback of Overwolf is that it is resource heavy and using tracking and advertising within its overlay. Luckily, we can mitigate most of this by blocking its access to the internet. For this, we'll use "Simplewall", which is a free open-source extension of the native windows firewall that allows us to quickly allow/deny specific applcations internet access.
 
@@ -319,7 +316,7 @@ Overwolf is an addon platform that works with developers to ensure mods are TOS 
 
 </details>
 
-<details><summary><h1>Arcane Mod Farming</h1></summary>
+<details><summary>Arcane Mod Farming</summary>
 
 - Zariman, Tuvul Commons, Void Cascade Mission Type
 - Farm Thrax enemies to drop Arcanes using a Mod Drop Chance Booster
@@ -332,28 +329,28 @@ Overwolf is an addon platform that works with developers to ensure mods are TOS 
 
 </details>
 
-<details><summary><h1>Kahl Garrison Missions</h1></summary>
+<details><summary>Kahl Garrison Missions</summary>
 
-> <details><summary><h1>Sneaky Sabotage Speedrun</h1></summary>
+><details><summary>Sneaky Sabotage Speedrun</summary>
 >
-> |                                                                                                                                                                   |
-> | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-> | Console (Marked) &emsp;\|&emsp; Deactivate Right Barrier                                                                                                          |
-> | Console (Marked) &emsp;\|&emsp; Deactivate Left Magnalock &emsp;\|&emsp; Deactivate Right Barrier &emsp;\|&emsp; Change To Right Camera                           |
-> | Deactivate Left Barrier &emsp;\|&emsp; Exit                                                                                                                       |
-> | Exit Door &emsp;\|&emsp; Turn Left &emsp;\|&emsp; Jump Over Railing &emsp;\|&emsp;                                                                                |
-> | Stairs Immediately To The Right &emsp;\|&emsp; Hack Console &emsp;\|&emsp; Jump Down &emsp;\|&emsp; Left Door                                                     |
-> | Console &emsp;\|&emsp; Deactivate Barrier &emsp;\|&emsp; Exit Room &emsp;\|&emsp; Turn Right                                                                      |
-> | Go Up Stairs &emsp;\|&emsp; Turn Right &emsp;\|&emsp; Go Down Stairs &emsp;\|&emsp; Jump Over Railing                                                             |
-> | Continue Straight &emsp;\|&emsp; Down Stairs &emsp;\|&emsp; Up Stairs &emsp;\|&emsp; Hack Console                                                                 |
-> | Turn Left &emsp;\|&emsp; Jump Railing &emsp;\|&emsp; Climb Wall &emsp;\|&emsp; Fall Down                                                                          |
-> | Hack Console &emsp;\|&emsp; Turn Left &emsp;\|&emsp; Activate Elevator &emsp;\|&emsp; Run Towards Blinking Light                                                  |
-> | Continue Straight To Room &emsp;\|&emsp; Activate Console &emsp;\|&emsp; Deactivate Barrier &emsp;\|&emsp; 180° Deactivate Magnalock                              |
-> | Run To Marked Console &emsp;\|&emsp; Hack Console &emsp;\|&emsp; Run On Left Sloped Wall &emsp;\|&emsp; Double Jump Up To High Ledge                              |
-> | Follow Sstairs On Left &emsp;\|&emsp; Enter Room On Left &emsp;\|&emsp; Activate Console &emsp;\|&emsp;                                                           |
-> | Right Camera &emsp;\|&emsp; Up Activate Drone &emsp;\|&emsp; Change Symbols To Match Their Connected Door Symbol (Follow Lines) &emsp;\|&emsp; Run Boot Sequence  |
-> | Exit &emsp;\|&emsp; Grab Gun &emsp;\|&emsp; Move To 60m Marked Objective &emsp;\|&emsp; Activate Console                                                          |
-> | Turn Right &emsp;\|&emsp; Keep Running Staight To Far End Of Long Hall &emsp;\|&emsp; Freeze Boss With Barrel &emsp;\|&emsp; Repeat Each Phase: G, 1, 1, 3, Shoot |
+>|                                                                                                                                                                   |
+>| ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+>| Console (Marked) &emsp;\|&emsp; Deactivate Right Barrier                                                                                                          |
+>| Console (Marked) &emsp;\|&emsp; Deactivate Left Magnalock &emsp;\|&emsp; Deactivate Right Barrier &emsp;\|&emsp; Change To Right Camera                           |
+>| Deactivate Left Barrier &emsp;\|&emsp; Exit                                                                                                                       |
+>| Exit Door &emsp;\|&emsp; Turn Left &emsp;\|&emsp; Jump Over Railing &emsp;\|&emsp;                                                                                |
+>| Stairs Immediately To The Right &emsp;\|&emsp; Hack Console &emsp;\|&emsp; Jump Down &emsp;\|&emsp; Left Door                                                     |
+>| Console &emsp;\|&emsp; Deactivate Barrier &emsp;\|&emsp; Exit Room &emsp;\|&emsp; Turn Right                                                                      |
+>| Go Up Stairs &emsp;\|&emsp; Turn Right &emsp;\|&emsp; Go Down Stairs &emsp;\|&emsp; Jump Over Railing                                                             |
+>| Continue Straight &emsp;\|&emsp; Down Stairs &emsp;\|&emsp; Up Stairs &emsp;\|&emsp; Hack Console                                                                 |
+>| Turn Left &emsp;\|&emsp; Jump Railing &emsp;\|&emsp; Climb Wall &emsp;\|&emsp; Fall Down                                                                          |
+>| Hack Console &emsp;\|&emsp; Turn Left &emsp;\|&emsp; Activate Elevator &emsp;\|&emsp; Run Towards Blinking Light                                                  |
+>| Continue Straight To Room &emsp;\|&emsp; Activate Console &emsp;\|&emsp; Deactivate Barrier &emsp;\|&emsp; 180° Deactivate Magnalock                              |
+>| Run To Marked Console &emsp;\|&emsp; Hack Console &emsp;\|&emsp; Run On Left Sloped Wall &emsp;\|&emsp; Double Jump Up To High Ledge                              |
+>| Follow Sstairs On Left &emsp;\|&emsp; Enter Room On Left &emsp;\|&emsp; Activate Console &emsp;\|&emsp;                                                           |
+>| Right Camera &emsp;\|&emsp; Up Activate Drone &emsp;\|&emsp; Change Symbols To Match Their Connected Door Symbol (Follow Lines) &emsp;\|&emsp; Run Boot Sequence  |
+>| Exit &emsp;\|&emsp; Grab Gun &emsp;\|&emsp; Move To 60m Marked Objective &emsp;\|&emsp; Activate Console                                                          |
+>| Turn Right &emsp;\|&emsp; Keep Running Staight To Far End Of Long Hall &emsp;\|&emsp; Freeze Boss With Barrel &emsp;\|&emsp; Repeat Each Phase: G, 1, 1, 3, Shoot |
 
 </details>
 

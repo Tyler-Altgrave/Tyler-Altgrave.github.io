@@ -1,4 +1,4 @@
-<details><summary>**Progenitor Warframe Table**</summary>
+<details><summary><h2>Progenitor Warframe Table</h2></summary>
 
 | TYPE                                                                                                                                                                                                                                                  | -                                                                                                                                                                                               | -                                                                                                                                                                                               | -                                                                                                                                                                                                         | -                                                                                                                                                                                                    | -                                                                                                                                                                                                    | -                                                                                                                                                                                               | -                                                                                                                                                                                               | -                                                                                                                                                                                          | -                                                                                                                                                                                          | -   |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --- |
@@ -12,7 +12,7 @@
 
 ## </details>
 
-<details><summary>**Kuva Lich Weapons**</summary>
+<details><summary><h2>Kuva Lich Weapons</h2></summary>
 
 Selecting a Kuva Lich weapon
 
@@ -58,7 +58,7 @@ Buying a Kuva Lich contract
 
 ## </details>
 
-<details><summary>**Sisters Of Parvos Weapons**</summary>
+<details><summary><h2>Sisters Of Parvos Weapons</h2></summary>
 
 Selecting a Tenet Weapon
 
@@ -92,7 +92,7 @@ Buying a candidate contract
 
 ## </details>
 
-<details><summary>**Incarnon Weapons and Genesis**</summary>
+<details><summary><h2>Incarnon Weapons and Genesis</h2></summary>
 
 Incarnon weapons are special Orokin Era ceremonial weapons. Incarnon Genesis grants access to the Incarnon upgrades on a variety of weapons.
 
@@ -110,9 +110,9 @@ Incarnon Genesis
 - Complete "The Circuit" missions on the Steel Path difficulty level to earn Genesis Adapters as rewards, specifically at the 5th and 10th tiers.
 </details>
 
-<details><summary>**Helminth Farming Locations**</summary>
+<details><summary><h2>Helminth Farming Locations</h2></summary>
 
-> <details><summary>**Bile**</summary>
+> <details><summary><h2>Bile</h2></summary>
 >
 > | Resource                    | Best Farming Location(s)                            | Additional Notes                                                                                                        |
 > | --------------------------- | --------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
@@ -138,7 +138,7 @@ Incarnon Genesis
 >
 > </details>
 >
-> <details><summary>**Biotics**</summary>
+> <details><summary><h2>Biotics</h2></summary>
 >
 > | Resource             | Best Farming Location(s)                       | Additional Notes                                             |
 > | -------------------- | ---------------------------------------------- | ------------------------------------------------------------ |
@@ -171,7 +171,7 @@ Incarnon Genesis
 >
 > </details>
 >
-> <details><summary>**Calx**</summary>
+> <details><summary><h2>Calx</h2></summary>
 >
 > | Resource                | Best Farming Location(s)                             | Additional Notes                                                                                                      |
 > | ----------------------- | ---------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
@@ -190,7 +190,7 @@ Incarnon Genesis
 >
 > </details>
 >
-> <details><summary>**Oxides**</summary>
+> <details><summary><h2>Oxides</h2></summary>
 >
 > | Resource    | Best Farming Location(s)                                            | Additional Notes                                                                                               |
 > | ----------- | ------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
@@ -206,7 +206,7 @@ Incarnon Genesis
 >
 > </details>
 >
-> <details><summary>**Pheromones**</summary>
+> <details><summary><h2>Pheromones</h2></summary>
 >
 > | Resource            | Best Farming Location(s)                       | Additional Notes                                                                                |
 > | ------------------- | ---------------------------------------------- | ----------------------------------------------------------------------------------------------- |
@@ -224,7 +224,7 @@ Incarnon Genesis
 >
 > </details>
 >
-> <details><summary>**Synthetics**</summary>
+> <details><summary><h2>Synthetics</h2></summary>
 >
 > | Resource          | Best Farming Location(s)                                                  | Additional Notes                                                                                    |
 > | ----------------- | ------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
@@ -243,7 +243,7 @@ Incarnon Genesis
 >
 > </details>
 >
-> <details><summary>**Sentient Appetite**</summary>
+> <details><summary><h2>Sentient Appetite</h2></summary>
 >
 > | Resource                  | Best Farming Location(s)                                                   | Additional Notes                                                                                                      |
 > | ------------------------- | -------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
@@ -258,7 +258,7 @@ Incarnon Genesis
 
 </details>
 
-<details><summary>**Arcon Shards**</summary>
+<details><summary><h2>Arcon Shards</h2></summary>
 
 A permanent upgrade item taken from Archons and used by the Helminth to further enhance a Warframe
 
@@ -276,7 +276,7 @@ A permanent upgrade item taken from Archons and used by the Helminth to further 
 
 </details>
 
-<details><summary>**Titania Loot Box Farming**</summary>
+<details><summary><h2>Titania Loot Box Farming</h2></summary>
 
 - Subsume Nova's Null Star ability onto Titania
 - Equip the Neutron Star augment mod (this is how we break boxes)
@@ -288,9 +288,9 @@ A permanent upgrade item taken from Archons and used by the Helminth to further 
 <img src="./img/warframe/builds/titaniaNeutronStar.jpeg" width="100%">
 </details>
 
-<details><summary>**Alecaframe - Warframe companion app**</summary>
+<details><summary><h2>Alecaframe - Warframe companion app</h2></summary>
 
-<details><summary>**Installing Alecaframe**</summary>
+<details><summary><h2>Installing Alecaframe</h2></summary>
 
 Alecaframe is a companion app for warframe that makes it easier to track your progress, increase your mastery rank and craft, buy and sell items.
 
@@ -300,7 +300,7 @@ Alecaframe is a companion app for warframe that makes it easier to track your pr
 
 </details>
 
-<details><summary>**Debloating Overwolf**</summary>
+<details><summary><h2>Debloating Overwolf</h2></summary>
 
 Overwolf is an addon platform that works with developers to ensure mods are TOS compliant and not bannable. The drawback of Overwolf is that it is resource heavy and using tracking and advertising within its overlay. Luckily, we can mitigate most of this by blocking its access to the internet. For this, we'll use "Simplewall", which is a free open-source extension of the native windows firewall that allows us to quickly allow/deny specific applcations internet access.
 
@@ -316,7 +316,7 @@ Overwolf is an addon platform that works with developers to ensure mods are TOS 
 
 </details>
 
-<details><summary>**Arcane Mod Farming**</summary>
+<details><summary><h2>Arcane Mod Farming</h2></summary>
 
 - Zariman, Tuvul Commons, Void Cascade Mission Type
 - Farm Thrax enemies to drop Arcanes using a Mod Drop Chance Booster
@@ -329,9 +329,9 @@ Overwolf is an addon platform that works with developers to ensure mods are TOS 
 
 </details>
 
-<details><summary>**Kahl Garrison Missions**</summary>
+<details><summary><h2>Kahl Garrison Missions</h2></summary>
 
-><details><summary>**Sneaky Sabotage Speedrun**</summary>
+><details><summary><h2>Sneaky Sabotage Speedrun</h2></summary>
 >
 >|                                                                                                                                                                   |
 >| ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |

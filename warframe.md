@@ -147,8 +147,7 @@ Incarnon Genesis
 > | Ticor Plate                 | Railjack missions, specifically in the Veil Proxima | Higher-level Railjack missions have a better drop rate.                                                                 |
 > | Vainthorn                   | -                                                   | -                                                                                                                       |
 > | Voidgel Orb                 | Void Storm missions in Railjack                     | Drops from enemies and crates during Void Storms.                                                                       |
->
-> 
+
 ---
 
 </details>
@@ -183,8 +182,7 @@ Incarnon Genesis
 > | Ueymag               | -                                              | -                                                            |
 > | Vestan Moss          | Asteroid missions, like those on Mercury       | Look on shaded rock walls in outdoor areas.                  |
 > | Yao Shrub            | -                                              | -                                                            |
->
-> 
+
 ---
 
 </details>
@@ -205,8 +203,7 @@ Incarnon Genesis
 > | Nullstones              | Void missions                                        | Dropped by enemies and found in containers within the Void.                                                           |
 > | Rania Crystal Fragment  | -                                                    | -                                                                                                                     |
 > | Rubedo                  | Phobos, Earth, Pluto, Europa, Sedna, and Orokin Void | Higher drop rates in Void missions. Tycho, Lua is also a popular spot due to high enemy density.                      |
->
-> 
+
 ---
 
 </details>
@@ -224,8 +221,7 @@ Incarnon Genesis
 > | Salvage     | Mars, Jupiter, Sedna                                                | Large quantities can be gathered in endless missions on these planets.                                         |
 > | Tellurium   | Ophelia on Uranus                                                   | Rare resource that can drop in Archwing missions or Uranus Sealab tiles.                                       |
 > | Titanium    | Railjack missions, particularly in Earth Proxima and Saturn Proxima | Farming in Railjack missions yields a good amount. Breaking down wreckage also grants Titanium.                |
->
-> 
+
 ---
 
 </details>
@@ -245,8 +241,7 @@ Incarnon Genesis
 > | Severed Bile Sac    | Cambion Drift (Deimos)                         | Dropped by Deimos enemies. Rare resource.                                                       |
 > | Thrax Plasm         | Zariman Ten Zero                               | Dropped by enemies in Zariman missions.                                                         |
 > | Lua Thrax Plasm     | Lua, during Zariman-related missions or events | A variant of Thrax Plasm, specific to Lua during certain missions or events related to Zariman. |
->
-> 
+
 ---
 
 </details>
@@ -267,8 +262,7 @@ Incarnon Genesis
 > | Orokin Cell       | Tethys on Saturn                                                          | Sargas Ruk on Saturn, dies fast to Ignis Wraith                                                     |
 > | Polymer Bundle    | Mercury, Venus, Uranus                                                    | Dark Sector missions on Uranus, such as Assur, offer increased drop rates.                          |
 > | Saggen Pearl      | Cambion Drift (Deimos)                                                    | Found in the wild, particularly in the exocrine of Deimos. Rare resource.                           |
->
-> 
+
 ---
 
 </details>
@@ -283,8 +277,7 @@ Incarnon Genesis
 > | Exceptional Sentient Core | Plains of Eidolon from Sentient enemies                                    | Higher chance of drop from stronger Sentients encountered during nighttime or within the Lua missions.                |
 > | Flawless Sentient Core    | Plains of Eidolon from Sentient enemies, particularly during Eidolon hunts | Dropped by stronger Sentient enemies; Eidolon Teralyst, Gantulyst, and Hydrolyst hunts provide these more frequently. |
 > | Eidolon Shard             | Plains of Eidolon from Eidolon Teralyst, Gantulyst, Hydrolyst              | Obtained by defeating Eidolons on the Plains of Eidolon. Requires completion of The War Within quest to collect.      |
->
-> 
+
 ---
 
 </details>

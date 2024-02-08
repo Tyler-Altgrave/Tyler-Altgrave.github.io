@@ -293,7 +293,7 @@ A permanent upgrade item taken from Archons and used by the Helminth to further 
 
 <details><summary><h1>Alecaframe - Warframe companion app</h1></summary>
 
-<details><summary><h1>Installing Alecaframe</h1></summary>
+<details><summary><h2>Installing Alecaframe</h2></summary>
 
 Alecaframe is a companion app for warframe that makes it easier to track your progress, increase your mastery rank and craft, buy and sell items.
 
@@ -303,7 +303,7 @@ Alecaframe is a companion app for warframe that makes it easier to track your pr
 
 </details>
 
-<details><summary><h1>Debloating Overwolf</h1></summary>
+<details><summary><h2>Debloating Overwolf</h2></summary>
 
 Overwolf is an addon platform that works with developers to ensure mods are TOS compliant and not bannable. The drawback of Overwolf is that it is resource heavy and using tracking and advertising within its overlay. Luckily, we can mitigate most of this by blocking its access to the internet. For this, we'll use "Simplewall", which is a free open-source extension of the native windows firewall that allows us to quickly allow/deny specific applcations internet access.
 

@@ -113,7 +113,9 @@ Incarnon weapons are special Orokin Era ceremonial weapons. Incarnon Genesis gra
 ##  Incarnon Weapons
 
   Finish the "Angels of the Zariman" questline to unlock access to Incarnon weapons.
+
   Visit Cavalero located in the Chrysalith aboard the Zariman. He is the vendor for Incarnon weapons.
+  
   Exchange Holdfasts, a form of standing earned through Zariman activities, for Incarnon weapons with Cavalero.
 
 ##  Incarnon Genesis

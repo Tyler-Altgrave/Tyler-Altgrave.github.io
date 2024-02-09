@@ -15,6 +15,8 @@
 
 </details>
 
+---
+
 <details><summary><h2>Kuva Lich Weapons</h2></summary>
 
 Selecting a Kuva Lich weapon
@@ -118,9 +120,9 @@ Incarnon Genesis
 - Complete "The Circuit" missions on the Steel Path difficulty level to earn Genesis Adapters as rewards, specifically at the 5th and 10th tiers.
 - After receiving a Incarnon Genesis Adapter, visit Cavalero located in the Chrysalith aboard the Zariman to Evolve your weapons
 
----
-
 </details>
+
+---
 
 <details><summary><h2>Helminth Farming Locations</h2></summary>
 
@@ -148,9 +150,9 @@ Incarnon Genesis
 >| Vainthorn                   | -                                                   | -                                                                                                                       |
 >| Voidgel Orb                 | Void Storm missions in Railjack                     | Drops from enemies and crates during Void Storms.                                                                       |
 >
->---
->
 ></details>
+>
+>---
 >
 ><details><summary><h3>Biotics</h3></summary>
 >
@@ -183,9 +185,9 @@ Incarnon Genesis
 >| Vestan Moss          | Asteroid missions, like those on Mercury       | Look on shaded rock walls in outdoor areas.                  |
 >| Yao Shrub            | -                                              | -                                                            |
 >
->---
->
 ></details>
+>
+>---
 >
 ><details><summary><h3>Calx</h3></summary>
 >
@@ -204,9 +206,9 @@ Incarnon Genesis
 >| Rania Crystal Fragment  | -                                                    | -                                                                                                                     |
 >| Rubedo                  | Phobos, Earth, Pluto, Europa, Sedna, and Orokin Void | Higher drop rates in Void missions. Tycho, Lua is also a popular spot due to high enemy density.                      |
 >
->---
->
 ></details>
+>
+>---
 >
 ><details><summary><h3>Oxides</h3></summary>
 >
@@ -222,9 +224,9 @@ Incarnon Genesis
 >| Tellurium   | Ophelia on Uranus                                                   | Rare resource that can drop in Archwing missions or Uranus Sealab tiles.                                       |
 >| Titanium    | Railjack missions, particularly in Earth Proxima and Saturn Proxima | Farming in Railjack missions yields a good amount. Breaking down wreckage also grants Titanium.                |
 >
->---
->
 ></details>
+>
+>---
 >
 ><details><summary><h3>Pheromones</h3></summary>
 >
@@ -242,9 +244,9 @@ Incarnon Genesis
 >| Thrax Plasm         | Zariman Ten Zero                               | Dropped by enemies in Zariman missions.                                                         |
 >| Lua Thrax Plasm     | Lua, during Zariman-related missions or events | A variant of Thrax Plasm, specific to Lua during certain missions or events related to Zariman. |
 >
->---
->
 ></details>
+>
+>---
 >
 ><details><summary><h3>Synthetics</h3></summary>
 >
@@ -263,9 +265,9 @@ Incarnon Genesis
 >| Polymer Bundle    | Mercury, Venus, Uranus                                                    | Dark Sector missions on Uranus, such as Assur, offer increased drop rates.                          |
 >| Saggen Pearl      | Cambion Drift (Deimos)                                                    | Found in the wild, particularly in the exocrine of Deimos. Rare resource.                           |
 >
->---
->
 ></details>
+>
+>---
 >
 ><details><summary><h3>Sentient Ap3etite</h2></summary>
 >
@@ -278,13 +280,14 @@ Incarnon Genesis
 >| Flawless Sentient Core    | Plains of Eidolon from Sentient enemies, particularly during Eidolon hunts | Dropped by stronger Sentient enemies; Eidolon Teralyst, Gantulyst, and Hydrolyst hunts provide these more frequently. |
 >| Eidolon Shard             | Plains of Eidolon from Eidolon Teralyst, Gantulyst, Hydrolyst              | Obtained by defeating Eidolons on the Plains of Eidolon. Requires completion of The War Within quest to collect.      |
 >
+></details>
+>
 >---
 >
-></details>
 
 </details>
 
-</details>
+---
 
 <details><summary><h2>Arcon Shards</h2></summary>
 
@@ -302,10 +305,9 @@ A permanent upgrade item taken from Archons and used by the Helminth to further 
   - Violet: Crimson + Azure
   - Emerald: Amber + Azure
 
+</details>
 
 ---
-
-</details>
 
 <details><summary><h2>Titania Loot Box Farming</h2></summary>
 
@@ -318,9 +320,9 @@ A permanent upgrade item taken from Archons and used by the Helminth to further 
 - Use Razorwing to keep moving while you cast Null Star to break boxes
 <img src="./img/warframe/builds/titaniaNeutronStar.jpeg" width="100%">
 
----
-
 </details>
+
+---
 
 <details><summary><h2>Alecaframe - Warframe companion app</h2></summary>
 
@@ -332,10 +334,9 @@ Alecaframe is a companion app for warframe that makes it easier to track your pr
 - Link your [Warframe.Market](Warframe.Market) account in the settings
 - Launch Warframe and ensure your progress is sync'd with Alecaframe
 
+</details>
 
 ---
-
-</details>
 
 <details><summary><h2>Debloating Overwolf</h2></summary>
 
@@ -349,15 +350,13 @@ Overwolf is an addon platform that works with developers to ensure mods are TOS 
 - When any Overwolf component requests internet access, you can permantently deny it
   - Ensure "Alecaframe.exe" is granted access when it requests. If you block it by mistake you can Allow it form the list in Simplewall.
 
+</details>
 
 ---
 
 </details>
 
-
 ---
-
-</details>
 
 <details><summary><h2>Arcane Mod Farming</h2></summary>
 
@@ -370,10 +369,9 @@ Overwolf is an addon platform that works with developers to ensure mods are TOS 
 - Trade Vosfor to Loid for Arcanes
 - Rank Up Arcanes
 
+</details>
 
 ---
-
-</details>
 
 <details><summary><h2>Kahl Garrison Missions</h2></summary>
 
@@ -398,10 +396,9 @@ Overwolf is an addon platform that works with developers to ensure mods are TOS 
 >| Exit &emsp;\|&emsp; Grab Gun &emsp;\|&emsp; Move To 60m Marked Objective &emsp;\|&emsp; Activate Console                                                          |
 >| Turn Right &emsp;\|&emsp; Keep Running Staight To Far End Of Long Hall &emsp;\|&emsp; Freeze Boss With Barrel &emsp;\|&emsp; Repeat Each Phase: G, 1, 1, 3, Shoot |
 
+</details>
 
 ---
-
-</details>
 
 </details>
 
@@ -435,6 +432,6 @@ Overwolf is an addon platform that works with developers to ensure mods are TOS 
   - Teshin: Sells unique items and cosmetics for Steel Path, including some weapons.
     - Resources Required: Steel Essence.
 
----
-
 </details>
+
+---

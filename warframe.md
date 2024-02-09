@@ -123,7 +123,7 @@ Incarnon Genesis
 
 </details>
 
-<details><summary><h2>Helminth Farming Locations</h2></summary>
+<h2>Helminth Farming Locations</h2>
 
 > <details><summary><h2>Bile</h2></summary>
 >

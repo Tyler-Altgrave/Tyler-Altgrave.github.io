@@ -134,21 +134,25 @@
 
 <details><summary><h2>Incarnon Weapons and Genesis</h2></summary>
 
-Incarnon weapons are special Orokin Era ceremonial weapons. Incarnon Genesis grants access to the Incarnon upgrades on a variety of weapons.
-
-Incarnon Weapons
-
-- Finish the "Angels of the Zariman" questline to unlock access to Incarnon weapons.
-- Visit Cavalero located in the Chrysalith aboard the Zariman. He is the vendor for Incarnon weapons.
-- Exchange Holdfasts, a form of standing earned through Zariman activities, for Incarnon weapons with Cavalero.
-
-Incarnon Genesis
-
-- Review the [Reward Rotation](https://warframe.fandom.com/wiki/Incarnon#Reward_Rotation) to know which Genesis Adapters are available that week.
-- From the Orbiter's star chart, locate and click the Duvari icon (resembles a metal head) at the top right corner to open the Duvari menu.
-- Within the Duvari menu, choose two Genesis Adapters you wish to aim for during the week
-- Complete "The Circuit" missions on the Steel Path difficulty level to earn Genesis Adapters as rewards, specifically at the 5th and 10th tiers.
-- After receiving a Incarnon Genesis Adapter, visit Cavalero located in the Chrysalith aboard the Zariman to Evolve your weapons
+><details><summary><h3>Incarnon Weapons</h3></summary>
+>
+>- Finish the "Angels of the Zariman" questline to unlock access to Incarnon weapons.
+>- Visit Cavalero located in the Chrysalith aboard the Zariman. He is the vendor for Incarnon weapons.
+>- Exchange Holdfasts, a form of standing earned through Zariman activities, for Incarnon weapons with Cavalero.
+>
+></details>
+>
+>---
+>
+><details><summary><h3>Incarnon Genesis</h3></summary>
+>
+>- Review the [Reward Rotation](https://warframe.fandom.com/wiki/Incarnon#Reward_Rotation) to know which Genesis Adapters are available that week.
+>- From the Orbiter's star chart, locate and click the Duvari icon (resembles a metal head) at the top right corner to open the Duvari menu.
+>- Within the Duvari menu, choose two Genesis Adapters you wish to aim for during the week
+>- Complete "The Circuit" missions on the Steel Path difficulty level to earn Genesis Adapters as rewards, specifically at the 5th and 10th tiers.
+>- After receiving a Incarnon Genesis Adapter, visit Cavalero located in the Chrysalith aboard the Zariman to Evolve your weapons
+>
+></details>
 
 </details>
 

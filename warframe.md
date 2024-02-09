@@ -125,7 +125,7 @@ Incarnon Genesis
 
 <details><summary><h2>Helminth Farming Locations</h2></summary>
 
-><details><summary><h2>Bile</h2></summary>
+><details><summary><h3>Bile</h3></summary>
 >
 >| Resource                    | Best Farming Location(s)                            | Additional Notes                                                                                                        |
 >| --------------------------- | --------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
@@ -153,7 +153,7 @@ Incarnon Genesis
 >
 ></details>
 >
-><details><summary><h2>Biotics</h2></summary>
+><details><summary><h3>Biotics</h3></summary>
 >
 >| Resource             | Best Farming Location(s)                       | Additional Notes                                             |
 >| -------------------- | ---------------------------------------------- | ------------------------------------------------------------ |
@@ -188,7 +188,7 @@ Incarnon Genesis
 >
 ></details>
 >
-><details><summary><h2>Calx</h2></summary>
+><details><summary><h3>Calx</h3></summary>
 >
 >| Resource                | Best Farming Location(s)                             | Additional Notes                                                                                                      |
 >| ----------------------- | ---------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
@@ -209,7 +209,7 @@ Incarnon Genesis
 >
 ></details>
 >
-><details><summary><h2>Oxides</h2></summary>
+><details><summary><h3>Oxides</h3></summary>
 >
 >| Resource    | Best Farming Location(s)                                            | Additional Notes                                                                                               |
 >| ----------- | ------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
@@ -227,7 +227,7 @@ Incarnon Genesis
 >
 ></details>
 >
-><details><summary><h2>Pheromones</h2></summary>
+><details><summary><h3>Pheromones</h3></summary>
 >
 >| Resource            | Best Farming Location(s)                       | Additional Notes                                                                                |
 >| ------------------- | ---------------------------------------------- | ----------------------------------------------------------------------------------------------- |
@@ -247,7 +247,7 @@ Incarnon Genesis
 >
 ></details>
 >
-><details><summary><h2>Synthetics</h2></summary>
+><details><summary><h3>Synthetics</h3></summary>
 >
 >| Resource          | Best Farming Location(s)                                                  | Additional Notes                                                                                    |
 >| ----------------- | ------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
@@ -268,7 +268,7 @@ Incarnon Genesis
 >
 ></details>
 >
-><details><summary><h2>Sentient Appetite</h2></summary>
+><details><summary><h3>Sentient Ap3etite</h2></summary>
 >
 >| Resource                  | Best Farming Location(s)                                                   | Additional Notes                                                                                                      |
 >| ------------------------- | -------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
@@ -378,7 +378,7 @@ Overwolf is an addon platform that works with developers to ensure mods are TOS 
 
 <details><summary><h2>Kahl Garrison Missions</h2></summary>
 
-><details><summary><h2>Sneaky Sabotage Speedrun</h2></summary>
+><details><summary><h3>Sneaky Sa3otage Speedrun</h2></summary>
 >
 >|                                                                                                                                                                   |
 >| ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |

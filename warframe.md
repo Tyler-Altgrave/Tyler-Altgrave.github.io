@@ -283,9 +283,6 @@ Incarnon Genesis
 
 </details>
 
-
----
-
 </details>
 
 <details><summary><h2>Arcon Shards</h2></summary>

@@ -62,6 +62,13 @@
 >  - Meet the seller in the Crimson Branch room of a Dojo
 >  - Complete the trade to activate the Lich
 >
+>
+></details>
+>
+>---
+>
+><details><summary><h3>Kuva Lich Images</h3></summary>
+>
 >|                         Male Larvaling                         |                         Female Larvaling                         |
 >| :------------------------------------------------------------: | :--------------------------------------------------------------: |
 >| <img src="./img/warframe/kuva/maleLarvaling.webp" width="100"> | <img src="./img/warframe/kuva/femaleLarvaling.webp" width="100"> |

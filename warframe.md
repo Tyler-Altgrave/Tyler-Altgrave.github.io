@@ -409,3 +409,18 @@ Overwolf is an addon platform that works with developers to ensure mods are TOS 
 ---
 
 </details>
+
+<details><summary><h2>Titania Loot Box Farming</h2></summary>
+
+- Subsume Nova's Null Star ability onto Titania
+- Equip the Neutron Star augment mod (this is how we break boxes)
+- Build for +Range and Efficiency
+  - 175 Efficiency
+  - 265 Range (Companion Vacuum is 11.5M, Neutron Star is 21.2M)
+  - 70% Strength (Needed to break boxes in a single cast)
+- Use Razorwing to keep moving while you cast Null Star to break boxes
+<img src="./img/warframe/builds/titaniaNeutronStar.jpeg" width="100%">
+
+---
+
+</details>

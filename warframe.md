@@ -434,59 +434,53 @@ A permanent upgrade item taken from Archons and used by the Helminth to further 
 <details><summary><h2>Vendor Weapons</h2></summary>
 
 > <details><summary><h3>Cetus - Plains of Eidolon (Earth)**</h3></summary>
-> 
->  - Hok's Anvil: Hok offers Zaw components, which can be assembled into melee weapons
-> 
->    - Resources Required: Ostron Standing, plus various resources found in the Plains of Eidolon like Fish Parts, Ores, and Wisps.
-> 
->  - The Quills: Offers Amp parts used to assemble Amps for your Operator. Each unique Amp configuration contributes to Mastery.
-> 
->    - Resources Required: Quill Standing, Sentient Cores.
+>
+> - Hok's Anvil: Hok offers Zaw components, which can be assembled into melee weapons
+>   - Resources Required: Ostron Standing, plus various resources found in the Plains of Eidolon like Fish Parts, Ores, and Wisps.
+> - The Quills: Offers Amp parts used to assemble Amps for your Operator. Each unique Amp configuration contributes to Mastery.
+>   - Resources Required: Quill Standing, Sentient Cores.
 >
 > </details>
 >
 > ---
 >
 > <details><summary><h3>Fortuna - Orb Vallis (Venus)**</h3></summary>
-> 
->  - Rude Zuud's: Sells Kitgun components, which can be combined into custom secondary weapons.
-> 
->    - Resources Required: Solaris United Standing, plus Fortuna resources like Gems and Fish Parts.
-> 
->  - Legs: Offers MOA companions, with each unique MOA chassis contributing to Mastery.
-> 
->    - Resources Required: Solaris United Standing, plus specific resources found in Orb Vallis.
-> 
->  - Little Duck: Provides components for Railjack, Amp upgrades and Arcanes for Operators. While not all items directly contribute to Mastery, Amp parts do.
-> 
->    - Resources Required: Vox Solaris Standing, Toroids.
+>
+> - Rude Zuud's: Sells Kitgun components, which can be combined into custom secondary weapons.
+>   - Resources Required: Solaris United Standing, plus Fortuna resources like Gems and Fish Parts.
+> - Legs: Offers MOA companions, with each unique MOA chassis contributing to Mastery.
+>   - Resources Required: Solaris United Standing, plus specific resources found in Orb Vallis.
+> - Little Duck: Provides components for Railjack, Amp upgrades and Arcanes for Operators. While not all items directly contribute to Mastery, Amp parts do.
+>   - Resources Required: Vox Solaris Standing, Toroids.
 >
 > </details>
 >
 > ---
 >
 > <details><summary><h3>Necralisk - Deimos (Cambion Drift)**</h3></summary>
-> 
->  - Father: Sells components for Kitguns (primary versions) and Necramechs.
->    - Resources Required: Entrati Standing, plus Deimos resources like Scintillant and Cryptographic Alu.
->  - Son: Offers conservation tags in exchange for Predasite and Vulpaphyla companions, which can be "revivificated" for Mastery.
->    - Resources Required: Entrati Standing, Conservation Tags, and specific resources for revivification.
+>
+> - Father: Sells components for Kitguns (primary versions) and Necramechs.
+>   - Resources Required: Entrati Standing, plus Deimos resources like Scintillant and Cryptographic Alu.
+> - Son: Offers conservation tags in exchange for Predasite and Vulpaphyla companions, which can be "revivificated" for Mastery.
+>   - Resources Required: Entrati Standing, Conservation Tags, and specific resources for revivification.
 >
 > </details>
 >
 > ---
 >
 > <details><summary><h3>Dojo - Clan Dojo**</h3></summary>
->  - Research Labs (Tenno Lab, Bio Lab, Chem Lab, Energy Lab, and Orokin Lab): Provide blueprints for weapons, Warframes, and Archwings. Crafting and leveling these items contribute to Mastery.
->    - Resources Required: Various resources for research and crafting, plus Clan Contributions.
+>
+> - Research Labs (Tenno Lab, Bio Lab, Chem Lab, Energy Lab, and Orokin Lab): Provide blueprints for weapons, Warframes, and Archwings. Crafting and leveling these items contribute to Mastery.
+>   - Resources Required: Various resources for research and crafting, plus Clan Contributions.
 >
 > </details>
 >
 > ---
 >
 > <details><summary><h3>The Steel Path Honors - Teshin (Relay Stations)**</h3></summary>
->  - Teshin: Sells unique items and cosmetics for Steel Path, including some weapons.
->    - Resources Required: Steel Essence.
+>
+> - Teshin: Sells unique items and cosmetics for Steel Path, including some weapons.
+>   - Resources Required: Steel Essence.
 >
 > </details>
 

@@ -404,10 +404,6 @@ Overwolf is an addon platform that works with developers to ensure mods are TOS 
 ---
 
 </details>
-
-
----
-
 </details>
 
 <details><summary><h2>Vendor Weapons</h2></summary>

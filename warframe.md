@@ -125,29 +125,29 @@ Incarnon Genesis
 
 <details><summary><h2>Helminth Farming Locations</h2></summary>
 
-> <details><summary><h2>Bile</h2></summary>
->
-> | Resource                    | Best Farming Location(s)                            | Additional Notes                                                                                                        |
-> | --------------------------- | --------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
-> | Aggristone                  | -                                                   | -                                                                                                                       |
-> | Ariette Scale               | -                                                   | -                                                                                                                       |
-> | Antiserum Injector Fragment | Infested Salvage missions (Oestrus, Eris)           | Use Nekros with Desecrate, Hydroid with Pilfering Swarm, or Khora with Pilfering Strangledome for increased drop rates. |
-> | Argon Crystal               | Void missions (any)                                 | Best farmed in missions like Capture for quick runs. Argon Crystals decay over time, so use them quickly.               |
-> | Cryotic                     | Excavation missions (any planet)                    | Longer missions yield more Cryotic. Consider using frames like Frost, Limbo, or Gara for defense.                       |
-> | Diluted Thermia             | Thermia Fractures on Orb Vallis (Venus)             | Available during the "Operation: Buried Debts" event. Collect and close Thermia Fractures.                              |
-> | Enigma Gyrum                | -                                                   | -                                                                                                                       |
-> | Isos                        | Railjack missions, specifically in the Veil Proxima | Farming in higher-level Railjack missions increases the drop rate.                                                      |
-> | Javlok Capacitor            | Incursions in the Plains of Eidolon (Earth)         | Random drop from enemy units during Incursions.                                                                         |
-> | Morphics                    | Mars, Mercury, Pluto, and Europa                    | War, Mars and Apollodorus, Mercury are good farming spots. Use frames with loot abilities for better efficiency.        |
-> | Nav Coordinate              | Assassination missions, Orokin Derelict missions    | Common in the reward pool for these mission types.                                                                      |
-> | Omega Isotope               | Planets where a Fomorian event is active            | Drop from any mission on a planet under invasion.                                                                       |
-> | Orokin Cipher               | Orokin Derelict Vaults                              | Requires a Dragon Key to access vaults. Random chance to obtain Ciphers from the vaults.                                |
-> | Rune Marrow                 | -                                                   | -                                                                                                                       |
-> | Somatic Fibers              | Lua (The Moon)                                      | Drops from Sentients. Farming during missions like Crossfire Exterminate can yield good results.                        |
-> | Thermal Sludge              | Orb Vallis (Venus)                                  | Found in containers and as environmental pickups. Good spots are around the outskirts of Fortuna and industrial areas.  |
-> | Ticor Plate                 | Railjack missions, specifically in the Veil Proxima | Higher-level Railjack missions have a better drop rate.                                                                 |
-> | Vainthorn                   | -                                                   | -                                                                                                                       |
-> | Voidgel Orb                 | Void Storm missions in Railjack                     | Drops from enemies and crates during Void Storms.                                                                       |
+<details><summary><h2>Bile</h2></summary>
+
+| Resource                    | Best Farming Location(s)                            | Additional Notes                                                                                                        |
+| --------------------------- | --------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| Aggristone                  | -                                                   | -                                                                                                                       |
+| Ariette Scale               | -                                                   | -                                                                                                                       |
+| Antiserum Injector Fragment | Infested Salvage missions (Oestrus, Eris)           | Use Nekros with Desecrate, Hydroid with Pilfering Swarm, or Khora with Pilfering Strangledome for increased drop rates. |
+| Argon Crystal               | Void missions (any)                                 | Best farmed in missions like Capture for quick runs. Argon Crystals decay over time, so use them quickly.               |
+| Cryotic                     | Excavation missions (any planet)                    | Longer missions yield more Cryotic. Consider using frames like Frost, Limbo, or Gara for defense.                       |
+| Diluted Thermia             | Thermia Fractures on Orb Vallis (Venus)             | Available during the "Operation: Buried Debts" event. Collect and close Thermia Fractures.                              |
+| Enigma Gyrum                | -                                                   | -                                                                                                                       |
+| Isos                        | Railjack missions, specifically in the Veil Proxima | Farming in higher-level Railjack missions increases the drop rate.                                                      |
+| Javlok Capacitor            | Incursions in the Plains of Eidolon (Earth)         | Random drop from enemy units during Incursions.                                                                         |
+| Morphics                    | Mars, Mercury, Pluto, and Europa                    | War, Mars and Apollodorus, Mercury are good farming spots. Use frames with loot abilities for better efficiency.        |
+| Nav Coordinate              | Assassination missions, Orokin Derelict missions    | Common in the reward pool for these mission types.                                                                      |
+| Omega Isotope               | Planets where a Fomorian event is active            | Drop from any mission on a planet under invasion.                                                                       |
+| Orokin Cipher               | Orokin Derelict Vaults                              | Requires a Dragon Key to access vaults. Random chance to obtain Ciphers from the vaults.                                |
+| Rune Marrow                 | -                                                   | -                                                                                                                       |
+| Somatic Fibers              | Lua (The Moon)                                      | Drops from Sentients. Farming during missions like Crossfire Exterminate can yield good results.                        |
+| Thermal Sludge              | Orb Vallis (Venus)                                  | Found in containers and as environmental pickups. Good spots are around the outskirts of Fortuna and industrial areas.  |
+| Ticor Plate                 | Railjack missions, specifically in the Veil Proxima | Higher-level Railjack missions have a better drop rate.                                                                 |
+| Vainthorn                   | -                                                   | -                                                                                                                       |
+| Voidgel Orb                 | Void Storm missions in Railjack                     | Drops from enemies and crates during Void Storms.                                                                       |
 
 ---
 

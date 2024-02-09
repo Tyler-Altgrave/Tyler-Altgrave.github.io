@@ -433,7 +433,7 @@ A permanent upgrade item taken from Archons and used by the Helminth to further 
 
 <details><summary><h2>Vendor Weapons</h2></summary>
 
-> <details><summary><h3>Cetus - Plains of Eidolon (Earth)**</h3></summary>
+> <details><summary><h3>Cetus - Plains of Eidolon (Earth)</h3></summary>
 >
 > - Hok's Anvil: Hok offers Zaw components, which can be assembled into melee weapons
 >   - Resources Required: Ostron Standing, plus various resources found in the Plains of Eidolon like Fish Parts, Ores, and Wisps.
@@ -444,7 +444,7 @@ A permanent upgrade item taken from Archons and used by the Helminth to further 
 >
 > ---
 >
-> <details><summary><h3>Fortuna - Orb Vallis (Venus)**</h3></summary>
+> <details><summary><h3>Fortuna - Orb Vallis (Venus)</h3></summary>
 >
 > - Rude Zuud's: Sells Kitgun components, which can be combined into custom secondary weapons.
 >   - Resources Required: Solaris United Standing, plus Fortuna resources like Gems and Fish Parts.
@@ -457,7 +457,7 @@ A permanent upgrade item taken from Archons and used by the Helminth to further 
 >
 > ---
 >
-> <details><summary><h3>Necralisk - Deimos (Cambion Drift)**</h3></summary>
+> <details><summary><h3>Necralisk - Deimos (Cambion Drift)</h3></summary>
 >
 > - Father: Sells components for Kitguns (primary versions) and Necramechs.
 >   - Resources Required: Entrati Standing, plus Deimos resources like Scintillant and Cryptographic Alu.
@@ -468,7 +468,7 @@ A permanent upgrade item taken from Archons and used by the Helminth to further 
 >
 > ---
 >
-> <details><summary><h3>Dojo - Clan Dojo**</h3></summary>
+> <details><summary><h3>Dojo - Clan Dojo</h3></summary>
 >
 > - Research Labs (Tenno Lab, Bio Lab, Chem Lab, Energy Lab, and Orokin Lab): Provide blueprints for weapons, Warframes, and Archwings. Crafting and leveling these items contribute to Mastery.
 >   - Resources Required: Various resources for research and crafting, plus Clan Contributions.
@@ -477,7 +477,7 @@ A permanent upgrade item taken from Archons and used by the Helminth to further 
 >
 > ---
 >
-> <details><summary><h3>The Steel Path Honors - Teshin (Relay Stations)**</h3></summary>
+> <details><summary><h3>The Steel Path Honors - Teshin (Relay Stations)</h3></summary>
 >
 > - Teshin: Sells unique items and cosmetics for Steel Path, including some weapons.
 >   - Resources Required: Steel Essence.

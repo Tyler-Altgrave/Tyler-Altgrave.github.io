@@ -66,11 +66,6 @@
 | :------------------------------------------------------------: | :--------------------------------------------------------------: |
 | <img src="./img/warframe/kuva/maleLarvaling.webp" width="100"> | <img src="./img/warframe/kuva/femaleLarvaling.webp" width="100"> |
 
-
-</details>
-
----
-
 </details>
 
 ---
@@ -359,9 +354,7 @@ Overwolf is an addon platform that works with developers to ensure mods are TOS 
 - When any Overwolf component requests internet access, you can permantently deny it
   - Ensure "Alecaframe.exe" is granted access when it requests. If you block it by mistake you can Allow it form the list in Simplewall.
 
-</details>
 
----
 
 </details>
 

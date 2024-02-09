@@ -434,6 +434,7 @@ A permanent upgrade item taken from Archons and used by the Helminth to further 
 <details><summary><h2>Vendor Weapons</h2></summary>
 
 > <details><summary><h3>Cetus - Plains of Eidolon (Earth)**</h3></summary>
+> 
 >  - Hok's Anvil: Hok offers Zaw components, which can be assembled into melee weapons
 > 
 >    - Resources Required: Ostron Standing, plus various resources found in the Plains of Eidolon like Fish Parts, Ores, and Wisps.
@@ -447,11 +448,17 @@ A permanent upgrade item taken from Archons and used by the Helminth to further 
 > ---
 >
 > <details><summary><h3>Fortuna - Orb Vallis (Venus)**</h3></summary>
+> 
 >  - Rude Zuud's: Sells Kitgun components, which can be combined into custom secondary weapons.
+> 
 >    - Resources Required: Solaris United Standing, plus Fortuna resources like Gems and Fish Parts.
+> 
 >  - Legs: Offers MOA companions, with each unique MOA chassis contributing to Mastery.
+> 
 >    - Resources Required: Solaris United Standing, plus specific resources found in Orb Vallis.
+> 
 >  - Little Duck: Provides components for Railjack, Amp upgrades and Arcanes for Operators. While not all items directly contribute to Mastery, Amp parts do.
+> 
 >    - Resources Required: Vox Solaris Standing, Toroids.
 >
 > </details>
@@ -459,6 +466,7 @@ A permanent upgrade item taken from Archons and used by the Helminth to further 
 > ---
 >
 > <details><summary><h3>Necralisk - Deimos (Cambion Drift)**</h3></summary>
+> 
 >  - Father: Sells components for Kitguns (primary versions) and Necramechs.
 >    - Resources Required: Entrati Standing, plus Deimos resources like Scintillant and Cryptographic Alu.
 >  - Son: Offers conservation tags in exchange for Predasite and Vulpaphyla companions, which can be "revivificated" for Mastery.

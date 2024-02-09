@@ -82,7 +82,7 @@
 
 <details><summary><h2>Sisters Of Parvos Weapons</h2></summary>
 
-Selecting a Tenet Weapon
+<details><summary><h3>Selecting a Tenet Weapon</h3></summary>
 
 - Finish The War Within and Call of the Tempestarii questlines
 - If you're farming for a specific weapon, choose a Progenitor Warframe based on the table above
@@ -94,14 +94,22 @@ Selecting a Tenet Weapon
   - If its the weapon you want, hold Q to execute the candidate, complete the mission and extract normally
   - If its not the weapon you want, complete the Mission and extract normally to try again
 
-Unlocking a Tenet Weapon
+</details>
+
+---
+
+<details><summary><h3>Unlocking a Tenet Weapon</h3></summary>
 
 - On creation of a Candidate, they generate a random passphrase of 3 different Requiems
 - Defeating Candidates will reveal the Requiems for their passphrase, but not the order
 - Players must slot the matching Requiem Mods in their Parazon and defeat the candidate until they find the correct order
   - Always place an Oull requiem mod in the first slot of your paragon, as it acts as a wildcard (Guaranteed success on the first try)
 
-Buying a candidate contract
+</details>
+
+---
+
+<details><summary><h3>Buying a candidate contract</h3></summary>
 
 - You can buy candidate contracts on [Warframe.Market](https://warframe.market/auctions) to skip the candidate farm
   - Find the candidate you want to buy
@@ -111,6 +119,8 @@ Buying a candidate contract
 |                           Treasurer                           |                          Zenith Granum Crown                          |                         Granum Void Hand Tribute                          |
 | :-----------------------------------------------------------: | :-------------------------------------------------------------------: | :-----------------------------------------------------------------------: |
 | <img src="./img/warframe/sisters/treasurer.webp" width="100"> | <img src="./img/warframe/sisters/zenithGranumCrown.webp" width="100"> | <img src="./img/warframe/sisters/granumVoidHandTribute.webp" width="100"> |
+
+</details>
 
 </details>
 

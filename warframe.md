@@ -429,6 +429,8 @@ A permanent upgrade item taken from Archons and used by the Helminth to further 
 
 </details>
 
+---
+
 <details><summary><h2>Vendor Weapons</h2></summary>
 
 > <details><summary><h3>Cetus - Plains of Eidolon (Earth)**</h3></summary>

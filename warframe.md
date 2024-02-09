@@ -16,58 +16,59 @@
 
 <details><summary><h2>Kuva Lich Weapons</h2></summary>
 
-<details><summary><h3>Selecting a Kuva Lich weapon</h3></summary>
+><details><summary><h3>Selecting a Kuva Lich weapon</h3></summary>
+>
+>- Finish The War Within quest to unlock Kuva Liches
+>- If you're farming for a specific weapon, choose a Progenitor Warframe based on the table above
+>- Start a Level 20+ Grineer Mission. Cassini Capture on Saturn is popular
+>- The timer starts when the light flicker, this can be immediately on start or during the mission
+>  - On Capture missions, the lights wont flicker until after the mission target has been successfully captured
+>- Kill 10 Grineer within 1 minute to trigger a Kuva Larvaling (Below)
+>- When a Kuva Larvaling is killed they will display a weapon above their head
+>  - If its the weapon you want, hold Q to execute the Lich, complete the mission and extract normally
+>  - If its not the weapon you want, complete the Mission and extract normally to try again
+>
+></details>
+>
+>---
+>
+><details><summary><h3>Unlocking the Kuva Lich weapon</h3></summary>
+>
+>- On creation of a Kuva Lich, they generate a random passphrase of 3 different Requiems
+>- To spawn the Lich, you'll need to execute thralls in Kuva Lich missions
+>  - Players must slot the matching Requiem Mods in their Parazon and defeat the Lich until they find the correct order
+>  - Always place an Oull requiem mod in the first slot of your paragon, as it acts as a wildcard (Guaranteed success on the first try)
+>  - Start on Earth, select any mission with the Lich icon (higher level)
+>  - Play through the missions, executing thralls along the way to draw out your Kuva Lich
+>  - Once your Kuva Lich has spawned:
+>    - Down the Kuva Lich without executing until you've revealed your first 2 Requiem Murmurs
+>    - Slot the 2 known murmurs in the first 2 slots and an Oull (wildcard) in the third slot
+>    - Down the Kuva Lich and execute it
+>      - If the first mod is wrong, swap it with the second slot
+>      - If the first mod is right and the second mod is wrong, swap the second mod to the third slot
+>    - Down the Kuva Lich and execute it
+>      - If the first mod is wrong, swap it with the third slot
+>    - Down the Kuva Lich and execute it
+>      - You should now have all 3 mods in the correct order
+>
+></details>
+>
+>---
+>
+><details><summary><h3>Buying a Kuva Lich contract</h3></summary>
+>
+>- You can buy Kuva Lich contracts on [Warframe.Market](https://warframe.market/auctions) to skip the Larvaling farm
+>  - Find the Lich you want to buy
+>  - Meet the seller in the Crimson Branch room of a Dojo
+>  - Complete the trade to activate the Lich
+>
+>|                         Male Larvaling                         |                         Female Larvaling                         |
+>| :------------------------------------------------------------: | :--------------------------------------------------------------: |
+>| <img src="./img/warframe/kuva/maleLarvaling.webp" width="100"> | <img src="./img/warframe/kuva/femaleLarvaling.webp" width="100"> |
+>
+>
+></details>
 
-- Finish The War Within quest to unlock Kuva Liches
-- If you're farming for a specific weapon, choose a Progenitor Warframe based on the table above
-- Start a Level 20+ Grineer Mission. Cassini Capture on Saturn is popular
-- The timer starts when the light flicker, this can be immediately on start or during the mission
-  - On Capture missions, the lights wont flicker until after the mission target has been successfully captured
-- Kill 10 Grineer within 1 minute to trigger a Kuva Larvaling (Below)
-- When a Kuva Larvaling is killed they will display a weapon above their head
-  - If its the weapon you want, hold Q to execute the Lich, complete the mission and extract normally
-  - If its not the weapon you want, complete the Mission and extract normally to try again
-
-</details>
-
----
-
-<details><summary><h3>Unlocking the Kuva Lich weapon</h3></summary>
-
-- On creation of a Kuva Lich, they generate a random passphrase of 3 different Requiems
-- To spawn the Lich, you'll need to execute thralls in Kuva Lich missions
-  - Players must slot the matching Requiem Mods in their Parazon and defeat the Lich until they find the correct order
-  - Always place an Oull requiem mod in the first slot of your paragon, as it acts as a wildcard (Guaranteed success on the first try)
-  - Start on Earth, select any mission with the Lich icon (higher level)
-  - Play through the missions, executing thralls along the way to draw out your Kuva Lich
-  - Once your Kuva Lich has spawned:
-    - Down the Kuva Lich without executing until you've revealed your first 2 Requiem Murmurs
-    - Slot the 2 known murmurs in the first 2 slots and an Oull (wildcard) in the third slot
-    - Down the Kuva Lich and execute it
-      - If the first mod is wrong, swap it with the second slot
-      - If the first mod is right and the second mod is wrong, swap the second mod to the third slot
-    - Down the Kuva Lich and execute it
-      - If the first mod is wrong, swap it with the third slot
-    - Down the Kuva Lich and execute it
-      - You should now have all 3 mods in the correct order
-
-</details>
-
----
-
-<details><summary><h3>Buying a Kuva Lich contract</h3></summary>
-
-- You can buy Kuva Lich contracts on [Warframe.Market](https://warframe.market/auctions) to skip the Larvaling farm
-  - Find the Lich you want to buy
-  - Meet the seller in the Crimson Branch room of a Dojo
-  - Complete the trade to activate the Lich
-
-|                         Male Larvaling                         |                         Female Larvaling                         |
-| :------------------------------------------------------------: | :--------------------------------------------------------------: |
-| <img src="./img/warframe/kuva/maleLarvaling.webp" width="100"> | <img src="./img/warframe/kuva/femaleLarvaling.webp" width="100"> |
-
-
-</details>
 </details>
 
 ---

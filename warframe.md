@@ -82,45 +82,51 @@
 
 <details><summary><h2>Sisters Of Parvos Weapons</h2></summary>
 
-<details><summary><h3>Selecting a Tenet Weapon</h3></summary>
-
-- Finish The War Within and Call of the Tempestarii questlines
-- If you're farming for a specific weapon, choose a Progenitor Warframe based on the table above
-- Start a Level 20+ Corpus Mission. Hydra Capture on Pluto is popular
-- Find the Granum Void (Golden Hand) and start a Zenith Crown
-  - If you don't have a Zenith Crown, wait 3 to 6 minutes for a Treasurer to spawn and kill them to gain one
-- Complete the Granum Void to spawn a Candidate
-- When a Candidate is killed they will display a weapon above their head
-  - If its the weapon you want, hold Q to execute the candidate, complete the mission and extract normally
-  - If its not the weapon you want, complete the Mission and extract normally to try again
-
-</details>
-
----
-
-<details><summary><h3>Unlocking a Tenet Weapon</h3></summary>
-
-- On creation of a Candidate, they generate a random passphrase of 3 different Requiems
-- Defeating Candidates will reveal the Requiems for their passphrase, but not the order
-- Players must slot the matching Requiem Mods in their Parazon and defeat the candidate until they find the correct order
-  - Always place an Oull requiem mod in the first slot of your paragon, as it acts as a wildcard (Guaranteed success on the first try)
-
-</details>
-
----
-
-<details><summary><h3>Buying a candidate contract</h3></summary>
-
-- You can buy candidate contracts on [Warframe.Market](https://warframe.market/auctions) to skip the candidate farm
-  - Find the candidate you want to buy
-  - Meet the seller in the Crimson Branch room of a Dojo
-  - Complete the trade to activate the candidate
-
-|                           Treasurer                           |                          Zenith Granum Crown                          |                         Granum Void Hand Tribute                          |
-| :-----------------------------------------------------------: | :-------------------------------------------------------------------: | :-----------------------------------------------------------------------: |
-| <img src="./img/warframe/sisters/treasurer.webp" width="100"> | <img src="./img/warframe/sisters/zenithGranumCrown.webp" width="100"> | <img src="./img/warframe/sisters/granumVoidHandTribute.webp" width="100"> |
-
-</details>
+><details><summary><h3>Selecting a Tenet Weapon</h3></summary>
+>
+>- Finish The War Within and Call of the Tempestarii questlines
+>- If you're farming for a specific weapon, choose a Progenitor Warframe based on the table above
+>- Start a Level 20+ Corpus Mission. Hydra Capture on Pluto is popular
+>- Find the Granum Void (Golden Hand) and start a Zenith Crown
+>  - If you don't have a Zenith Crown, wait 3 to 6 minutes for a Treasurer to spawn and kill them to gain one
+>- Complete the Granum Void to spawn a Candidate
+>- When a Candidate is killed they will display a weapon above their head
+>  - If its the weapon you want, hold Q to execute the candidate, complete the mission and extract normally
+>  - If its not the weapon you want, complete the Mission and extract normally to try again
+>
+></details>
+>
+>---
+>
+><details><summary><h3>Unlocking a Tenet Weapon</h3></summary>
+>
+>- On creation of a Candidate, they generate a random passphrase of 3 different Requiems
+>- Defeating Candidates will reveal the Requiems for their passphrase, but not the order
+>- Players must slot the matching Requiem Mods in their Parazon and defeat the candidate until they find the correct order
+>  - Always place an Oull requiem mod in the first slot of your paragon, as it acts as a wildcard (Guaranteed success on the first try)
+>
+></details>
+>
+>---
+>
+><details><summary><h3>Buying a candidate contract</h3></summary>
+>
+>- You can buy candidate contracts on [Warframe.Market](https://warframe.market/auctions) to skip the candidate farm
+>  - Find the candidate you want to buy
+>  - Meet the seller in the Crimson Branch room of a Dojo
+>  - Complete the trade to activate the candidate
+>
+></details>
+>
+>---
+>
+><details><summary><h3>Sisters Of Parvos Images</h3></summary>
+>
+>|                           Treasurer                           |                          Zenith Granum Crown                          |                         Granum Void Hand Tribute                          |
+>| :-----------------------------------------------------------: | :-------------------------------------------------------------------: | :-----------------------------------------------------------------------: |
+>| <img src="./img/warframe/sisters/treasurer.webp" width="100"> | <img src="./img/warframe/sisters/zenithGranumCrown.webp" width="100"> | <img src="./img/warframe/sisters/granumVoidHandTribute.webp" width="100"> |
+>
+></details>
 
 </details>
 

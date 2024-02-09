@@ -16,7 +16,7 @@
 
 <details><summary><h2>Kuva Lich Weapons</h2></summary>
 
-Selecting a Kuva Lich weapon
+<details><summary><h3>Selecting a Kuva Lich weapon</h3></summary>
 
 - Finish The War Within quest to unlock Kuva Liches
 - If you're farming for a specific weapon, choose a Progenitor Warframe based on the table above
@@ -28,7 +28,11 @@ Selecting a Kuva Lich weapon
   - If its the weapon you want, hold Q to execute the Lich, complete the mission and extract normally
   - If its not the weapon you want, complete the Mission and extract normally to try again
 
-Unlocking the Kuva Lich weapon
+</details>
+
+---
+
+<details><summary><h3>Unlocking the Kuva Lich weapon</h3></summary>
 
 - On creation of a Kuva Lich, they generate a random passphrase of 3 different Requiems
 - To spawn the Lich, you'll need to execute thralls in Kuva Lich missions
@@ -47,7 +51,11 @@ Unlocking the Kuva Lich weapon
     - Down the Kuva Lich and execute it
       - You should now have all 3 mods in the correct order
 
-Buying a Kuva Lich contract
+</details>
+
+---
+
+<details><summary><h3>Buying a Kuva Lich contract</h3></summary>
 
 - You can buy Kuva Lich contracts on [Warframe.Market](https://warframe.market/auctions) to skip the Larvaling farm
   - Find the Lich you want to buy
@@ -58,6 +66,10 @@ Buying a Kuva Lich contract
 | :------------------------------------------------------------: | :--------------------------------------------------------------: |
 | <img src="./img/warframe/kuva/maleLarvaling.webp" width="100"> | <img src="./img/warframe/kuva/femaleLarvaling.webp" width="100"> |
 
+
+</details>
+
+---
 
 </details>
 

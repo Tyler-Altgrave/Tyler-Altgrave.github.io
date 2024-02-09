@@ -435,8 +435,11 @@ A permanent upgrade item taken from Archons and used by the Helminth to further 
 
 > <details><summary><h3>Cetus - Plains of Eidolon (Earth)**</h3></summary>
 >  - Hok's Anvil: Hok offers Zaw components, which can be assembled into melee weapons
+> 
 >    - Resources Required: Ostron Standing, plus various resources found in the Plains of Eidolon like Fish Parts, Ores, and Wisps.
+> 
 >  - The Quills: Offers Amp parts used to assemble Amps for your Operator. Each unique Amp configuration contributes to Mastery.
+> 
 >    - Resources Required: Quill Standing, Sentient Cores.
 >
 > </details>

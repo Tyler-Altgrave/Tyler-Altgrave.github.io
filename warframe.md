@@ -285,6 +285,8 @@ Incarnon Genesis
 
 </details>
 
+</details>
+
 <details><summary><h2>Arcon Shards</h2></summary>
 
 A permanent upgrade item taken from Archons and used by the Helminth to further enhance a Warframe

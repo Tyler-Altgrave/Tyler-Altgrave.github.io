@@ -485,3 +485,32 @@ A permanent upgrade item taken from Archons and used by the Helminth to further 
 > </details>
 
 </details>
+
+---
+
+<details><summary><h2>Things To Do Next</h2></summary>
+
+> <details><summary><h3>Craft Crescent Vulpaphyla (Cambion Drift, Deimos)</h2></summary>
+>-  Capture during Vome cycle
+> - Ivara, Preparation, Energy Regen, Energy Nexus, Prowl, Achwing
+> - Equip Tranquilizer, Equip Vulpaphyla Lure, Track On Map
+> - Find start, follow tracks, use lure (no skill check), wait for response, look in direction of sound
+> - Use lure again (skill check), Shoot with Tranquilizer, Capture
+> 
+> </details>
+>
+> <details><summary><h3>Farm Cetus Wisp (Cetus, Earth)</h2></summary>
+>-  Use Loot detector mods
+>-  Fly around the edge of water to find Cetus Wisps
+>-  Fly into the wisp to catch it
+> 
+> </details>
+>
+> <details><summary><h3>Farm Cetus Wisp (Orb Vallis, Venus)</h2></summary>
+>-  Use Loot detector mods
+>-  Fly around the edge of water to find Cetus Wisps
+>-  Fly into the wisp to catch it
+> 
+> </details>
+
+</details>

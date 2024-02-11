@@ -450,7 +450,7 @@
 > > - Start Tracking, Follow Footprints, Find "Call Point"
 > > - Equip Lure, Call To Attract (no skill check), wait for response, face direction of response
 > > - Call again (skill check), Tranq target, Capture
-> >   - To capture a "weakened" version of the target, you need to have an infested enemy attack the target beforte you capture
+> >   - To capture a "weakened" version of the target, you need to have an infested enemy attack the target before you capture
 > >     - option 1: shoot an infested before the target spawns and lead them to the target
 > >     - option 2: tranq the target, then bring infested to the target before you capture
 > >

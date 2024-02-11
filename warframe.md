@@ -528,5 +528,20 @@ A permanent upgrade item taken from Archons and used by the Helminth to further 
 > -  Buy the contract on [Warframe.Market](warframe.market)
 >
 > </details>
+>
+> <details><summary><h3>Farm The Circuit Steel Path For Incarnon Adapters</h2></summary>
+> 
+> </details>
+>
+> <details><summary><h3>Craft Incarnon weapons</h2></summary>
+> 
+> - Buy blueprints on [Warframe.Market](warframe.market)
+> - Farm resources on Zariman
+> 
+> <details><summary><h3>Farm Incarnon weapon Evolutions</h2></summary>
+> 
+> - Complete weapon challenges to unlock the 4 weapon evolutions
+> 
+> </details>
 
 </details>

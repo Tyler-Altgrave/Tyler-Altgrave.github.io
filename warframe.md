@@ -491,6 +491,7 @@ A permanent upgrade item taken from Archons and used by the Helminth to further 
 <details><summary><h2>Things To Do Next</h2></summary>
 
 > <details><summary><h3>Craft Crescent Vulpaphyla (Cambion Drift, Deimos)</h2></summary>
+> 
 > - Capture during Vome cycle
 > - Ivara, Preparation, Energy Regen, Energy Nexus, Prowl, Achwing
 > - Equip Tranquilizer, Equip Vulpaphyla Lure, Track On Map
@@ -500,6 +501,7 @@ A permanent upgrade item taken from Archons and used by the Helminth to further 
 > </details>
 >
 > <details><summary><h3>Farm Cetus Wisp (Cetus, Earth)</h2></summary>
+> 
 > -  Use Loot detector mods
 > -  Fly around the edge of water to find Cetus Wisps
 > -  Fly into the wisp to catch it
@@ -507,6 +509,7 @@ A permanent upgrade item taken from Archons and used by the Helminth to further 
 > </details>
 >
 > <details><summary><h3>Trade Resources For Debt Bonds (Orb Vallis, Venus)</h2></summary>
+> 
 > -  Use Titania farming build
 >   -   Fly around Orb Vallis gathering resources
 >   -   Trade resurces to NPC for Debt Bonds

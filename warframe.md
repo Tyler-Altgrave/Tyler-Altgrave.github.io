@@ -516,5 +516,17 @@ A permanent upgrade item taken from Archons and used by the Helminth to further 
 >   -   Trade debt bonds to other NPC for Standing/Rank
 >
 > </details>
+>
+> <details><summary><h3>Farm All Of The Kuva Weapons</h2></summary>
+> 
+> -  Buy the contract on [Warframe.Market](warframe.market)
+>
+> </details>
+>
+> <details><summary><h3>Farm All Of The Sisters Of Parvos Weapons</h2></summary>
+> 
+> -  Buy the contract on [Warframe.Market](warframe.market)
+>
+> </details>
 
 </details>

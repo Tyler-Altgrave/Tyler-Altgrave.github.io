@@ -547,7 +547,7 @@
 > >
 > > <details><summary><h3>Craft Incarnon weapons</h2></summary>
 > >
-> > - Run Zaramin Bounties ussing loot farming Titania
+> > - Run Zaramin Bounties using loot farming Titania
 > >   - Felarx
 > >   - Innodem
 > >   - Phenmor

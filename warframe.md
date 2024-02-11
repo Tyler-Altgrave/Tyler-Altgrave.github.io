@@ -1,5 +1,3 @@
-<details><summary><h2>index</h2></summary>
-
 ><details><summary><h2>Progenitor Warframe Table</h2></summary>
 >
 >| TYPE                                                                                                                                                                                                                                                  | -                                                                                                                                                                                               | -                                                                                                                                                                                               | -                                                                                                                                                                                                         | -                                                                                                                                                                                                    | -                                                                                                                                                                                                    | -                                                                                                                                                                                               | -                                                                                                                                                                                               | -                                                                                                                                                                                          | -                                                                                                                                                                                          | -   |
@@ -551,5 +549,3 @@
 >> </details>
 >
 ></details>
-
-</details>

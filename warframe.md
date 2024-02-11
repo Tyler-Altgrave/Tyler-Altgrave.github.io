@@ -547,8 +547,11 @@
 > >
 > > <details><summary><h3>Craft Incarnon weapons</h2></summary>
 > >
-> > - Buy blueprints on [Warframe.Market](warframe.market)
-> > - Farm resources on Zariman
+> > - Run Zaramin Bounties ussing loot farming Titania
+> >   - Felarx
+> >   - Innodem
+> >   - Phenmor
+> >   - Praedos
 > >
 > > </details>
 > >

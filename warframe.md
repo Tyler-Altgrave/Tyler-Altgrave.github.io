@@ -441,6 +441,25 @@
 >
 > ---
 >
+> <details><summary><h2>Companion Hunting</h2></summary>
+>
+> > <details><summary><h3>Predasite and Vulpaphyla</h2></summary>
+> >
+> > - Purchase Tranq Rifle, Predasite Lure and Vulpaphyla Lure
+> > - Equip Tranq Rifle, Open Map, Track Target
+> > - Start Tracking, Follow Footprints, Find "Call Point"
+> > - Equip Lure, Call To Attract (no skill check), wait for response, face direction of response
+> > - Call again (skill check), Tranq target, Capture
+> >   - To capture a "weakened" version of the target, you need to have an infested enemy attack the target beforte you capture
+> >     - option 1: shoot an infested before the target spawns and lead them to the target
+> >     - option 2: tranq the target, then bring infested to the target before you capture
+> >
+> > </details>
+>
+> </details>
+>
+> ---
+>
 > <details><summary><h2>Vendor Weapon Mastery</h2></summary>
 >
 > > <details><summary><h3>Cetus - Plains of Eidolon (Earth)</h3></summary>
@@ -505,16 +524,6 @@
 > > - Use Loot detector mods
 > > - Fly around the edge of water to find Cetus Wisps
 > > - Fly into the wisp to catch it
-> >
-> > </details>
-> >
-> > <details><summary><h3>Craft Crescent Vulpaphyla (Cambion Drift, Deimos)</h2></summary>
-> >
-> > - Capture during Vome cycle
-> > - Ivara, Preparation, Energy Regen, Energy Nexus, Prowl, Achwing
-> > - Equip Tranquilizer, Equip Vulpaphyla Lure, Track On Map
-> > - Find start, follow tracks, use lure (no skill check), wait for response, look in direction of sound
-> > - Use lure again (skill check), Shoot with Tranquilizer, Capture
 > >
 > > </details>
 > >

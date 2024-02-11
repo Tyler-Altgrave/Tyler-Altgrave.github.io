@@ -21,12 +21,12 @@
 > > - Finish The War Within quest to unlock Kuva Liches
 > > - If you're farming for a specific weapon, choose a Progenitor Warframe based on the table above
 > > - Start a Level 20+ Grineer Mission. Cassini Capture on Saturn is popular
-> > - The timer starts when the light flicker, this can be immediately on start or during the mission
-> > - On Capture missions, the lights wont flicker until after the mission target has been successfully captured
+> >   - The timer starts when the light flicker, this can be immediately on start or during the mission
+> >     - On Capture missions, the lights wont flicker until after the mission target has been successfully captured
 > > - Kill 10 Grineer within 1 minute to trigger a Kuva Larvaling (Below)
 > > - When a Kuva Larvaling is killed they will display a weapon above their head
-> > - If its the weapon you want, hold Q to execute the Lich, complete the mission and extract normally
-> > - If its not the weapon you want, complete the Mission and extract normally to try again
+> >   - If its the weapon you want, hold Q to execute the Lich, complete the mission and extract normally
+> >   - If its not the weapon you want, complete the Mission and extract normally to try again
 > >
 > > </details>
 > >
@@ -37,7 +37,6 @@
 > > - On creation of a Kuva Lich, they generate a random passphrase of 3 different Requiems
 > > - To spawn the Lich, you'll need to execute thralls in Kuva Lich missions
 > > - Players must slot the matching Requiem Mods in their Parazon and defeat the Lich until they find the correct order
-> > - Always place an Oull requiem mod in the first slot of your paragon, as it acts as a wildcard (Guaranteed success on the first try)
 > > - Start on Earth, select any mission with the Lich icon (higher level)
 > > - Play through the missions, executing thralls along the way to draw out your Kuva Lich
 > > - Once your Kuva Lich has spawned:
@@ -58,9 +57,9 @@
 > > <details><summary><h3>Buying a Kuva Lich contract</h3></summary>
 > >
 > > - You can buy Kuva Lich contracts on [Warframe.Market](https://warframe.market/auctions) to skip the Larvaling farm
-> > - Find the Lich you want to buy
-> > - Meet the seller in the Crimson Branch room of a Dojo
-> > - Complete the trade to activate the Lich
+> >   - Find the Lich you want to buy
+> >   - Meet the seller in the Crimson Branch room of a Dojo
+> >   - Complete the trade to activate the Lich
 > >
 > > </details>
 > >
@@ -86,11 +85,11 @@
 > > - If you're farming for a specific weapon, choose a Progenitor Warframe based on the table above
 > > - Start a Level 20+ Corpus Mission. Hydra Capture on Pluto is popular
 > > - Find the Granum Void (Golden Hand) and start a Zenith Crown
-> > - If you don't have a Zenith Crown, wait 3 to 6 minutes for a Treasurer to spawn and kill them to gain one
+> >   - If you don't have a Zenith Crown, wait 3 to 6 minutes for a Treasurer to spawn and kill them to gain one
 > > - Complete the Granum Void to spawn a Candidate
 > > - When a Candidate is killed they will display a weapon above their head
-> > - If its the weapon you want, hold Q to execute the candidate, complete the mission and extract normally
-> > - If its not the weapon you want, complete the Mission and extract normally to try again
+> >   - If its the weapon you want, hold Q to execute the candidate, complete the mission and extract normally
+> >   - If its not the weapon you want, complete the Mission and extract normally to try again
 > >
 > > </details>
 > >
@@ -98,10 +97,21 @@
 > >
 > > <details><summary><h3>Unlocking a Tenet Weapon</h3></summary>
 > >
-> > - On creation of a Candidate, they generate a random passphrase of 3 different Requiems
-> > - Defeating Candidates will reveal the Requiems for their passphrase, but not the order
-> > - Players must slot the matching Requiem Mods in their Parazon and defeat the candidate until they find the correct order
-> > - Always place an Oull requiem mod in the first slot of your paragon, as it acts as a wildcard (Guaranteed success on the first try)
+> > - On creation of a Sister, they generate a random passphrase of 3 different Requiems
+> > - To spawn the Sister, you'll need to execute hounds in Sister missions
+> > - Players must slot the matching Requiem Mods in their Parazon and defeat the Sister until they find the correct order
+> > - Start on Earth, select any mission with the Sister icon (higher level)
+> > - Play through the missions, executing hounds along the way to draw out your Sister
+> > - Once your Sister has spawned:
+> >   - Down the Sister without executing until you've revealed your first 2 Requiem Murmurs
+> >   - Slot the 2 known murmurs in the first 2 slots and an Oull (wildcard) in the third slot
+> >   - Down the Sister and execute it
+> >     - If the first mod is wrong, swap it with the second slot
+> >     - If the first mod is right and the second mod is wrong, swap the second mod to the third slot
+> >   - Down the Sister and execute it
+> >     - If the first mod is wrong, swap it with the third slot
+> >   - Down the Sister and execute it
+> >     - You should now have all 3 mods in the correct order
 > >
 > > </details>
 > >
@@ -110,9 +120,9 @@
 > > <details><summary><h3>Buying a candidate contract</h3></summary>
 > >
 > > - You can buy candidate contracts on [Warframe.Market](https://warframe.market/auctions) to skip the candidate farm
-> > - Find the candidate you want to buy
-> > - Meet the seller in the Crimson Branch room of a Dojo
-> > - Complete the trade to activate the candidate
+> >   - Find the candidate you want to buy
+> >   - Meet the seller in the Crimson Branch room of a Dojo
+> >   - Complete the trade to activate the candidate
 > >
 > > </details>
 > >
@@ -331,10 +341,10 @@
 > - Netracell is a repeatable mission that can be replayed up to 5 times per week for rewards
 > - Chipper is a merchant that appears in the Drifter Camp after reaching Rank 2 with the Kahl's Garrison Syndicate. Archon Shards become available in their shop after reaching Rank 5 with the Kahl's Garrison syndicate. Cost 90 Stock.
 > - Archon Shards have an 80% chance of being a normal variant and 20% of being Tauforged
-> - Topaz, Violet, and Emerald Archon Shards are only obtainable through Coalescent Fusion
-> - Topaz: Crimson + Amber
-> - Violet: Crimson + Azure
-> - Emerald: Amber + Azure
+>   - Topaz, Violet, and Emerald Archon Shards are only obtainable through Coalescent Fusion
+>     - Topaz: Crimson + Amber
+>     - Violet: Crimson + Azure
+>     - Emerald: Amber + Azure
 >
 > </details>
 >
@@ -345,9 +355,9 @@
 > - Subsume Nova's Null Star ability onto Titania
 > - Equip the Neutron Star augment mod (this is how we break boxes)
 > - Build for +Range and Efficiency
-> - 175 Efficiency
-> - 265 Range (Companion Vacuum is 11.5M, Neutron Star is 21.2M)
-> - 70% Strength (Needed to break boxes in a single cast)
+>   - 175 Efficiency
+>   - 265 Range (Companion Vacuum is 11.5M, Neutron Star is 21.2M)
+>   - 70% Strength (Needed to break boxes in a single cast)
 > - Use Razorwing to keep moving while you cast Null Star to break boxes
 >   <img src="./img/warframe/builds/titaniaNeutronStar.jpeg" width="100%">
 >

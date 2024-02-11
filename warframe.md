@@ -537,6 +537,8 @@ A permanent upgrade item taken from Archons and used by the Helminth to further 
 > 
 > - Buy blueprints on [Warframe.Market](warframe.market)
 > - Farm resources on Zariman
+>
+> </details>
 > 
 > <details><summary><h3>Farm Incarnon weapon Evolutions</h2></summary>
 > 

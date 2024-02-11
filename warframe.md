@@ -1,3 +1,5 @@
+<details><summary><h2>index</h2></summary>
+
 <details><summary><h2>Progenitor Warframe Table</h2></summary>
 
 | TYPE                                                                                                                                                                                                                                                  | -                                                                                                                                                                                               | -                                                                                                                                                                                               | -                                                                                                                                                                                                         | -                                                                                                                                                                                                    | -                                                                                                                                                                                                    | -                                                                                                                                                                                               | -                                                                                                                                                                                               | -                                                                                                                                                                                          | -                                                                                                                                                                                          | -   |
@@ -547,5 +549,7 @@ A permanent upgrade item taken from Archons and used by the Helminth to further 
 > - Complete weapon challenges to unlock the 4 weapon evolutions
 >
 > </details>
+
+</details>
 
 </details>

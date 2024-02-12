@@ -569,5 +569,13 @@
 > > - Complete weapon challenges to unlock the 4 weapon evolutions
 > >
 > > </details>
+> >
+> > <details><summary><h3>Unlock Arcon Shard Fusion</h2></summary>
+> >
+> > - Complete bounties for Fibonacci
+> >     - Use Titania to farm resources during
+> > - Trade 30,000 standing for Helminth Coalescent Segment blueprint
+> >
+> > </details>
 >
 > </details>

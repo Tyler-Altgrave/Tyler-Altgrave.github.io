@@ -522,9 +522,9 @@
 > > <details><summary><h3>Dailies Summary (Sorted)</h2></summary>
 > >
 > > - Farm Resources, Trade Ticker For Debt Bonds (Orb Vallis, Venus)
-> > - Farm Resources, Trade Grandmother For Son Tokens (Necralisk, Deimos)
-> > - Farm Species Tags, Trade Son For Son Tokens (Necralisk, Deimos)
-> >   - Trade Son For Companion Guilding (Necralisk, Deimos)
+> > - Trade Son For Companion Guilding (Necralisk, Deimos)
+> >   - Farm Resources, Trade Grandmother For Son Tokens (Necralisk, Deimos)
+> >   - Farm Species Tags, Trade Son For Son Tokens (Necralisk, Deimos)
 > > - Farm Resources, Build Incarnon Weapons (Zariman)
 > >
 > > </details>

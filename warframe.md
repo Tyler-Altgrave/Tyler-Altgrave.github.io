@@ -567,15 +567,8 @@
 > > <details><summary><h3>Farm Incarnon weapon Evolutions</h2></summary>
 > >
 > > - Complete weapon challenges to unlock the 4 weapon evolutions
+> > - Laetum
 > >
 > > </details>
-> >
-> > <details><summary><h3>Unlock Arcon Shard Fusion</h2></summary>
-> >
-> > - Complete bounties for Fibonacci
-> >     - Use Titania to farm resources during
-> > - Trade 30,000 standing for Helminth Coalescent Segment blueprint
-> >
-> > </details>
->
+>>
 > </details>

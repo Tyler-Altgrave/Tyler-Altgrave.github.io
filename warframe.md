@@ -519,6 +519,15 @@
 >
 > <details><summary><h2>Things To Do Next</h2></summary>
 >
+> > <details><summary><h3>Dailies Summary (Sorted)</h2></summary>
+> >
+> > - Farm Resources, Trade Ticker For Debt Bonds (Orb Vallis, Venus)
+> > - Farm Resources, Trade Son For Son Tokens (Necralisk, Deimos)
+> >   - Trade Son For Companion Guilding (Necralisk, Deimos)
+> > - Farm Resources, Build Incarnon Weapons (Zariman)
+> >
+> > </details>
+> >
 > > <details><summary><h3>Farm Cetus Wisp (Cetus, Earth)</h2></summary>
 > >
 > > - Use Loot detector mods
@@ -540,6 +549,11 @@
 > >
 > > - After reaching R30 on a companion, return to Son in Deimos
 > > - Exchange 10 Son Tokens to Gild the R30 companion
+> > - There are currently 4 ways of obtaining Son Tokens:
+> >   - Finding them in the Cambion Drift
+> >   - Trading Tags with Son under the Capture Deimos Wildlife option
+> >   - Donating a Maxed or Gilded Predasites and Vulpaphyla companion
+> >   - Trading random assortment of Cambion Drift resources under the Mend the Family option with Grandmother
 > > - Level the companion back to R30 again to gain Mastery
 > >
 > > </details>
@@ -578,5 +592,5 @@
 > > - Laetum
 > >
 > > </details>
->>
+>
 > </details>

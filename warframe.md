@@ -536,6 +536,14 @@
 > >
 > > </details>
 > >
+> > <details><summary><h3>Trade Son Tokens To Guild Companions For Mastery Rank (Deimos)</h2></summary>
+> >
+> > - After reaching R30 on a companion, return to Son in Deimos
+> > - Exchange 10 Son Tokens to Gild the R30 companion
+> > - Level the companion back to R30 again to gain Mastery
+> >
+> > </details>
+> >
 > > <details><summary><h3>Farm All Of The Kuva Weapons</h2></summary>
 > >
 > > - Buy the contract on [Warframe.Market](warframe.market)

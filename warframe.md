@@ -521,7 +521,7 @@
 >
 > > <details><summary><h3>Dailies Summary (Sorted)</h2></summary>
 > >
-> > - Trade Eudico For Syndicate Standing/Rank (Orb Vallis, Venus)
+> > - Trade Eudico For Syndicate Standing/Rank (Fortuna, Venus)
 > >   - Passive Gain From Bounties
 > >   - Farm Resources, Trade Ticker For Debt Bonds
 > > - Trade Son For Companion Guilding (Necralisk, Deimos)

@@ -416,14 +416,21 @@
 >
 > > <details><summary><h3>The Ropalolyst, Jupiter</h2></summary>
 > >
-> > - Shoot The Ropalolyst with your Operator Amp to break its blue shield
-> > - Stand behind one of the 3 towers to have The Ropalolyst charge them with a beam 
-> > - After the tower is charged, wait for The Ropalolyst to cast its beam again
-> > - Jump to The Ropalolyst as your Warframe and press X to grab on (extremely buggy/inconsistent)
-> > - Fly The Ropalolyst into the tower to shock it
-> > - Shoot the weak spots on The Ropalolyst's back with your Operator Amp to break its yellow healthbar
-> > - Use the terminal to call in a beam strike while The Ropalolyst is vulnerable
-> > - Repeat 3 times
+> > - Phase 1 
+> >     - Shoot The Ropalolyst with your Operator Amp to break its blue shield
+> >     - Stand behind one of the 3 towers to have The Ropalolyst shoot them with its beam
+> >     - After the tower is charged, wait for The Ropalolyst to start casting its beam again
+> >     - As soon as the beam build up sound starts, jump to The Ropalolyst as your Warframe and press X to grab on (extremely buggy/inconsistent)
+> >     - Fly The Ropalolyst into the tower to shock it
+> > - Phase 2
+> >     - Shoot the weak spots on The Ropalolyst's back to break its yellow healthbar
+> >     - When the shield breaks and you hear the audio queue, use the terminal to call in a beam strike while The Ropalolyst is vulnerable
+> > - Phase 3
+> >     - After you Fly The Ropalolyst into the third tower
+> >         - Shoot The Ropalolyst to break its yellow healthbar
+> >         - When the shield breaks, call in a beam strike one last time
+> > - Extract
+> 
 > >
 > > </details>
 > 

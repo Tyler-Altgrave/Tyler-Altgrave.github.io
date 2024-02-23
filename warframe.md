@@ -414,7 +414,10 @@
 >
 > <details><summary><h2>Farming Amalgam Mods</h2></summary>
 >
-> - Zariman, Tuvul Commons, Void Cascade Mission Type
+> > <details><summary><h3>The Ropalolyst, Jupiter</h2></summary>
+> >
+> > </details>
+> 
 > 
 > </details>
 >

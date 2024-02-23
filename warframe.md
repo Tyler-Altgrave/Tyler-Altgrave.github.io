@@ -412,6 +412,14 @@
 >
 > ---
 >
+> <details><summary><h2>Farming Amalgam Mods</h2></summary>
+>
+> - Zariman, Tuvul Commons, Void Cascade Mission Type
+> 
+> </details>
+>
+> ---
+>
 > <details><summary><h2>Kahl Garrison Missions</h2></summary>
 >
 > > <details><summary><h3>Sneaky Sabotage Speedrun</h2></summary>

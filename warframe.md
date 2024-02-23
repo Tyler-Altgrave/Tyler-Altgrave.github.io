@@ -424,7 +424,7 @@
 > > - Shoot the weak spots on The Ropalolyst's back with your Operator Amp to break its yellow healthbar
 > > - Use the terminal to call in a beam strike while The Ropalolyst is vulnerable
 > > - Repeat 3 times
-> 
+> >
 > > </details>
 > 
 > 

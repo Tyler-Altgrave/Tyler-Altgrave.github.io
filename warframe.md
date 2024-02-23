@@ -416,6 +416,15 @@
 >
 > > <details><summary><h3>The Ropalolyst, Jupiter</h2></summary>
 > >
+> > - Shoot The Ropalolyst with your Operator Amp to break its blue shield
+> > - Stand behind one of the 3 towers to have The Ropalolyst charge them with a beam 
+> > - After the tower is charged, wait for The Ropalolyst to cast its beam again
+> > - Jump to The Ropalolyst as your Warframe and press X to grab on
+> > - Fly The Ropalolyst into the tower to shock it
+> > - Shoot the weak spots on The Ropalolyst's back with your Operator Amp to break its yellow healthbar
+> > - Use the terminal to call in a beam strike while The Ropalolyst is vulnerable
+> > - Repeat 3 times
+> 
 > > </details>
 > 
 > 

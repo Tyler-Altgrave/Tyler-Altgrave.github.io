@@ -551,10 +551,6 @@
 > > - Trade Eudico For Syndicate Standing/Rank (Fortuna, Venus)
 > >   - Passive Gain From Bounties
 > >   - Farm Resources, Trade Ticker For Debt Bonds
-> > - Trade Son For Companion Guilding (Necralisk, Deimos)
-> >   - Passive Gain From Bounties
-> >   - Farm Resources, Trade Grandmother For Son Tokens (Necralisk, Deimos)
-> >   - Farm Species Tags, Trade Son For Son Tokens (Necralisk, Deimos)
 > > - Farm Resources, Build Incarnon Weapons (Zariman)
 > >
 > > </details>
@@ -573,19 +569,6 @@
 > >   - Fly around Orb Vallis gathering resources
 > >   - Trade resurces to NPC for Debt Bonds
 > >   - Trade debt bonds to other NPC for Standing/Rank
-> >
-> > </details>
-> >
-> > <details><summary><h3>Trade Son Tokens To Guild Companions For Mastery Rank (Deimos)</h2></summary>
-> >
-> > - After reaching R30 on a companion, return to Son in Deimos
-> > - Exchange 10 Son Tokens to Gild the R30 companion
-> > - There are currently 4 ways of obtaining Son Tokens:
-> >   - Finding them in the Cambion Drift
-> >   - Trading Tags with Son under the Capture Deimos Wildlife option
-> >   - Donating a Maxed or Gilded Predasites and Vulpaphyla companion
-> >   - Trading random assortment of Cambion Drift resources under the Mend the Family option with Grandmother
-> > - Level the companion back to R30 again to gain Mastery
 > >
 > > </details>
 > >

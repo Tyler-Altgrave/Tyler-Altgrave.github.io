@@ -430,7 +430,7 @@
 > >         - Shoot The Ropalolyst to break its yellow healthbar
 > >         - When the shield breaks, call in a beam strike one last time
 > > - Extract
-> 
+> >
 > >
 > > </details>
 > 

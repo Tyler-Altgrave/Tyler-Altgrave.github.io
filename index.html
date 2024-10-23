@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Weapon Roulette</title>
+    <style>
+      body {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        background: #111;
+        color: #f1f2f3;
+      }
+    </style>
+  </head>
+  <body>
+    <h1 id="weapon"></h1>
+    <script>
+      const weapons = [
+        "Assault Rifle ",
+        "Submachine Gun",
+        "Light Machine Gun",
+        "Sniper Rifle",
+        "Marksman Rifle",
+        "Pump Shotgun",
+        "Semi-Auto Shotgun",
+        "Battle Rifle",
+        "Semi-Auto Handgun/Pistol",
+        "Revolver",
+        "Rocket Launcher",
+        "Melee Weapon",
+        "Frag Grenades",
+      ];
+      document.getElementById("weapon").textContent =
+        weapons[new Date().getMinutes() % 10];
+    </script>
+  </body>
+</html>
